@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>新闻电报 · SG News Wire</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+  :root{
+    --board:#15171B;
+    --board-2:#1B1E23;
+    --flap:#1F2329;
+    --flap-hi:#262B32;
+    --divider:#32363D;
+    --flap-text:#EFEBE0;
+    --flap-text-dim:#8B8F97;
+    --amber:#E5A438;
+    --amber-dim:#8A6A2C;
+    --zaobao:#D1495B;
+    --eightworld:#4FA8A0;
+    --paper:#F7F4EC;
+    --paper-2:#EFEADC;
+    --ink:#1C1B18;
+    --ink-soft:#6B6559;
+    --rule:#D9D2BE;
+    --focus:#E5A438;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{height:100%;}
+  body{
+    margin:0;
+    background:var(--board);
+    color:var(--flap-text);
+    font-family:'Noto Sans SC', sans-serif;
+    display:flex;
+    flex-direction:column;
+    min-height:100vh;
+  }
+
+  /* ---------- Masthead ---------- */
+  .masthead{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:16px;
+    padding:18px 24px;
+    background:var(--board-2);
+    border-bottom:1px solid var(--divider);
+    flex-wrap:wrap;
+  }
+  .masthead h1{
+    font-family:'Noto Serif SC', serif;
+    font-weight:700;
+    font-size:22px;
+    letter-spacing:1px;
+    margin:0;
+    color:var(--flap-text);
+  }
+  .masthead h1 .sub{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    font-weight:500;
+    color:var(--amber);
+    letter-spacing:2px;
+    display:block;
+    margin-top:2px;
+  }
+  .masthead-controls{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    flex-wrap:wrap;
+  }
+  .clock{
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px;
+    color:var(--flap-text-dim);
+    border:1px solid var(--divider);
+    border-radius:3px;
+    padding:6px 10px;
+    background:var(--flap);
+  }
+  .file-btn{
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px;
+    color:var(--board);
+    background:var(--amber);
+    border:none;
+    border-radius:3px;
+    padding:7px 12px;
+    cursor:pointer;
+    font-weight:700;
+    letter-spacing:.5px;
+  }
+  .file-btn:hover{ filter:brightness(1.08); }
+  .file-btn.secondary{
+    background:transparent;
+    color:var(--flap-text-dim);
+    border:1px solid var(--divider);
+    font-weight:500;
+  }
+  #fileInput{ display:none; }
+
+  /* ---------- Layout ---------- */
+  .wrap{
+    flex:1;
+    display:flex;
+    min-height:0;
+  }
+  .board-col{
+    width:33.333%;
+    min-width:320px;
+    background:var(--board);
+    border-right:1px solid var(--divider);
+    display:flex;
+    flex-direction:column;
+    min-height:0;
+  }
+  .reader-col{
+    width:66.666%;
+    background:
+      linear-gradient(var(--paper), var(--paper)) ;
+    display:flex;
+    flex-direction:column;
+    min-height:0;
+  }
+
+  /* ---------- Filter chips ---------- */
+  .filters{
+    padding:12px 16px;
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+    border-bottom:1px solid var(--divider);
+    background:var(--board-2);
+  }
+  .chip{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    padding:5px 10px;
+    border-radius:20px;
+    border:1px solid var(--divider);
+    color:var(--flap-text-dim);
+    background:var(--flap);
+    cursor:pointer;
+    user-select:none;
+    letter-spacing:.3px;
+  }
+  .chip.active{
+    color:var(--board);
+    background:var(--amber);
+    border-color:var(--amber);
+    font-weight:700;
+  }
+  .chip .n{ opacity:.7; margin-left:4px; }
+
+  /* ---------- Ticker list ---------- */
+  .ticker{
+    flex:1;
+    overflow-y:auto;
+    padding:6px 0 40px;
+    scroll-behavior:smooth;
+    -webkit-overflow-scrolling:touch;
+    overscroll-behavior:contain;
+  }
+  .empty-state{
+    padding:40px 24px;
+    color:var(--flap-text-dim);
+    font-size:13px;
+    line-height:1.9;
+  }
+  .empty-state b{ color:var(--flap-text); }
+  .empty-state code{
+    font-family:'JetBrains Mono', monospace;
+    background:var(--flap);
+    padding:1px 6px;
+    border-radius:3px;
+    font-size:12px;
+  }
+
+  .row{
+    display:flex;
+    align-items:flex-start;
+    gap:10px;
+    padding:11px 16px;
+    border-bottom:1px solid var(--divider);
+    cursor:pointer;
+    position:relative;
+    transition:background .12s ease;
+  }
+  .row:hover{ background:var(--flap); }
+  .row.selected{
+    background:var(--flap-hi);
+    box-shadow: inset 3px 0 0 var(--amber);
+  }
+  .row .src-dot{
+    width:8px; height:8px; border-radius:50%;
+    margin-top:6px;
+    flex-shrink:0;
+  }
+  .row .src-dot.zaobao{ background:var(--zaobao); }
+  .row .src-dot.eightworld{ background:var(--eightworld); }
+
+  .row .meta{
+    flex:1;
+    min-width:0;
+  }
+  .row .meta-line{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-family:'JetBrains Mono', monospace;
+    font-size:10.5px;
+    color:var(--flap-text-dim);
+    margin-bottom:4px;
+  }
+  .row .meta-line .time{ color:var(--amber); }
+  .row .meta-line .section-tag{
+    text-transform:none;
+    padding:1px 6px;
+    border:1px solid var(--divider);
+    border-radius:3px;
+  }
+  .row .title{
+    font-family:'Noto Sans SC', sans-serif;
+    font-size:13.5px;
+    line-height:1.55;
+    color:var(--flap-text);
+    font-weight:500;
+  }
+  .row.selected .title{ color:#fff; }
+  .row .checkmark{
+    width:16px; height:16px;
+    border:1px solid var(--divider);
+    border-radius:3px;
+    flex-shrink:0;
+    margin-top:2px;
+    display:flex;align-items:center;justify-content:center;
+    font-size:11px;
+    color:transparent;
+  }
+  .row.selected .checkmark{
+    background:var(--amber);
+    border-color:var(--amber);
+    color:var(--board);
+    font-weight:700;
+  }
+
+  /* ---------- Reader column ---------- */
+  .reader-toolbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    padding:14px 22px;
+    border-bottom:1px solid var(--rule);
+    background:var(--paper-2);
+    flex-wrap:wrap;
+  }
+  .reader-toolbar .label{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+    letter-spacing:1px;
+  }
+  .stepper{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-radius:4px;
+    padding:2px 4px;
+  }
+  .stepper button{
+    width:22px;height:22px;
+    border:none;background:transparent;
+    color:var(--ink);
+    font-size:14px;
+    cursor:pointer;
+    border-radius:3px;
+    line-height:1;
+  }
+  .stepper button:hover{ background:var(--rule); }
+  .stepper .val{
+    font-family:'JetBrains Mono', monospace;
+    font-size:13px;
+    width:20px;
+    text-align:center;
+    color:var(--ink);
+    font-weight:700;
+  }
+
+  .reader-body{
+    flex:1;
+    overflow-y:auto;
+    padding:24px;
+    display:flex;
+    flex-direction:column;
+    gap:22px;
+    scroll-behavior:smooth;
+    -webkit-overflow-scrolling:touch;
+    overscroll-behavior:contain;
+  }
+  .reader-empty{
+    color:var(--ink-soft);
+    font-size:13px;
+    padding:60px 20px;
+    text-align:center;
+    line-height:2;
+  }
+
+  .slip{
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-radius:2px;
+    box-shadow:0 2px 10px rgba(0,0,0,.15);
+    position:relative;
+  }
+  .slip-torn{
+    height:6px;
+    background:
+      linear-gradient(115deg, transparent 49%, var(--paper) 50%) 0 0/10px 12px repeat-x,
+      var(--board);
+    border-radius:2px 2px 0 0;
+  }
+  .slip-head{
+    padding:16px 20px 10px;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:12px;
+    border-bottom:1px dashed var(--rule);
+  }
+  .drag-handle{
+    cursor:grab;
+    color:var(--ink-soft);
+    font-size:16px;
+    line-height:1;
+    padding:4px 2px;
+    flex-shrink:0;
+    user-select:none;
+  }
+  .drag-handle:active{ cursor:grabbing; }
+  .slip.dragging{ opacity:.4; }
+  .slip.drag-over{ box-shadow:0 0 0 2px var(--amber), 0 2px 10px rgba(0,0,0,.15); }
+  .move-btns{
+    display:flex;
+    gap:3px;
+  }
+  .move-btn{
+    width:22px; height:20px;
+    border:1px solid var(--rule);
+    background:var(--paper);
+    color:var(--ink-soft);
+    border-radius:3px;
+    cursor:pointer;
+    font-size:10px;
+    line-height:1;
+  }
+  .move-btn:hover:not(:disabled){ color:var(--ink); border-color:var(--ink-soft); }
+  .move-btn:disabled{ opacity:.3; cursor:default; }
+  .slip-head .src-badge{
+    font-family:'JetBrains Mono', monospace;
+    font-size:10px;
+    font-weight:700;
+    letter-spacing:1px;
+    padding:2px 8px;
+    border-radius:3px;
+    color:#fff;
+    display:inline-block;
+    margin-bottom:6px;
+  }
+  .src-badge.zaobao{ background:var(--zaobao); }
+  .src-badge.eightworld{ background:var(--eightworld); }
+  .slip-head h2{
+    font-family:'Noto Serif SC', serif;
+    font-size:18px;
+    font-weight:700;
+    color:var(--ink);
+    margin:0 0 4px;
+    line-height:1.45;
+  }
+  .slip-head .subline{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+  }
+  .slip-head .subline a{ color:var(--ink-soft); }
+  .slip-actions{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+    gap:8px;
+    flex-shrink:0;
+  }
+  .remove-btn{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    background:transparent;
+    border:1px solid var(--rule);
+    border-radius:3px;
+    padding:4px 9px;
+    cursor:pointer;
+  }
+  .remove-btn:hover{ color:var(--zaobao); border-color:var(--zaobao); }
+
+  .slip-para-count{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    font-family:'JetBrains Mono', monospace;
+    font-size:10.5px;
+    color:var(--ink-soft);
+  }
+
+  .slip-body{
+    padding:16px 20px 20px;
+    font-family:'Noto Serif SC', serif;
+    font-size:15px;
+    line-height:1.95;
+    color:var(--ink);
+  }
+  .slip-body[contenteditable="true"]{ outline:none; }
+  .slip-body[contenteditable="true"]:focus{
+    box-shadow: inset 0 0 0 2px var(--focus);
+    border-radius:3px;
+  }
+  .slip-body p{ margin:0 0 14px; }
+  .slip-body p:last-child{ margin-bottom:0; }
+  .slip-foot{
+    padding:8px 20px 14px;
+    font-family:'JetBrains Mono', monospace;
+    font-size:10px;
+    color:var(--ink-soft);
+    display:flex;
+    justify-content:space-between;
+  }
+
+  .available-hint{
+    color:#b08a2e;
+  }
+
+  ::-webkit-scrollbar{ width:9px; }
+  ::-webkit-scrollbar-track{ background:transparent; }
+  ::-webkit-scrollbar-thumb{ background:var(--divider); border-radius:5px; }
+  .reader-body::-webkit-scrollbar-thumb{ background:var(--rule); }
+
+  @media (max-width: 860px){
+    .wrap{ flex-direction:column; }
+    .board-col, .reader-col{ width:100%; }
+    .board-col{ max-height:45vh; }
+  }
+</style>
+<style>
+  .file-btn:disabled{ opacity:.55; cursor:default; filter:none; }
+  .clock.ok{ color:var(--flap-text); }
+  .clock.warn{ color:var(--amber); border-color:var(--amber-dim); }
+  .clock.err{ color:#ff8b8b; border-color:#7a3a3a; }
+  .link-btn{
+    font-family:'JetBrains Mono', monospace; font-size:11px;
+    background:none; border:none; color:var(--flap-text-dim);
+    text-decoration:underline; cursor:pointer; padding:0 4px;
+  }
+  .banner{
+    display:none; padding:9px 16px; font-size:12.5px;
+    background:#3a2e14; color:#f3d79b; border-bottom:1px solid var(--amber-dim);
+    cursor:pointer;
+  }
+  .banner.show{ display:block; }
+  .banner.warn{ background:#3a1f1f; color:#f3b7b7; border-color:#7a3a3a; cursor:default; }
+  .search{
+    width:100%; margin:0 16px 10px; width:calc(100% - 32px);
+    background:var(--flap); border:1px solid var(--divider); border-radius:4px;
+    color:var(--flap-text); font:13px 'Noto Sans SC',sans-serif; padding:7px 10px;
+  }
+  .search:focus{ outline:none; border-color:var(--amber); }
+  .filters-wrap{ background:var(--board-2); border-bottom:1px solid var(--divider); }
+  .filters-wrap .filters{ border-bottom:none; }
+  .src-filters{ padding:0 16px 10px; display:flex; gap:8px; }
+  .chip.src.zaobao.active{ background:var(--zaobao); border-color:var(--zaobao); color:#fff; }
+  .chip.src.eightworld.active{ background:var(--eightworld); border-color:var(--eightworld); color:#fff; }
+  .toolbar-right{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+  .copy-btn{
+    font-family:'JetBrains Mono', monospace; font-size:12px; font-weight:700;
+    background:var(--ink); color:var(--paper); border:none; border-radius:3px;
+    padding:7px 12px; cursor:pointer;
+  }
+  .copy-btn:disabled{ opacity:.35; cursor:default; }
+  .copy-opt{ font-size:11px; color:var(--ink-soft); display:flex; align-items:center; gap:4px; cursor:pointer; }
+  .loading{ padding:40px 24px; color:var(--flap-text-dim); font-size:13px; }
+  .toast{
+    position:fixed; left:50%; bottom:24px; transform:translateX(-50%) translateY(20px);
+    background:var(--ink); color:var(--paper); padding:10px 16px; border-radius:6px;
+    font-size:13px; opacity:0; pointer-events:none; transition:all .2s ease; z-index:10;
+  }
+  .toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
+  @media (max-width: 860px){
+    .masthead{ padding:14px 16px; }
+    .reader-body{ padding:16px; }
+    .slip-head{ flex-wrap:wrap; }
+    .slip-actions{ flex-direction:row; flex-wrap:wrap; align-items:center; width:100%; justify-content:flex-end; }
+  }
+</style>
+</head>
+<body>
+
+  <div class="masthead">
+    <h1>新闻电报<span class="sub">SG NEWS WIRE · 早报 + 8world REALTIME</span></h1>
+    <div class="masthead-controls">
+      <span class="clock" id="statusText">正在载入最新新闻…</span>
+      <button class="file-btn" id="refreshBtn">↻ 刷新</button>
+      <button class="file-btn secondary" id="clearBtn">清空选择</button>
+      <button class="link-btn" id="loadBtn" title="离线时可手动载入 news.json 文件">载入本地文件</button>
+      <input type="file" id="fileInput" accept="application/json,.json">
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="board-col">
+      <div class="banner" id="newBanner">有更新的新闻 · 点击这里载入（已选新闻会保留）</div>
+      <div class="banner warn" id="warnBanner"></div>
+      <div class="filters-wrap">
+        <div class="filters" id="filters"></div>
+        <div class="src-filters" id="srcFilters"></div>
+        <input class="search" id="search" type="search" placeholder="搜索标题…">
+      </div>
+      <div class="ticker" id="ticker">
+        <div class="loading">正在载入最新新闻…</div>
+      </div>
+    </div>
+
+    <div class="reader-col">
+      <div class="reader-toolbar">
+        <div class="toolbar-right">
+          <span class="label">默认段落数</span>
+          <div class="stepper" id="defaultStepper">
+            <button data-d="-1">−</button>
+            <span class="val" id="defaultVal">3</span>
+            <button data-d="1">+</button>
+          </div>
+        </div>
+        <div class="toolbar-right">
+          <label class="copy-opt"><input type="checkbox" id="withSource" checked> 附来源</label>
+          <button class="copy-btn" id="copyBtn" disabled>复制报告</button>
+        </div>
+      </div>
+      <div class="reader-body" id="readerBody">
+        <div class="reader-empty">在左侧点击新闻标题，选中的新闻全文将显示在这里。<br>排好顺序后，点击右上角「复制报告」即可粘贴到 Word、微信或邮件。</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+<script>
+(function(){
+  const DATA_URL = 'news.json';
+  const CHECK_EVERY_MS = 5 * 60 * 1000;   // look for newer news every 5 minutes
+  const STALE_AFTER_MIN = 120;             // warn if the data is older than this
+
+  let articles = [];
+  let generatedAt = null;
+  let activeSections = new Set();
+  let activeSources = new Set();
+  let query = '';
+  let selected = new Map();   // id -> { article, paraCount, editedHtml }
+  let order = [];
+  let defaultParaCount = 3;
+  let draggedId = null;
+  let pendingData = null;
+
+  const $ = id => document.getElementById(id);
+  const ticker = $('ticker'), filtersEl = $('filters'), srcFiltersEl = $('srcFilters');
+  const readerBody = $('readerBody'), statusText = $('statusText');
+  const refreshBtn = $('refreshBtn'), copyBtn = $('copyBtn');
+  const newBanner = $('newBanner'), warnBanner = $('warnBanner');
+
+  try { const v = parseInt(localStorage.getItem('defaultParaCount'), 10); if (v > 0) defaultParaCount = v; } catch(e){}
+  $('defaultVal').textContent = defaultParaCount;
+
+  // ---------------- loading ----------------
+  async function fetchData(){
+    const res = await fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return res.json();
+  }
+
+  async function loadLatest(){
+    refreshBtn.disabled = true;
+    refreshBtn.textContent = '↻ 载入中…';
+    try {
+      applyData(await fetchData(), null);
+    } catch (err) {
+      if (articles.length === 0) {
+        ticker.innerHTML = `<div class="empty-state"><b>暂时无法载入新闻。</b><br><br>
+          请检查网络后点击「刷新」。<br>
+          ${location.protocol === 'file:' ? '（你是直接打开本地文件的，请改用网站链接，或点「载入本地文件」选择 news.json。）' : ''}</div>`;
+      }
+      setStatus('载入失败 · 点击刷新重试', 'err');
+    } finally {
+      refreshBtn.disabled = false;
+      refreshBtn.textContent = '↻ 刷新';
+    }
+  }
+
+  async function checkForUpdate(){
+    if (document.hidden) return;
+    try {
+      const data = await fetchData();
+      if (data && data.generated_at && data.generated_at !== generatedAt) {
+        pendingData = data;
+        newBanner.classList.add('show');
+      }
+    } catch(e){}
+    updateStatus();
+  }
+
+  function applyData(data, fileName){
+    const list = Array.isArray(data) ? data : (data.articles || []);
+    generatedAt = Array.isArray(data) ? null : (data.generated_at || null);
+
+    articles = list.map((a, i) => ({
+      id: a.id || a.url || ('item-' + i),
+      source: a.source || 'unknown',
+      section: a.section || '未分类',
+      time: a.time || '',
+      title: a.title || '(无标题)',
+      url: a.url || '',
+      paragraphs: Array.isArray(a.paragraphs) ? a.paragraphs : [],
+      _ts: parseTime(a.sort_time) ?? parseTime(a.time)
+    }));
+    articles.sort((x, y) => {
+      if (x._ts === null && y._ts === null) return 0;
+      if (x._ts === null) return 1;
+      if (y._ts === null) return -1;
+      return y._ts - x._ts;
+    });
+
+    // keep the user's picks if those stories are still in the new data
+    const byId = new Map(articles.map(a => [a.id, a]));
+    for (const [id, entry] of selected) {
+      if (byId.has(id)) entry.article = byId.get(id);
+    }
+
+    // warn about sources that failed on the last update
+    const failed = Object.entries((data && data.sources) || {})
+      .filter(([, s]) => s && s.ok === false).map(([n]) => sourceLabel(n));
+    warnBanner.textContent = failed.length
+      ? `${failed.join('、')} 最近一次更新失败，显示的是之前的新闻。` : '';
+    warnBanner.classList.toggle('show', failed.length > 0);
+
+    pendingData = null;
+    newBanner.classList.remove('show');
+    statusFile = fileName;
+    renderFilters(); renderTicker(); renderReader(); updateStatus();
+  }
+
+  let statusFile = null;
+  function updateStatus(){
+    if (statusFile) { setStatus(`${articles.length} 条新闻 · ${statusFile}`, 'ok'); return; }
+    if (!generatedAt) { setStatus(`${articles.length} 条新闻`, 'ok'); return; }
+    const mins = Math.max(0, Math.round((Date.now() - Date.parse(generatedAt)) / 60000));
+    const ago = mins < 1 ? '刚刚' : mins < 60 ? `${mins} 分钟前` : mins < 2880 ? `${Math.floor(mins/60)} 小时前` : `${Math.floor(mins/1440)} 天前`;
+    setStatus(`${articles.length} 条新闻 · ${ago}更新`, mins > STALE_AFTER_MIN ? 'warn' : 'ok');
+  }
+  function setStatus(text, kind){
+    statusText.textContent = text;
+    statusText.className = 'clock ' + (kind || '');
+  }
+
+  function parseTime(t){
+    if (!t) return null;
+    const d = Date.parse(t);
+    return isNaN(d) ? null : d;
+  }
+
+  const sgParts = ts => Object.fromEntries(new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'Asia/Singapore', year: 'numeric', month: 'numeric', day: 'numeric',
+    hour: '2-digit', minute: '2-digit', hour12: false
+  }).formatToParts(new Date(ts)).map(p => [p.type, p.value]));
+
+  function displayTime(a){
+    if (a._ts === null) return a.time || '--:--';
+    const p = sgParts(a._ts), now = sgParts(Date.now());
+    const hm = `${p.hour}:${p.minute}`;
+    const sameDay = p.year === now.year && p.month === now.month && p.day === now.day;
+    return sameDay ? hm : `${p.month}月${p.day}日 ${hm}`;
+  }
+
+  // ---------------- controls ----------------
+  refreshBtn.addEventListener('click', () => { statusFile = null; loadLatest(); });
+  newBanner.addEventListener('click', () => { if (pendingData) applyData(pendingData, null); });
+  $('clearBtn').addEventListener('click', () => { selected.clear(); order = []; renderTicker(); renderReader(); });
+  $('search').addEventListener('input', e => { query = e.target.value.trim().toLowerCase(); renderTicker(); });
+  $('loadBtn').addEventListener('click', () => $('fileInput').click());
+  $('fileInput').addEventListener('change', e => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = ev => {
+      try { applyData(JSON.parse(ev.target.result), file.name); }
+      catch (err) { showToast('无法读取这个文件：' + err.message); }
+    };
+    reader.readAsText(file);
+    e.target.value = '';
+  });
+
+  $('defaultStepper').addEventListener('click', e => {
+    const btn = e.target.closest('button');
+    if (!btn) return;
+    defaultParaCount = Math.max(1, defaultParaCount + parseInt(btn.dataset.d, 10));
+    $('defaultVal').textContent = defaultParaCount;
+    try { localStorage.setItem('defaultParaCount', defaultParaCount); } catch(e){}
+  });
+
+  // ---------------- left column ----------------
+  function sourceLabel(src){ return src === 'zaobao' ? '早报' : (src === '8world' ? '8world' : src); }
+  function sourceClass(src){ return src === 'zaobao' ? 'zaobao' : 'eightworld'; }
+
+  function renderFilters(){
+    const sections = {};
+    articles.forEach(a => { sections[a.section] = (sections[a.section] || 0) + 1; });
+    const preferred = ['新加坡', '国际', '东南亚', '中港台', '中国', '财经', '体育', '娱乐'];
+    const names = Object.keys(sections).sort((a, b) => {
+      const ia = preferred.indexOf(a), ib = preferred.indexOf(b);
+      return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
+    });
+    filtersEl.innerHTML = '';
+    filtersEl.appendChild(chip(`全部 <span class="n">${articles.length}</span>`, activeSections.size === 0,
+      () => { activeSections = new Set(); renderFilters(); renderTicker(); }));
+    names.forEach(name => filtersEl.appendChild(chip(
+      `${escapeHtml(name)} <span class="n">${sections[name]}</span>`, activeSections.has(name), () => {
+        activeSections.has(name) ? activeSections.delete(name) : activeSections.add(name);
+        renderFilters(); renderTicker();
+      })));
+
+    const srcCounts = {};
+    articles.forEach(a => { srcCounts[a.source] = (srcCounts[a.source] || 0) + 1; });
+    srcFiltersEl.innerHTML = '';
+    Object.keys(srcCounts).forEach(src => {
+      const c = chip(`${sourceLabel(src)} <span class="n">${srcCounts[src]}</span>`, activeSources.has(src), () => {
+        activeSources.has(src) ? activeSources.delete(src) : activeSources.add(src);
+        renderFilters(); renderTicker();
+      });
+      c.classList.add('src', sourceClass(src));
+      srcFiltersEl.appendChild(c);
+    });
+  }
+
+  function chip(html, active, onClick){
+    const el = document.createElement('div');
+    el.className = 'chip' + (active ? ' active' : '');
+    el.innerHTML = html;
+    el.onclick = onClick;
+    return el;
+  }
+
+  function visibleArticles(){
+    return articles.filter(a =>
+      (activeSections.size === 0 || activeSections.has(a.section)) &&
+      (activeSources.size === 0 || activeSources.has(a.source)) &&
+      (!query || a.title.toLowerCase().includes(query)));
+  }
+
+  function renderTicker(){
+    if (articles.length === 0) {
+      ticker.innerHTML = '<div class="empty-state">暂无新闻。</div>';
+      return;
+    }
+    const list = visibleArticles();
+    const scroll = ticker.scrollTop;
+    ticker.innerHTML = '';
+    if (list.length === 0) {
+      ticker.innerHTML = '<div class="empty-state">没有符合当前筛选条件的新闻。</div>';
+      return;
+    }
+    list.forEach(a => {
+      const row = document.createElement('div');
+      row.className = 'row' + (selected.has(a.id) ? ' selected' : '');
+      row.innerHTML = `
+        <div class="checkmark">✓</div>
+        <div class="src-dot ${sourceClass(a.source)}"></div>
+        <div class="meta">
+          <div class="meta-line">
+            <span class="time">${escapeHtml(displayTime(a))}</span>
+            <span class="section-tag">${escapeHtml(a.section)}</span>
+            <span>${sourceLabel(a.source)}</span>
+          </div>
+          <div class="title">${escapeHtml(a.title)}</div>
+        </div>`;
+      row.addEventListener('click', () => toggleSelect(a));
+      ticker.appendChild(row);
+    });
+    ticker.scrollTop = scroll;
+  }
+
+  function toggleSelect(article){
+    let justAdded = false;
+    if (selected.has(article.id)) {
+      selected.delete(article.id);
+      order = order.filter(id => id !== article.id);
+    } else {
+      selected.set(article.id, { article, paraCount: defaultParaCount, editedHtml: null });
+      order.push(article.id);
+      justAdded = true;
+    }
+    renderTicker();
+    renderReader();
+    if (justAdded) {
+      const el = [...readerBody.querySelectorAll('.slip')].find(s => s.dataset.cardId === article.id);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  }
+
+  // ---------------- right column ----------------
+  function renderReader(){
+    readerBody.innerHTML = '';
+    copyBtn.disabled = selected.size === 0;
+    copyBtn.textContent = selected.size ? `复制报告（${selected.size} 条）` : '复制报告';
+    if (selected.size === 0) {
+      readerBody.innerHTML = '<div class="reader-empty">在左侧点击新闻标题，选中的新闻全文将显示在这里。<br>排好顺序后，点击右上角「复制报告」即可粘贴到 Word、微信或邮件。</div>';
+      return;
+    }
+    const entries = order.map(id => selected.get(id)).filter(Boolean);
+
+    entries.forEach((entry, idx) => {
+      const a = entry.article;
+      const total = a.paragraphs.length;
+      const shown = a.paragraphs.slice(0, entry.paraCount);
+      const shortfallNote = entry.paraCount > total && total > 0
+        ? `<span class="available-hint">（原文仅有 ${total} 段，已全部显示）</span>` : '';
+      const bodyHtml = entry.editedHtml ?? (shown.length
+        ? shown.map(p => `<p>${escapeHtml(p)}</p>`).join('')
+        : '<p style="color:var(--ink-soft)">（该新闻暂无正文段落数据）</p>');
+
+      const slip = document.createElement('div');
+      slip.className = 'slip';
+      slip.dataset.cardId = a.id;
+      slip.innerHTML = `
+        <div class="slip-torn"></div>
+        <div class="slip-head">
+          <div class="drag-handle" title="拖动以调整顺序" draggable="true">⠿</div>
+          <div style="min-width:0; flex:1;">
+            <span class="src-badge ${sourceClass(a.source)}">${sourceLabel(a.source)}</span>
+            <h2>${escapeHtml(a.title)}</h2>
+            <div class="subline">${escapeHtml(displayTime(a))} · ${escapeHtml(a.section)} ${a.url ? `· <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener">原文链接</a>` : ''}</div>
+          </div>
+          <div class="slip-actions">
+            <div class="move-btns">
+              <button class="move-btn" data-dir="-1" title="上移" ${idx === 0 ? 'disabled' : ''}>▲</button>
+              <button class="move-btn" data-dir="1" title="下移" ${idx === entries.length - 1 ? 'disabled' : ''}>▼</button>
+            </div>
+            <button class="remove-btn">移除 ✕</button>
+            <div class="slip-para-count">
+              段落数
+              <div class="stepper">
+                <button data-d="-1">−</button>
+                <span class="val">${entry.paraCount}</span>
+                <button data-d="1">+</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="slip-body" contenteditable="true" spellcheck="false">${bodyHtml}</div>
+        <div class="slip-foot">
+          <span>已显示 ${Math.min(entry.paraCount, total)} / ${total} 段 ${shortfallNote}</span>
+          <span>${entry.editedHtml ? '已修改（调整段落数会还原）' : '可直接编辑正文'}</span>
+        </div>`;
+
+      slip.querySelector('.slip-body').addEventListener('input', e => { entry.editedHtml = e.target.innerHTML; });
+
+      slip.querySelector('.remove-btn').addEventListener('click', () => {
+        selected.delete(a.id);
+        order = order.filter(id => id !== a.id);
+        renderTicker(); renderReader();
+      });
+
+      slip.querySelector('.stepper').addEventListener('click', e => {
+        const btn = e.target.closest('button');
+        if (!btn) return;
+        if (entry.editedHtml && !confirmReset()) return;
+        entry.paraCount = Math.max(1, entry.paraCount + parseInt(btn.dataset.d, 10));
+        entry.editedHtml = null;
+        renderReader();
+      });
+
+      slip.querySelectorAll('.move-btn').forEach(btn => btn.addEventListener('click', () => {
+        const i = order.indexOf(a.id), j = i + parseInt(btn.dataset.dir, 10);
+        if (j < 0 || j >= order.length) return;
+        [order[i], order[j]] = [order[j], order[i]];
+        renderReader();
+      }));
+
+      const handle = slip.querySelector('.drag-handle');
+      handle.addEventListener('dragstart', e => {
+        draggedId = a.id;
+        e.dataTransfer.effectAllowed = 'move';
+        e.dataTransfer.setData('text/plain', a.id);
+        slip.classList.add('dragging');
+      });
+      handle.addEventListener('dragend', () => { slip.classList.remove('dragging'); draggedId = null; });
+      slip.addEventListener('dragover', e => {
+        if (draggedId === null || draggedId === a.id) return;
+        e.preventDefault();
+        slip.classList.add('drag-over');
+      });
+      slip.addEventListener('dragleave', () => slip.classList.remove('drag-over'));
+      slip.addEventListener('drop', e => {
+        e.preventDefault();
+        slip.classList.remove('drag-over');
+        if (draggedId === null || draggedId === a.id) return;
+        order = order.filter(id => id !== draggedId);
+        order.splice(order.indexOf(a.id), 0, draggedId);
+        renderReader();
+      });
+
+      readerBody.appendChild(slip);
+    });
+  }
+
+  // Two clicks within 3 s confirm; avoids a blocking browser dialog.
+  let resetArmedUntil = 0;
+  function confirmReset(){
+    if (Date.now() < resetArmedUntil) { resetArmedUntil = 0; return true; }
+    resetArmedUntil = Date.now() + 3000;
+    showToast('该新闻正文已被修改，再点一次将还原并调整段落数');
+    return false;
+  }
+
+  // ---------------- copy report ----------------
+  copyBtn.addEventListener('click', async () => {
+    const withSource = $('withSource').checked;
+    const slips = [...readerBody.querySelectorAll('.slip')];
+    const plain = [], html = [];
+    slips.forEach((slip, i) => {
+      const a = selected.get(slip.dataset.cardId).article;
+      const paras = [...slip.querySelectorAll('.slip-body p')].map(p => p.innerText.trim()).filter(Boolean);
+      if (paras.length === 0) {
+        const t = slip.querySelector('.slip-body').innerText.trim();
+        if (t) paras.push(...t.split(/\n+/));
+      }
+      const src = `来源：${a.source === 'zaobao' ? '联合早报' : sourceLabel(a.source)}${a.url ? ' ' + a.url : ''}`;
+      plain.push(`${i + 1}. ${a.title}\n\n${paras.join('\n\n')}${withSource ? '\n\n' + src : ''}`);
+      html.push(`<h3>${i + 1}. ${escapeHtml(a.title)}</h3>` +
+        paras.map(p => `<p>${escapeHtml(p)}</p>`).join('') +
+        (withSource ? `<p style="color:#666;font-size:12px">来源：${a.source === 'zaobao' ? '联合早报' : escapeHtml(sourceLabel(a.source))}${a.url ? ` <a href="${escapeHtml(a.url)}">${escapeHtml(a.url)}</a>` : ''}</p>` : ''));
+    });
+    const text = plain.join('\n\n————————\n\n');
+    const rich = html.join('<hr>');
+    try {
+      if (window.ClipboardItem && navigator.clipboard && navigator.clipboard.write) {
+        await navigator.clipboard.write([new ClipboardItem({
+          'text/plain': new Blob([text], { type: 'text/plain' }),
+          'text/html': new Blob([rich], { type: 'text/html' })
+        })]);
+      } else {
+        await navigator.clipboard.writeText(text);
+      }
+      showToast(`已复制 ${slips.length} 条新闻，可直接粘贴`);
+    } catch (e) {
+      const ta = document.createElement('textarea');
+      ta.value = text; document.body.appendChild(ta); ta.select();
+      const ok = document.execCommand('copy'); ta.remove();
+      showToast(ok ? `已复制 ${slips.length} 条新闻，可直接粘贴` : '复制失败，请手动选择文字复制');
+    }
+  });
+
+  let toastTimer;
+  function showToast(msg){
+    const t = $('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => t.classList.remove('show'), 2600);
+  }
+
+  function escapeHtml(str){
+    return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  // ---------------- start ----------------
+  loadLatest();
+  setInterval(checkForUpdate, CHECK_EVERY_MS);
+  setInterval(() => { if (!statusFile && generatedAt) updateStatus(); }, 60000);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden && generatedAt) checkForUpdate(); });
+})();
+</script>
+</body>
+</html>
