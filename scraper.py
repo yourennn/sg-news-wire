@@ -12,6 +12,7 @@ Titles and paragraphs are saved exactly as they appear on the source sites.
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -182,15 +183,17 @@ def infer_dates_from_page_order(rows, now):
             row["sort_time"] = dt.isoformat(timespec="seconds")
 
 
-def fetch_zaobao(limit=10):
+def fetch_zaobao(cache, limit=10):
     soup = BeautifulSoup(fetch_html(f"{ZAOBAO_BASE}/realtime"), "html.parser")
     now = datetime.now(SGT)
     articles = []
     for section in ZAOBAO_SECTIONS:
         rows = zaobao_section_cards(soup, section, limit=limit)
         print(f"[zaobao] {section}: {len(rows)} headlines")
+        todo = reuse_cached(rows, cache)
+        print(f"[zaobao] {section}: fetching {len(todo)} new articles")
         with ThreadPoolExecutor(WORKERS) as pool:
-            rows = list(pool.map(zaobao_fill_article, rows))
+            list(pool.map(zaobao_fill_article, todo))
         infer_dates_from_page_order(rows, now)
         articles.extend(rows)
     return articles
@@ -236,7 +239,7 @@ def eightworld_fill_article(row):
     return row
 
 
-def fetch_8world(limit_per_tag=10):
+def fetch_8world(cache, limit_per_tag=10):
     feed = feedparser.parse(session.get(RSS_URL, timeout=TIMEOUT).content)
     rows, counts = [], {}
     for item in feed.entries:
@@ -259,8 +262,11 @@ def fetch_8world(limit_per_tag=10):
             "paragraphs": [],
         })
     print(f"[8world] {len(rows)} headlines")
+    todo = reuse_cached(rows, cache)
+    print(f"[8world] fetching {len(todo)} new articles")
     with ThreadPoolExecutor(WORKERS) as pool:
-        return list(pool.map(eightworld_fill_article, rows))
+        list(pool.map(eightworld_fill_article, todo))
+    return rows
 
 
 # ==================================================================
@@ -268,6 +274,20 @@ def fetch_8world(limit_per_tag=10):
 # ==================================================================
 
 def load_previous():
+    """Last run's articles. On GitHub each run starts on a fresh machine, so we
+    download the news.json currently on the live website (SITE_URL is set by
+    the workflow). Falls back to a local docs/news.json when testing."""
+    site = os.environ.get("SITE_URL", "").rstrip("/")
+    if site:
+        try:
+            r = session.get(f"{site}/news.json", params={"t": int(time.time())}, timeout=TIMEOUT)
+            r.raise_for_status()
+            data = r.json()
+            arts = data["articles"] if isinstance(data, dict) else data
+            print(f"Loaded {len(arts)} previous articles from the live site")
+            return arts
+        except Exception as e:
+            print(f"Could not load previous news from the live site ({e})")
     try:
         data = json.loads(OUTPUT.read_text(encoding="utf-8"))
         return data["articles"] if isinstance(data, dict) else data
@@ -275,15 +295,29 @@ def load_previous():
         return []
 
 
+def reuse_cached(rows, cache):
+    """Fill rows we already scraped last time; return the rows still to fetch."""
+    todo = []
+    for row in rows:
+        old = cache.get(row["url"])
+        if old and old.get("paragraphs"):
+            row["paragraphs"] = old["paragraphs"]
+            row["sort_time"] = row.get("sort_time") or old.get("sort_time")
+        else:
+            todo.append(row)
+    return todo
+
+
 def main():
     started = time.time()
     previous = load_previous()
+    cache = {a.get("url"): a for a in previous if a.get("url")}
     sources = {}
     all_articles = []
 
     for name, fetcher in (("zaobao", fetch_zaobao), ("8world", fetch_8world)):
         try:
-            got = fetcher()
+            got = fetcher(cache)
             if not got:
                 raise RuntimeError("no articles found (page layout may have changed)")
             all_articles.extend(got)
