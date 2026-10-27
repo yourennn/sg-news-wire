@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T23:10:33+08:00",
+ "generated_at": "2026-10-27T23:20:35+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -12,11 +12,27 @@
  },
  "articles": [
   {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Tue, 27 Oct 2026 23:13:00 +0800",
+   "sort_time": "2026-10-27T23:13:00+08:00",
+   "title": "印尼烟霾酿至少35万人患呼吸道疾病 当局出动“氧气巴士”救急",
+   "url": "https://www.8world.com/southeast-asia/indonesia-haze-bus-3322306",
+   "id": "https://www.8world.com/southeast-asia/indonesia-haze-bus-3322306",
+   "paragraphs": [
+    "印度尼西亚森林大火持续延烧，烟霾引发的相关呼吸道疾病病例，目前已达到至少35万起，中加里曼丹省的情况尤其严重。当局出动配备氧气瓶的巴士，为呼吸困难的居民提供吸氧服务。",
+    "面对十年多最严重的森林野火，加里曼丹省首府帕朗卡拉亚的上空被浓厚烟雾笼罩。截至星期天，当地通报约3万1000起呼吸道疾病病例。",
+    "随着病例增加，当局安排了一辆特别巴士，为出现呼吸困难症状的民众提供氧气，每次约五到十分钟。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "23:08",
    "sort_time": "2026-10-27T23:08:29+08:00",
-   "title": "通过基层医疗提前引入慈怀疗护 本地首个计划未来四年惠及1200人",
+   "title": "本地首推基层医疗及早介入慈怀疗护 未来四年惠及1200人",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261027-9903771",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261027-9903771",
    "paragraphs": [
@@ -629,8 +645,8 @@
   {
    "source": "8world",
    "section": "新加坡",
-   "time": "Tue, 27 Oct 2026 19:49:12 +0800",
-   "sort_time": "2026-10-27T19:49:12+08:00",
+   "time": "Tue, 27 Oct 2026 19:49:00 +0800",
+   "sort_time": "2026-10-27T19:49:00+08:00",
    "title": "李资政设午宴款待德国总理默茨 对两国深化合作充满信心",
    "url": "https://www.8world.com/singapore/sm-lee-lunch-with-german-chancellor-friedrich-merz-3322121",
    "id": "https://www.8world.com/singapore/sm-lee-lunch-with-german-chancellor-friedrich-merz-3322121",
@@ -754,27 +770,6 @@
     "第31届联合国气候变化大会将在11月9日到20日，在土耳其安塔利亚（Antalya）举行。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Tue, 27 Oct 2026 19:02:21 +0800",
-   "sort_time": "2026-10-27T19:02:21+08:00",
-   "title": "全球1000家最强银行 华侨银行亚洲第一 全球第三",
-   "url": "https://www.8world.com/singapore/ocbc-named-third-strongest-bank-globally-3322066",
-   "id": "https://www.8world.com/singapore/ocbc-named-third-strongest-bank-globally-3322066",
-   "paragraphs": [
-    "根据《亚洲银行家》最新公布的全球1000家最强银行排行榜中，华侨银行获评为亚太地区最强银行，全球排名则高居第三。",
-    "亚洲新闻台CNA报道，这份排名显示，华侨银行超越了去年排名在它之前的星展银行、中国招商银行和日本三井住友金融集团等七家亚太区银行，成为亚太区榜首。",
-    "这也是自排行榜在2023年推出以来，首次有新加坡银行跻身全球前三。",
-    "在这同时，最新排行榜也显示，星展银行排名第23，大华银行则排名第187。",
-    "《亚洲银行家》根据七项标准，对全球规模最大的1000家银行进行评估，包括主权风险、银行规模、资产负债表增长、风险状况、盈利能力、资产质量以及流动性。",
-    "美国摩根大通银行在全球排行榜中位居榜首，沙特阿拉伯的沙特国家银行则排名第二。",
-    "另外，福布斯和Statista上个月首次发布《全球最佳表现银行》榜单，华侨银行位居榜首，星展银行则排名第二。",
-    "华侨银行集团总裁陈德隆今天在文告中表示，银行继早前获评为全球最佳表现银行后，再获评为全球最强银行之一，反映出华侨银行业务的韧性。",
-    "“银行将继续巩固现有基础，为客户、社区和股东创造长期价值。”",
-    "亚洲银行研究院（TABInsights）研究总监卡普费尔（Christian Kapfer）则指出，华侨银行多元化的收入来源、稳健的资产质量和雄厚的资本实力，使它在区域同业中脱颖而出。"
    ]
   }
  ]
