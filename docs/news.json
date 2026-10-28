@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T22:40:33+08:00",
+ "generated_at": "2026-10-28T22:50:38+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,60 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "中港台",
+   "time": "Wed, 28 Oct 2026 22:48:00 +0800",
+   "sort_time": "2026-10-28T22:48:00+08:00",
+   "title": "三星撤出香港家电市场？三星香港：调整营运策略",
+   "url": "https://www.8world.com/greater-china/hong-kong-samsung-react-3324016",
+   "id": "https://www.8world.com/greater-china/hong-kong-samsung-react-3324016",
+   "paragraphs": [
+    "韩国科技巨头三星电子（Samsung）调整在香港的营运策略， 决定逐步退出当地的大型家电市场 ，停止销售洗衣机、冰箱及冷气机等产品，并将资源集中在电视与智能手机等核心业务。",
+    "香港《星岛头条》报道，三星继今年5月全面退出中国大陆的家电市场后，进一步决定连带退出香港市场，分阶段停售洗衣机、冰箱、冷气机等大型家用电器。至于智能手机、平板电脑及电脑显示屏等产品则不受影响，继续正常销售。",
+    "三星香港在回应媒体查询时表示，公司在香港的业务保持稳健，团队持续评估并调整产品组合，以迎合不断变化的市场环境与消费者偏好。",
+    "发言人指出，作为策略调整的一部分，三星香港目前正将资源集中用于发展电视、显示器、音响产品、商用显示屏以及移动通讯设备。",
+    "针对现有客户关心的权益问题，三星香港强调，公司将维持已售出产品的售后服务、保修与维修支援，持续为消费者提供服务。",
+    "目前浏览三星香港官方网站可以发现，冰箱、冷气机等大型家电已无法加入购物车，部分家电产品页面也已标示“售罄”或缺货。据了解，停售范围仅限大型家用电器，电视、手机及平板电脑等依然正常供应。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 28 Oct 2026 22:47:17 +0800",
+   "sort_time": "2026-10-28T22:47:17+08:00",
+   "title": "西班牙高铁相撞致64死 交通部长指列车获错误放行违反安全规程",
+   "url": "https://www.8world.com/world/spain-train-crash-kills-64-minister-says-train-was-wrongly-cleared-to-3324011",
+   "id": "https://www.8world.com/world/spain-train-crash-kills-64-minister-says-train-was-wrongly-cleared-to-3324011",
+   "paragraphs": [
+    "西班牙两列高速列车相撞事故造成至少64人死亡。西班牙交通部长普恩特（Oscar Puente）表示，事发时，其中一列列车在铁路信号灯仍显示红灯的情况下，却获准继续行驶，违反了安全操作规程。",
+    "《路透社》报道，普恩特（Oscar Puente）表示，铁路系统因电脑通信故障而发出红灯信号，并自动暂停列车运行。当时，前方轨道仍有另一列列车停驶，但有关人员却错误地批准西班牙国家铁路公司（Renfe）的高速列车恢复行驶，最终导致列车相撞。",
+    "救援人员目前仍在事故现场的列车残骸中搜寻遇难者遗体。",
+    "西班牙国王费利佩六世（King Felipe）形容这起事故是一场“可怕的悲剧”，并向遇难者家属致以慰问。他也因事故而缩短在巴伦西亚参加的军事演习。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Wed, 28 Oct 2026 22:46:21 +0800",
+   "sort_time": "2026-10-28T22:46:21+08:00",
+   "title": "自动贩卖机买本地农产品 价格便宜约一成",
+   "url": "https://www.8world.com/singapore/safef-vending-machine-3323946",
+   "id": "https://www.8world.com/singapore/safef-vending-machine-3323946",
+   "paragraphs": [
+    "本地农场种植和养殖的蔬菜、菌菇和鱼类，未来将可通过自动贩卖机直接出售。",
+    "本地农场养殖和种植的蔬菜、菌菇和鱼类，未来将可通过自动贩卖机直接出售，售价比零售价低约一成。",
+    "每台贩卖机一次可容纳50到60包蔬菜和菌菇，第一台机器已设在宏茂桥的NCS Hub。",
+    "新加坡鲜农总会（Singapore Agro-Food Enterprises Federation - 简称SAFEF）计划在未来六个月，在全岛再增设约30台这类自助贩卖机机器，地点包括组屋底层和乐龄活动中心等。",
+    "新加坡鲜农总会表示，新销售方式有助本地农户减少对超市和零售商的依赖，也可以根据不同地点消费者的喜好来决定上架的产品种类。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -712,44 +766,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "food",
-   "time": "Wed, 28 Oct 2026 19:24:00 +0800",
-   "sort_time": "2026-10-28T19:24:00+08:00",
-   "title": "Marymount Bakehouse创意再“发酵”！二店玩出更多酸种料理新滋味",
-   "url": "https://www.8world.com/food/marymount-bakehouse-upper-thomson-3322731",
-   "id": "https://www.8world.com/food/marymount-bakehouse-upper-thomson-3322731",
-   "paragraphs": [
-    "本地人气烘焙坊café Marymount Bakehouse最近在Upper Thomson开设第2家分店啦！ 从手工酸种面包，再变出意大利面、创意咸派和甜点，品牌继续发挥巧思，让酸种跳出传统面包的框架，玩出更多令人惊喜的花样！",
-    "店主之一的王靖雯和vibes推荐必尝料理的同时，也分享创店以来的挑战和满足感！",
-    "Marymount Bakehouse由主厨兼烘焙师Ian Ferdinand Chong于疫情期间创立，最初只是一个居家烘焙计划，没想到凭着口碑逐渐累积人气。他们于2023年在Sin Ming开设首家实体店，隔年8月迁至Race Course Road，并逐步发展成提供完整餐饮体验的café。",
-    "这次重返这区开设二店，对Ian而言别具意义，因为这里正是他当初推广酸种面包，并和顾客建立联系的地方。",
-    "新店空间更宽敞，设有60个座位，希望让食客不只是买了面包就走，还能坐下来享用一顿饭，和朋友家人共享美好食光。",
-    "从小小的居家烘焙发展成两家店，经营规模扩大，如何维持原本的手作精神，成为团队一路走来最重视的关键。",
-    "王靖雯坦言：“创业以来，最大的挑战就是坚持所有食物都从零开始、亲手制作，并确保每天新鲜出品。我们不希望为了扩大规模而依赖机器大量生产，坚持在店内手工制作，才能更好地把控品质。”",
-    "虽然坚持手作意味着投入更多时间和心力，但对他们而言，这份坚持也带来了意想不到的温暖与感动。",
-    "“最有满足感的，就是看到熟客一次次回来光顾，还会带亲朋好友一起来。能透过美食拉近人与人之间的距离，慢慢建立起一个有归属感的社群，就是我们最珍惜的收获。”",
-    "Marymount Bakehouse以天然发酵酸种为特色，从经典面包延伸到手工意大利面、创意咸派和甜点，让传统烘焙技艺有了更多发挥空间。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Wed, 28 Oct 2026 19:21:00 +0800",
-   "sort_time": "2026-10-28T19:21:00+08:00",
-   "title": "中国前副总理刘延东病逝 享年81岁",
-   "url": "https://www.8world.com/greater-china/former-chinese-vice-premier-liu-yandong-dies-at-81-3322971",
-   "id": "https://www.8world.com/greater-china/former-chinese-vice-premier-liu-yandong-dies-at-81-3322971",
-   "paragraphs": [
-    "中国前副总理刘延东。（图：Getty Image）",
-    "《新华社》报道，刘延东今天（28日）下午2点53分在北京病逝。",
-    "《新华社》形容刘延东是中国共产党的优秀党员，久经考验的忠诚共产主义战士、医疗卫生、妇女儿童工作的杰出领导人。",
-    "刘延东曾任第十七届、十八届中央政治局委员，第十届全国政协副主席。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "19:18",
@@ -766,26 +782,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 28 Oct 2026 19:13:29 +0800",
-   "sort_time": "2026-10-28T19:13:29+08:00",
-   "title": "燃油成本飙升 美国邮轮中断环球航程逾200乘客滞留柬埔寨",
-   "url": "https://www.8world.com/world/us-cruise-ship-halts-world-voyage-over-soaring-fuel-costs-3322956",
-   "id": "https://www.8world.com/world/us-cruise-ship-halts-world-voyage-over-soaring-fuel-costs-3322956",
-   "paragraphs": [
-    "“奥德赛号”邮轮因燃油成本飙升，被迫中断环球航程。（图：美联社）",
-    "一艘美国邮轮因燃油成本飙升，被迫中断环球航程，导致200多名乘客滞留柬埔寨。",
-    "《美联社》报道，这艘名为“奥德赛号”（MV Odyssey）的邮轮是在2024年10月，从北爱尔兰启航，原定展开为期三年半、横跨七大洲的环球之旅，并以长期海上居住结合环球旅游为卖点。",
-    "目前，奥德赛号停泊在柬埔寨的西哈努克港，确切的离港日期仍未确定。柬埔寨官员表示，邮轮上共有203名乘客，大部分是美国人，另有156名船员。",
-    "总部位于美国佛罗里达州的运营商Villa Vie Residences表示，受伊朗战争影响，邮轮在亚洲部分地区的燃油成本大幅上涨。过去平均每间客舱每月分摊的燃油费用约为1800美元，如今估计已飙升至6000到8000美元。",
-    "公司表示，曾尝试通过放慢航行速度、延长停靠港口的时间等方式减少燃油消耗，但仍无法抵消不断上涨的成本。",
-    "公司指出，已经无法继续承担营运亏损，也不可能将所有额外成本转嫁给乘客。公司正协调乘客下船，并寻找临时住宿安排，同时寻求重组业务。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
