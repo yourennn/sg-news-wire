@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T13:40:36+08:00",
+ "generated_at": "2026-10-28T13:50:33+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -52,8 +52,8 @@
   {
    "source": "8world",
    "section": "新加坡",
-   "time": "Wed, 28 Oct 2026 13:30:31 +0800",
-   "sort_time": "2026-10-28T13:30:31+08:00",
+   "time": "Wed, 28 Oct 2026 13:30:00 +0800",
+   "sort_time": "2026-10-28T13:30:00+08:00",
    "title": "本地一小时PM2.5浓度下跌",
    "url": "https://www.8world.com/singapore/28-oct-1pm-haze-update-3322616",
    "id": "https://www.8world.com/singapore/28-oct-1pm-haze-update-3322616",
@@ -89,12 +89,23 @@
   {
    "source": "8world",
    "section": "新加坡",
-   "time": "Wed, 28 Oct 2026 13:23:57 +0800",
-   "sort_time": "2026-10-28T13:23:57+08:00",
+   "time": "Wed, 28 Oct 2026 13:23:00 +0800",
+   "sort_time": "2026-10-28T13:23:00+08:00",
    "title": "新航后年起采购新一代燃料 支持航空业减少碳排放",
-   "url": "https://www.8world.com/singapore/singapore-airlines-to-offtake-next%02generation-sustainable-aviation-fuel-3322671",
-   "id": "https://www.8world.com/singapore/singapore-airlines-to-offtake-next%02generation-sustainable-aviation-fuel-3322671",
-   "paragraphs": []
+   "url": "https://www.8world.com/singapore/singapore-airlines-to-offtake-nextgeneration-sustainable-aviation-fuel-3322671",
+   "id": "https://www.8world.com/singapore/singapore-airlines-to-offtake-nextgeneration-sustainable-aviation-fuel-3322671",
+   "paragraphs": [
+    "新加坡航空与燃料公司Aether Fuels签署协议。（图：新航/Aether Fuels）",
+    "新加坡航空宣布与燃料公司Aether Fuels签署协议，会从后年起的三年内采购多达4800公吨的新一代可持续航空燃料，以支持航空业减少碳排放。",
+    "新航与Aether Fuels今天（28日）在文告中说，新航将成为首家向Aether位于本地的Beacon项目采购可持续航空燃料的航空公司。",
+    "《8视界新闻网》去年底报道，能源和化工方案公司Aster将同Aether合作成立这个全新的可持续航空燃料生产设施。新设施将坐落毛广岛，当时预计在2026年动工，并于2028年投入运作。",
+    "新航在今天的文告中也说，这也是新航首次采购利用新技术将废弃碳原料转化而成的可持续航空燃料。",
+    "生产出来的燃料将获得国际航空碳抵消和减排计划（CORSIA）的认证。",
+    "新航企业规划高级副总裁兼首席永续发展长利文芬说，支持可持续航空燃料的开发和应用，并确保未来的供应，是新航实现2050年净零碳排放目标的重要一环。",
+    "Aether联合创办人兼首席执行长马迪根（Conor Madigan）则表示，这项具有约束力的采购协议，反映了大型航空公司对新一代可持续航空燃料的需求，也有助于推动相关技术实现规模化生产。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
   },
   {
    "source": "8world",
@@ -422,7 +433,7 @@
    "section": "国际",
    "time": "11:08",
    "sort_time": "2026-10-28T11:08:10+08:00",
-   "title": "强气旋侵袭印度东南沿海 近10万人紧急疏散",
+   "title": "强气旋侵袭印度东南沿海 逾18万人紧急疏散",
    "url": "https://www.zaobao.com.sg/news/world/story20261028-9906572",
    "id": "https://www.zaobao.com.sg/news/world/story20261028-9906572",
    "paragraphs": [
