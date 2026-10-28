@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:20:37+08:00",
+ "generated_at": "2026-10-28T18:30:43+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,23 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "娱乐",
+   "time": "Wed, 28 Oct 2026 18:18:15 +0800",
+   "sort_time": "2026-10-28T18:18:15+08:00",
+   "title": "71岁周润发同框68岁苗侨伟！熟男魅力辗压后辈男星",
+   "url": "https://www.8world.com/e-news/veteran-heartthrobs-chow-yun-fat-michael-miu-outshine-younger-actors-3322911",
+   "id": "https://www.8world.com/e-news/veteran-heartthrobs-chow-yun-fat-michael-miu-outshine-younger-actors-3322911",
+   "paragraphs": [
+    "（综合讯） 71岁周润发与68岁苗侨伟堪称香港演艺圈的“不老男神”，两人多年来坚持跑步健身，即使年过花甲，依旧保持健硕身材与帅气魅力。近日，贾思乐与有“少年食神\"之称的林澄光分别在社交平台分享好友聚会合照，意外曝光两大巨星罕见同框的最新近况。",
+    "照片中，周润发身穿深蓝色运动外套，顶着一头修剪俐落的银白短发，虽然脸上留下岁月痕迹，但气色红润、笑容灿烂，整个人看起来神采飞扬。向来喜欢亲自掌镜自拍的他，这次也不例外，站在最前方举起手机，热情地与一众好友合影，亲切随和的模样完全没有巨星架子。",
+    "站在发哥身旁的苗侨伟同样抢尽风头，只见他身穿贴身白色运动T恤，展现宽阔肩膀与结实胸膛，身材完全没有发福迹象。近看更可见他一头乌黑浓密短发，搭配俐落下颚线、健康小麦肤色及黑框眼镜，散发成熟稳重的型男魅力。即使已经68岁，依旧帅气有型，难怪多年来稳坐”不老男神“宝座。",
+    "更令人惊讶的是，大合照中还有张振朗与朱敏瀚两位年轻后辈同框。周润发与苗侨伟虽然比两人年长至少30岁，但站在一起却丝毫不显逊色，反而凭着挺拔身形与多年累积的巨星气场，展现出截然不同的熟男魅力，甚至被网友认为风采盖过年轻小生。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -584,25 +601,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "财经",
-   "time": "Wed, 28 Oct 2026 16:21:01 +0800",
-   "sort_time": "2026-10-28T16:21:01+08:00",
-   "title": "人工智能带动芯片需求 SK海力士第三季营业利润激增逾六倍",
-   "url": "https://www.8world.com/finance/sk-hynix-q3-operating-profit-surges-over-sixfold-3322801",
-   "id": "https://www.8world.com/finance/sk-hynix-q3-operating-profit-surges-over-sixfold-3322801",
-   "paragraphs": [
-    "韩国科技业巨头SK海力士（SK Hynix）。（图：法新社）",
-    "韩国科技业巨头SK海力士（SK Hynix）今年第三季度的营业利润，同比大增超过六倍。",
-    "《韩国联合通讯社》报道，公司第三季度营业利润达到83万亿韩元，同比激增632%，比市场预期高出超过9%。",
-    "另外，同期的销售额增长超过三倍，达到104万亿韩元，单季销售额超出公司去年全年的水平。",
-    "公司的销售额和营业利润已连续六个季度创新高。",
-    "分析认为，全球持续扩大人工智能基础设施投资，带动存储芯片需求，促使高带宽内存和服务器用高性能存储产品价格上涨，进一步推高公司业绩。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "16:00",
@@ -710,7 +708,7 @@
    "section": "新加坡",
    "time": "15:00",
    "sort_time": "2026-10-28T15:00:00+08:00",
-   "title": "市区核心住户人均市场月入中位数逾1.3万元 居全国之首",
+   "title": "市区核心人均家庭市场月入中位数逾1.3万元 居全国之首",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261028-9907302",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261028-9907302",
    "paragraphs": [
@@ -731,7 +729,7 @@
    "section": "新加坡",
    "time": "15:00",
    "sort_time": "2026-10-28T15:00:00+08:00",
-   "title": "淡滨尼跃升为居民人口最多规划区 登加未满15岁孩童比率全国最高",
+   "title": "淡滨尼跃居人口最多规划区 登加未满15岁孩童占比全国最高",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261028-9905366",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261028-9905366",
    "paragraphs": [
