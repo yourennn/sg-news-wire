@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:30:44+08:00",
+ "generated_at": "2026-10-28T20:40:39+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,48 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Wed, 28 Oct 2026 20:33:00 +0800",
+   "sort_time": "2026-10-28T20:33:00+08:00",
+   "title": "华侨银行深化支付宝+合作 七大旅游目的地享逾200家商户优惠",
+   "url": "https://www.8world.com/singapore/ocbc-overseas-qr-payments-3323881",
+   "id": "https://www.8world.com/singapore/ocbc-overseas-qr-payments-3323881",
+   "paragraphs": [
+    "即日起，华侨银行用户到中国、日本、韩国等地旅游时，可直接在手机应用内领取和使用支付宝+旅享（Alipay+ Travel Treat）商家优惠券，无须额外下载支付宝应用或注册。这是新加坡首家提供这项服务的银行。",
+    "根据华侨银行今天（28日）所发布的文告，这项新功能进一步深化华侨银行与蚂蚁国际旗下全球跨境支付平台支付宝+（Alipay+）自2024年以来的合作，将服务范围从跨境支付延伸至旅游消费优惠。",
+    "华侨银行用户只需在出发前打开银行应用程序，即可浏览并领取餐饮、购物及旅游景点的优惠券。在参与计划的支付宝+商户扫码付款时，系统将自动套用优惠进行抵扣。",
+    "首阶段合作涵盖了七个旅游目的地：中国大陆、日本、韩国、香港、澳门、马来西亚和泰国。",
+    "华侨银行用户可以用这个新功能，享受超过200家商户的优惠，包括：日本连锁餐饮店松屋（Matsuya）、折扣连锁店唐吉诃德（Don Quijote）、韩国新罗免税店（The Shilla Duty-Free）、马来西亚吉隆坡国油双峰塔阳光广场（Suria KLCC）、敦拉萨国际贸易中心商场（TRX Mall）。至于跨国品牌则包括连锁汉堡店Shake Shack、7-Eleven连锁便利店等。",
+    "随着跨境旅游全面复苏，国人使用海外扫码支付的需求显著增加。",
+    "数据显示，今年首八个月，使用华侨银行应用程序在海外Alipay+商户扫码付款的客户人数及交易总额，与2025年同期相比激增超过一倍。目前，华侨银行客户已能在全球超过55个目的地直接通过银行账户完成扫码付款。",
+    "未来，华侨银行还计划通过Alipay+超级应用程式平台（Super App Platform），进一步引入更多服务，例如叫车及外卖等服务，让旅客享受一站式的服务。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "zaobao",
+   "section": "新加坡",
+   "time": "20:30",
+   "sort_time": "2026-10-28T20:30:43+08:00",
+   "title": "将人工智能带入社区 学生助年长者跨越数码鸿沟",
+   "url": "https://www.zaobao.com.sg/news/singapore/story20261028-9908044",
+   "id": "https://www.zaobao.com.sg/news/singapore/story20261028-9908044",
+   "paragraphs": [
+    "约300名高等教育学府学生为 年长者 提供实用的 人工智能 （AI）基本知识，教导如何在日常生活使用AI，辨别AI潜在诈骗，以帮助长者更有信心地运用科技，预计触及超过1200名年长者。",
+    "东北社区发展理事会与 淡马锡理工学院 星期三（10月28日）推出社区人工智能素养计划（Community AI Literacy Programme），提供年长者人工智能培训。",
+    "年长者将通过计划学习AI和生成式AI的基础知识、输入有效的提示词，以及如何将AI应用在日常事务。",
+    "他们也会学习辨别AI生成的信息、通过可靠来源核实资料、识别潜在诈骗，以及在使用AI工具时保护个人资料。",
+    "活动主宾文化、社区及青年部兼交通部政务部长，也是东北区市长 马炎庆 致辞时说，AI逐渐融入日常生活，年长者也应该具备相关知识和信心，安全地使用这项技术。",
+    "参与计划的年长者何君鸿（68岁）说，之前听过AI，但一直没有学习使用，女儿也鼓励他学习新事物，让生活更加丰富。",
+    "参加社区人工智能素养计划，是他首次接触AI，学习如何利用AI生成有趣的照片。“我觉得这项新技术很有趣，也能为生活增添新意，可以尝试制作与孙子的合照，留下纪念。”",
+    "另一名年长者朱明香（74岁）受访时说，几个月前开始自学ChatGPT，这次首次学习使用Gemini来修改照片，例如把照片背景换成农历新年场景、将人物照片改成身处国外的画面，或更换人物的服装。",
+    "除了制作照片，她也希望接下来可以学会使用AI来规划出国旅行的行程，包括安排每天的活动、推荐景点和酒店，以及规划交通路线，让旅行更省时方便。",
+    "淡马锡理工学院学生王心聆（19岁）曾教导家中的长辈使用AI。她发现，不少年长者对AI感到担忧，使用工具时也比较谨慎，因此希望通过担任社区大使，帮助更多长者掌握这项新技术。"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -168,8 +210,8 @@
   {
    "source": "8world",
    "section": "新加坡",
-   "time": "Wed, 28 Oct 2026 19:54:28 +0800",
-   "sort_time": "2026-10-28T19:54:28+08:00",
+   "time": "Wed, 28 Oct 2026 19:54:00 +0800",
+   "sort_time": "2026-10-28T19:54:00+08:00",
    "title": "企发局推出三项新合作计划 助本地初创企业研发及拓展海外市场",
    "url": "https://www.8world.com/singapore/enterprise-singapore-launches-three-partnerships-to-help-startups-expand-3323831",
    "id": "https://www.8world.com/singapore/enterprise-singapore-launches-three-partnerships-to-help-startups-expand-3323831",
@@ -263,8 +305,8 @@
   {
    "source": "8world",
    "section": "中港台",
-   "time": "Wed, 28 Oct 2026 19:21:41 +0800",
-   "sort_time": "2026-10-28T19:21:41+08:00",
+   "time": "Wed, 28 Oct 2026 19:21:00 +0800",
+   "sort_time": "2026-10-28T19:21:00+08:00",
    "title": "中国前副总理刘延东病逝 享年81岁",
    "url": "https://www.8world.com/greater-china/former-chinese-vice-premier-liu-yandong-dies-at-81-3322971",
    "id": "https://www.8world.com/greater-china/former-chinese-vice-premier-liu-yandong-dies-at-81-3322971",
@@ -653,24 +695,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 28 Oct 2026 17:32:00 +0800",
-   "sort_time": "2026-10-28T17:32:00+08:00",
-   "title": "韩国多家金融机构接连遭黑客攻击 客户资料外泄",
-   "url": "https://www.8world.com/world/south-korean-financial-firms-hit-by-cyberattacks-3322876",
-   "id": "https://www.8world.com/world/south-korean-financial-firms-hit-by-cyberattacks-3322876",
-   "paragraphs": [
-    "韩国多家金融机构接连遭到黑客攻击，当地金融监管机构已经介入调查。",
-    "《韩国联合通讯社》报道，大信证券表示，公司3万8000多名客户的个人和信用资料遭泄露。",
-    "虚拟货币交易所Bithumb则在前天（26日）发现，公司的内部移动办公系统遭到未经授权的外部人员登入，导致个人资料外泄。公司仍在调查具体的影响范围。",
-    "韩国未来资产人寿保险公司也在同一天，发生系统入侵和客户资料泄露事件。",
-    "报道指出，除了信用卡公司外，韩国主要金融行业几乎都遭到黑客攻击。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "17:27",
@@ -773,27 +797,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "zaobao",
-   "section": "新加坡",
-   "time": "16:00",
-   "sort_time": "2026-10-28T16:00:30+08:00",
-   "title": "涉两度驾游艇闯入南部岛屿实弹射击区 47岁男子被控",
-   "url": "https://www.zaobao.com.sg/news/singapore/story20261028-9907920",
-   "id": "https://www.zaobao.com.sg/news/singapore/story20261028-9907920",
-   "paragraphs": [
-    "47岁男子涉嫌在七个月内，两次驾驶游艇擅闯南部岛屿实弹射击区，星期三（10月28日）被控上法庭。",
-    "被告郭伟德（47岁）在国家法院面对两项抵触《军事演习（射击场）条例》的控状。",
-    "根据控状，被告涉嫌于2025年12月19日下午约2时52分至2时55分，以船长身份驾驶一艘名为“Artemis 1”的游艇，在未经授权的情况下进入南部岛屿实弹射击区。",
-    "他也被指于今年7月10日下午约4时29分至5时零9分，再次驾驶游艇进入同一射击区。",
-    "被告面控后表示有意认罪，案件展至12月16日进行认罪聆讯。",
-    "根据被告在职场社交平台LinkedIn的个人资料，他是海洋科技公司Hydrogen Era Marine的首席执行官、游艇租赁公司Wanderlust Adventures的董事总经理，也是本地海洋生态保育组织Marine Stewards的联合发起人之一。",
-    "Hydrogen Era Marine公司网站也显示，被告担任新加坡游艇租赁协会主席。",
-    "根据条例，一旦罪成，每项控状可判罚款不超过2000元，或坐牢不超过六个月，或两者兼施。",
-    "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
-    "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。"
    ]
   }
  ]
