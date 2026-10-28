@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:50:34+08:00",
+ "generated_at": "2026-10-28T19:00:47+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -328,24 +328,6 @@
   },
   {
    "source": "8world",
-   "section": "国际",
-   "time": "Wed, 28 Oct 2026 17:32:17 +0800",
-   "sort_time": "2026-10-28T17:32:17+08:00",
-   "title": "韩国多家金融机构接连遭黑客攻击 客户资料外泄",
-   "url": "https://www.8world.com/world/south-korean-financial-firms-hit-by-cyberattacks-3322876",
-   "id": "https://www.8world.com/world/south-korean-financial-firms-hit-by-cyberattacks-3322876",
-   "paragraphs": [
-    "韩国多家金融机构接连遭到黑客攻击，当地金融监管机构已经介入调查。",
-    "《韩国联合通讯社》报道，大信证券表示，公司3万8000多名客户的个人和信用资料遭泄露。",
-    "虚拟货币交易所Bithumb则在前天（26日）发现，公司的内部移动办公系统遭到未经授权的外部人员登入，导致个人资料外泄。公司仍在调查具体的影响范围。",
-    "韩国未来资产人寿保险公司也在同一天，发生系统入侵和客户资料泄露事件。",
-    "报道指出，除了信用卡公司外，韩国主要金融行业几乎都遭到黑客攻击。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
    "section": "东南亚",
    "time": "Wed, 28 Oct 2026 17:32:00 +0800",
    "sort_time": "2026-10-28T17:32:00+08:00",
@@ -363,6 +345,24 @@
     "阿斯帕丽拉表示，至少有五起案件同这个集团有关，涉及的芯片总值超过1亿令吉。由于调查仍在进行，她没有透露更多详情。",
     "马国去年在美国施压下，对美国原产的先进人工智能芯片实施出口管制，以遏制有关芯片流入中国。",
     "Download our app and get the latest news updates on-the-go"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 28 Oct 2026 17:32:00 +0800",
+   "sort_time": "2026-10-28T17:32:00+08:00",
+   "title": "韩国多家金融机构接连遭黑客攻击 客户资料外泄",
+   "url": "https://www.8world.com/world/south-korean-financial-firms-hit-by-cyberattacks-3322876",
+   "id": "https://www.8world.com/world/south-korean-financial-firms-hit-by-cyberattacks-3322876",
+   "paragraphs": [
+    "韩国多家金融机构接连遭到黑客攻击，当地金融监管机构已经介入调查。",
+    "《韩国联合通讯社》报道，大信证券表示，公司3万8000多名客户的个人和信用资料遭泄露。",
+    "虚拟货币交易所Bithumb则在前天（26日）发现，公司的内部移动办公系统遭到未经授权的外部人员登入，导致个人资料外泄。公司仍在调查具体的影响范围。",
+    "韩国未来资产人寿保险公司也在同一天，发生系统入侵和客户资料泄露事件。",
+    "报道指出，除了信用卡公司外，韩国主要金融行业几乎都遭到黑客攻击。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
    ]
   },
   {
