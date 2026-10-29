@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T07:40:37+08:00",
+ "generated_at": "2026-10-30T07:50:29+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -185,20 +185,6 @@
   },
   {
    "source": "8world",
-   "section": "体育",
-   "time": "Fri, 30 Oct 2026 06:55:41 +0800",
-   "sort_time": "2026-10-30T06:55:41+08:00",
-   "title": "英联杯：埃弗顿3比1战胜纽卡斯尔",
-   "url": "https://www.8world.com/sports/efl-cup-everton-newcastle-3325001",
-   "id": "https://www.8world.com/sports/efl-cup-everton-newcastle-3325001",
-   "paragraphs": [
-    "英格兰足球联赛杯消息： 埃弗顿在第四圈比赛中，以3比1战胜纽卡斯尔，打进复赛。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
    "section": "财经",
    "time": "Fri, 30 Oct 2026 06:55:12 +0800",
    "sort_time": "2026-10-30T06:55:12+08:00",
@@ -213,6 +199,20 @@
     "行长拉加德透露，在做出决策前，会议曾讨论加息是否恰当的问题，但最终决定先按兵不动。",
     "不过，她强调，如果市场发展威胁到货币政策的顺利传导，央行有相应的应对工具。",
     "分析认为，这加大了央行在12月的会议上加息的预期。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "体育",
+   "time": "Fri, 30 Oct 2026 06:55:00 +0800",
+   "sort_time": "2026-10-30T06:55:00+08:00",
+   "title": "英联杯：埃弗顿3比1战胜纽卡斯尔",
+   "url": "https://www.8world.com/sports/efl-cup-everton-newcastle-3325001",
+   "id": "https://www.8world.com/sports/efl-cup-everton-newcastle-3325001",
+   "paragraphs": [
+    "英格兰足球联赛杯消息： 埃弗顿在第四圈比赛中，以3比1战胜纽卡斯尔，打进复赛。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
