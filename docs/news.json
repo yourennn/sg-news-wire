@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:30:40+08:00",
+ "generated_at": "2026-10-29T16:40:34+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,43 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Thu, 29 Oct 2026 16:36:05 +0800",
+   "sort_time": "2026-10-29T16:36:05+08:00",
+   "title": "合作承包商系统遭未经授权访问 全日空客户个资恐外泄",
+   "url": "https://www.8world.com/world/ana-says-customer-info-possibly-leaked-following-unauthorized-access-3324576",
+   "id": "https://www.8world.com/world/ana-says-customer-info-possibly-leaked-following-unauthorized-access-3324576",
+   "paragraphs": [
+    "日本全日空航空公司（ANA）表示，一家合作承包商的系统遭到未经授权的访问，可能导致客户个人资料外泄。",
+    "《共同网》报道，全日空表示，目前正调查可能受影响的客户人数，以及可能泄露的具体资料内容。",
+    "遭到未经授权访问的是总部设在西班牙的信息科技公司Amadeus IT Group。这家公司也为日本航空公司（JAL）提供服务。",
+    "日本航空昨天（28日）透露，这起事件可能导致大约9万2000笔客户资料外泄。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Thu, 29 Oct 2026 16:29:00 +0800",
+   "sort_time": "2026-10-29T16:29:00+08:00",
+   "title": "抢先看特朗普帖文 彭博社与两家华尔街金融机构付费Truth Social",
+   "url": "https://www.8world.com/world/bloomberg-two-trading-firms-agree-to-pay-trump-truth-social-3324571",
+   "id": "https://www.8world.com/world/bloomberg-two-trading-firms-agree-to-pay-trump-truth-social-3324571",
+   "paragraphs": [
+    "据报道，两家华尔街金融机构和彭博社，同意付费给美国总统特朗普旗下的社交平台Truth Social，让他们比一般用户更快取得特朗普的帖文。",
+    "《路透社》报道，这两家交易机构分别是海纳国际集团（Susquehanna International Group）和Jump Trading，都是专注于算法和自动化交易策略的高频交易公司。",
+    "这项服务通过应用程序接口（API），让订阅机构能够比一般人快大约50毫秒，读取特朗普的帖文。",
+    "由于特朗普的言论可能影响金融市场，这个时间差可以让高频交易公司更快分析消息和进行交易。",
+    "特朗普媒体与科技集团今年7月宣布推出这项服务，并向交易公司及其他金融机构推销。",
+    "有关安排引起争议，美国媒体Intercept Media和非营利组织新闻自由基金会，今年8月起诉特朗普，试图阻止白宫在付费信息服务存在期间，只通过Truth Social发布官方消息。",
+    "他们认为，这种做法等同为政府信息设置收费门槛，可能违反宪法，让有能力付费的华尔街公司占有优势。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "新加坡",
@@ -283,22 +320,6 @@
   },
   {
    "source": "8world",
-   "section": "movies-shows",
-   "time": "Thu, 29 Oct 2026 15:46:46 +0800",
-   "sort_time": "2026-10-29T15:46:46+08:00",
-   "title": "新片上映：The Mongoose",
-   "url": "https://www.8world.com/movies-shows/the-mongoose-3324491",
-   "id": "https://www.8world.com/movies-shows/the-mongoose-3324491",
-   "paragraphs": [
-    "动作电影“The Mongoose”由Liam Neeson御用特技替身Mark Vanselow首次转任导演的长片执导作品。除了Liam Neeson，演员阵容包括Marisa Tomei、Michael Chiklis及 Ving Rhames 。",
-    "在片中，Liam Neeson饰演战功彪炳的战争英雄Ryan “Fang” Flanagan。他因被诬陷犯下自己不曾涉及的罪行，人生顿时陷入混乱。",
-    "走投无路的他决定放手一搏，驾驶一辆偷来的高性能跑车，横越美国腹地，展开一场惊心动魄的逃亡之旅。这场横跨全美、充满危险与刺激的追逐战更被全国电视直播，吸引无数民众关注，牵动全国观众的心。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
    "section": "中港台",
    "time": "Thu, 29 Oct 2026 15:46:22 +0800",
    "sort_time": "2026-10-29T15:46:22+08:00",
@@ -316,6 +337,22 @@
     "她笑言，要不是为了配合长辈，整个婚宴都想订成外卖桌。",
     "李女士认为，年轻人可以有自己的结婚方式，参加婚礼是为了分享喜悦，吃什么不必拘泥于传统。",
     "发布视频的新娘好友马女士说，吃外卖其实是她和其他朋友主动提出的。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "movies-shows",
+   "time": "Thu, 29 Oct 2026 15:46:00 +0800",
+   "sort_time": "2026-10-29T15:46:00+08:00",
+   "title": "新片上映：The Mongoose",
+   "url": "https://www.8world.com/movies-shows/the-mongoose-3324491",
+   "id": "https://www.8world.com/movies-shows/the-mongoose-3324491",
+   "paragraphs": [
+    "动作电影“The Mongoose”由Liam Neeson御用特技替身Mark Vanselow首次转任导演的长片执导作品。除了Liam Neeson，演员阵容包括Marisa Tomei、Michael Chiklis及 Ving Rhames 。",
+    "在片中，Liam Neeson饰演战功彪炳的战争英雄Ryan “Fang” Flanagan。他因被诬陷犯下自己不曾涉及的罪行，人生顿时陷入混乱。",
+    "走投无路的他决定放手一搏，驾驶一辆偷来的高性能跑车，横越美国腹地，展开一场惊心动魄的逃亡之旅。这场横跨全美、充满危险与刺激的追逐战更被全国电视直播，吸引无数民众关注，牵动全国观众的心。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
    ]
   },
   {
@@ -478,43 +515,6 @@
     "面对老公与旧爱同台演出，袁咏仪不仅毫不介意，还化身“头号粉丝”，亲自拿起手机记录这场难得的重聚！",
     "当晚，她头戴黑色鸭舌帽，身穿一身黑色便服，低调坐在观众席。演出期间，她面带笑容，高举手机拍摄张智霖和许秋怡的合唱画面，表现相当大方。",
     "有趣的是，许秋怡的丈夫王书麒也在台下支持，两对夫妻难得同场，见证这场跨越多年的音乐重逢。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Thu, 29 Oct 2026 14:59:00 +0800",
-   "sort_time": "2026-10-29T14:59:00+08:00",
-   "title": "内坦亚胡所属党团指阿拉伯政党窃票 促调查",
-   "url": "https://www.8world.com/world/israel-likud-claims-election-stolen-by-arab-parties-following-their-record-3324451",
-   "id": "https://www.8world.com/world/israel-likud-claims-election-stolen-by-arab-parties-following-their-record-3324451",
-   "paragraphs": [
-    "以色列大选陷入僵局，无法赢得过半议席的以色列总理内坦亚胡所属的利库德集团，指控阿拉伯裔政党窃取选票，要求当局展开调查。",
-    "内坦亚胡所属的利库德集团的得票率，从2022年的23.4%下滑到这次的20.7%。",
-    "观察家认为，内坦亚胡虽然遭遇挫折，但他并没有输掉这次选举，因为反对派阵营无法一举撼动内坦亚胡的势力。",
-    "以色列特拉维夫大学教授萨默说，“如今最大的问题是艾森科特领导的政治联盟内部存在分歧，迄今没有任何一个盟党公开支持他出任总理，他能否真正组建一个替代政府。”",
-    "在没有任何阵营赢得国会过半数议席的情况下，两大阵营正积极寻找政党支持，寻求组建下一届政府。",
-    "负责授权组阁的以色列总统赫尔佐格，呼吁各政党保持开放，希望避免再次举行大选。",
-    "有可能成为造王者的阿拉伯裔政党表示，选民已经明确表达更换领导层的意愿。他们愿意支持反对内坦亚胡的阵营，但不会加入执政联盟。",
-    "阿拉伯裔政党联合名单领袖贾巴林说，“正如我们向我们的社群所承诺的，我们希望运用这股政治力量将内塔亚胡及他的政府赶下台，并希望借此协助改变以色列的政治局势。”",
-    "选举委员会表示，最终选举结果预料将在星期四傍晚出炉。",
-    "Download our app and get the latest news updates on-the-go"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Thu, 29 Oct 2026 14:48:37 +0800",
-   "sort_time": "2026-10-29T14:48:37+08:00",
-   "title": "女子夜店非礼女服务员被罚2500元 受害者索额外赔偿遭拒",
-   "url": "https://www.8world.com/singapore/woman-fined-for-molesting-female-server-at-nightclub-3324446",
-   "id": "https://www.8world.com/singapore/woman-fined-for-molesting-female-server-at-nightclub-3324446",
-   "paragraphs": [
-    "女子夜店非礼女服务员被罚2500元，受害者索额外赔偿遭拒。（图：iStock）",
-    "一名印度籍女子在夜店非礼女服务员，被判罚款2500元。受害者庭上声称自己因为这起事件失去工作，蒙受约1万8000元收入损失，因此要求额外赔偿，但法官认为证据不足，没有下令被告支付额外赔偿。 新传媒亚洲新闻台CNA报道，32岁的印度籍女子Sonik Archana Susheel承认一项非礼罪，今天（29日）被判罚款2500元。 案情显示，被告今年3月13日深夜约11点到一家热门夜店与朋友见面。由于受害者身份受法庭禁令保护，媒体不能公开夜店名称。 被告事发前已在家中喝酒，抵达夜店后继续饮酒。隔天（14日）午夜过后，被告独自跳舞时，受害者和两名同事恰好经过，险些与她相撞。 被告随后伸手触摸受害者的臀部，并推了她的腹部，还向她竖起中指。 受害者转身对被告爆粗口，随后因感到不安而向夜店保安求助。她的上司随后报警。被告当天被捕。 控方要求法庭判处被告2500元罚款。 辩护律师表示，控方提出的刑罚合理，被告没有犯罪前科，并已自愿向受害者支付1500元赔偿。律师强调，被告的行为完全不符合她平时的表现，也不是为了满足性欲。",
-    "受害者在法庭陈述事发经过时证实，已收到被告自愿支付的1500元赔偿，但希望索取额外赔偿。 她说，自己可能是因为事件带来的麻烦遭解雇，因此损失约六个月的收入，总额约1万8000元。 辩护律师表示，先前支付的1500元是针对受害者所承受的精神伤害。他对受害者失业所蒙受的损失深表同情，但认为没有明确证据证明非礼事件与失业之间存在直接关联，也不认为赔偿令是追讨这类损失的适当途径。 法官指出，没有足够证据判断是否应该下令赔偿，以及适当的赔偿金额。她认为，这类索偿更适合通过其他途径处理。考虑到被告已自愿支付赔偿，法官决定不再发出赔偿令。 根据法律，非礼罪一旦成立，可被判最长三年监禁、罚款，或两者兼施。由于被告是女性，因此不能被判鞭刑。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
