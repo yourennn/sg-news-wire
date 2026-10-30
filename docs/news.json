@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:50:34+08:00",
+ "generated_at": "2026-10-30T18:00:49+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,10 +13,47 @@
  "articles": [
   {
    "source": "8world",
+   "section": "国际",
+   "time": "Fri, 30 Oct 2026 17:52:44 +0800",
+   "sort_time": "2026-10-30T17:52:44+08:00",
+   "title": "日本富士山迎来初雪  比往年平均迟28天",
+   "url": "https://www.8world.com/world/mount-fuji-first-snow-3325571",
+   "id": "https://www.8world.com/world/mount-fuji-first-snow-3325571",
+   "paragraphs": [
+    "日本富士山今天迎来初冠雪，比往年的平均初雪日迟了28天，比起去年也迟了七天。（图：日本放送协会）",
+    "日本富士山今天迎来初冠雪，比往年的平均初雪日迟了28天，比起去年也迟了七天。这是日本气象厅首次采用雷达和卫星数据，而不是依靠目测确认富士山出现初冠雪。",
+    "综合日本媒体报道，海拔3776米的富士山在星期五（10月30日）早上8点左右，气温降至摄氏零下6.3度，雷达数据显示积雪至少达一厘米。",
+    "日本气象厅表示，富士山以往都是由山梨县的甲府地方气象台工作人员，通过目测确认富士山是否出现初冠雪。不过，从今年起，当局改用雷达和气象卫星等数据，判断山顶的积雪情况，以提高观测准确度，减轻工作人员的负担。",
+    "位于富士五湖区中心的富士吉田市政府表明，希望随着山上积雪逐渐增加，民众能欣赏到富士山美丽的雪景。",
+    "自2006年起，富士吉田市便独立发布富士山初雪消息，以弥补甲府地方气象台可能因雨雾天气而无法目测的缺憾。甲府地方气象台距离富士山约40公里。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "东南亚",
-   "time": "Fri, 30 Oct 2026 17:48:45 +0800",
-   "sort_time": "2026-10-30T17:48:45+08:00",
-   "title": "截至10月底 泰国136人感染“土壤热” 疾病死亡",
+   "time": "Fri, 30 Oct 2026 17:50:51 +0800",
+   "sort_time": "2026-10-30T17:50:51+08:00",
+   "title": "马六甲州选明提名 45名准候选人已缴按柜金",
+   "url": "https://www.8world.com/southeast-asia/meleka-state-election-nom-3325566",
+   "id": "https://www.8world.com/southeast-asia/meleka-state-election-nom-3325566",
+   "paragraphs": [
+    "马来西亚选举委员会主席南兰哈伦。（图：马新社）",
+    "马来西亚马六甲州选举明天（31日）举行提名。截至昨晚（29日），选举委员会已发出189份候选人提名表格，其中45名准候选人已缴付按柜金。",
+    "马新社报道，全州28个提名中心将在明天上午9点至10点同步开放。选举委员会主席南兰哈伦呼吁准候选人提早到场，以便工作人员检查提名文件，避免文件问题影响参选资格。",
+    "另有80名助理选举官及其他官员协助提名工作，确保程序顺利进行。",
+    "马六甲州选举将在11月10日举行提前投票，正式投票日则落在11月14日。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Fri, 30 Oct 2026 17:48:00 +0800",
+   "sort_time": "2026-10-30T17:48:00+08:00",
+   "title": "截至10月底 泰国136人感染“土壤热”疾病死亡",
    "url": "https://www.8world.com/southeast-asia/thailand-issues-soil-fever-warning-after-136-deaths-3325561",
    "id": "https://www.8world.com/southeast-asia/thailand-issues-soil-fever-warning-after-136-deaths-3325561",
    "paragraphs": [
@@ -629,46 +666,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "国际",
-   "time": "Fri, 30 Oct 2026 15:26:00 +0800",
-   "sort_time": "2026-10-30T15:26:00+08:00",
-   "title": "疑遭黑客攻击 币安暂停存款和提款服务",
-   "url": "https://www.8world.com/world/binance-halts-withdrawals-after-hack-3325461",
-   "id": "https://www.8world.com/world/binance-halts-withdrawals-after-hack-3325461",
-   "paragraphs": [
-    "全球最大加密货币交易所 币安（Binance）疑似遭遇黑客攻击 后，宣布暂时停止所有存款和提款服务。",
-    "英国《金融时报》报道，币安发表声明表示，这起事件估计涉及的金额高达63亿美元。公司已同区块链合作伙伴联手冻结受影响资产，总值大约30亿美元。",
-    "币安指出，初步调查显示，这起安全事件可能涉及一名开发运维工程师的膝上型电脑遭入侵，导致攻击者得以进入服务容器，并提交未经授权的提款交易。",
-    "不过，公司强调，目前没有证据显示任何加密货币钱包的私钥（private key）外泄。",
-    "币安早前在社交平台X发文表示，已经暂时停止所有存款和提款服务，以便团队进行安全检查、冻结资金，并同执法机构合作调查。",
-    "币安创办人赵长鹏较早前也向客户保证，他们的资金安全。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "arts-culture",
-   "time": "Fri, 30 Oct 2026 15:16:41 +0800",
-   "sort_time": "2026-10-30T15:16:41+08:00",
-   "title": "Singapore Book Street汇集逾1200种本地好书，八成可用文化通行证购买！",
-   "url": "https://www.8world.com/arts-culture/inaugural-singapore-book-street-3325456",
-   "id": "https://www.8world.com/arts-culture/inaugural-singapore-book-street-3325456",
-   "paragraphs": [
-    "（图：Singapore Book Street）",
-    "爱看书的朋友有福了！首届Singapore Book Street将于11月2日至8日在VivoCity登场，汇集超过40家本地出版社、逾1200种本地文学作品，让书迷一次逛个够！",
-    "由国家艺术理事会与新加坡出版商协会联合主办的Singapore Book Street，是本地规模最大的新加坡文学书展，涵盖英文、华文、马来文和淡米尔文4种官方语言的作品。",
-    "从小说、诗集、奇幻文学、漫画小说到儿童绘本，题材丰富，无论大人小孩都能找到心头好。活动希望成为全年推广本地文学的重点项目，让新加坡文学更贴近大众日常生活。",
-    "值得一提的是，书展约八成书籍可用文化通行证（SG Culture Pass）额度购买！",
-    "据新加坡出版商协会会员的调查，自今年3月开放使用文化通行证购买指定本地文学作品以来，相关书籍销量已增长超过300%。",
-    "此次书展地点也别具历史意义。早在1970至1980年代，港湾一带的前世界贸易中心（现为港湾中心）就连年举办新加坡书展。时隔数十年，大型书展再度回归这一带，这次聚焦本地文学，让新加坡故事成为主角。",
-    "除了淘书，现场也安排超过30项文学及互动活动，包括新书发布、诗人晚间朗诵、亲子故事会，以及与本地作家和插画家见面的机会。",
-    "购物满$50，可兑换本地诗人即兴创作的诗作或插画家的现场速写；消费满$100，则可兑换包含帆布袋、笔记本和贴纸的限定礼包。",
-    "访客也可参与集章活动，收集由2026年“年度插画家奖”得主设计的两款印章。"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "15:11",
@@ -694,7 +691,7 @@
    "section": "新加坡",
    "time": "15:00",
    "sort_time": "2026-10-30T15:00:00+08:00",
-   "title": "近半采用AI企业用它招聘员工 人事流程多仍以人工把关",
+   "title": "雇联调查：近半企业采用AI招聘员工 人事流程多仍以人工把关",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261030-9918065",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261030-9918065",
    "paragraphs": [
