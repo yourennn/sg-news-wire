@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T07:30:43+08:00",
+ "generated_at": "2026-10-31T07:40:32+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,24 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "财经",
+   "time": "Sat, 31 Oct 2026 07:32:00 +0800",
+   "sort_time": "2026-10-31T07:32:00+08:00",
+   "title": "黄金价格跌破每盎司3900美元 创一年来最低水平",
+   "url": "https://www.8world.com/finance/gold-price-dived-3326021",
+   "id": "https://www.8world.com/finance/gold-price-dived-3326021",
+   "paragraphs": [
+    "黄金价格跌破每盎司3900美元，下滑到一年来的最低水平。",
+    "《路透社》报道，现货金价在纽约午后交易时段下跌3.5%，到大约每盎司3881美元，是自去年10月以来的新低。",
+    "美国12月黄金期货是以每盎司3899美元收盘，跌幅为3.3%。",
+    "另外，白银价格下跌6.5%，到每盎司49美元，是11个月来第一次跌破50美元。",
+    "德国商业银行分析师认为，科技股大跌，可能迫使投资者抛售黄金等避险资产来应付追加保证金的要求，不过他预测贵金属价格会回升。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -598,21 +616,6 @@
     "币安初步调查发现，攻击可能从公司一名工程师的笔记本电脑开始。 黑客疑似入侵电脑后取得系统访问权限，并向币安钱包提交未经授权的提款指令，把加密资产转移至他们控制的钱包。 值得注意的是，币安表示，目前没有证据显示加密货币钱包的私钥（private key）外泄。 美国区块链情报公司TRM Labs表示，攻击者从币安位于十个区块链上的钱包转走约63亿6000万美元资产，大部分资金在约20分钟内完成转移。",
     "TRM Labs将攻击归咎于朝鲜精锐黑客组织TraderTraitor，并表示对这一判断具有高度信心。 美国另一家区块链分析公司Chainalysis也认为攻击与朝鲜有关，英国区块链分析公司Elliptic则作出类似判断。 这些机构的判断来自链上和链下情报，以及攻击手法和资金转移模式。 不过，币安本身尚未确认攻击者身份。",
     "黑客这次从币安转走超过63亿美元资产，远远超过过去多起大型加密货币盗窃案。 做市商GSR的阿拉温德·斯里尼瓦桑（Aravind Srinivasan）形容，这是“史上规模最大的黑客攻击”。 事件也刷新了外界对大型加密货币交易平台安全风险的认识：即使是全球规模最大的交易所，也可能在极短时间内面对数十亿美元资产被转移的风险。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Fri, 30 Oct 2026 22:22:00 +0800",
-   "sort_time": "2026-10-30T22:22:00+08:00",
-   "title": "18名企业家获年度企业家奖",
-   "url": "https://www.8world.com/singapore/asme-entrepreneur-award-2026-3325866",
-   "id": "https://www.8world.com/singapore/asme-entrepreneur-award-2026-3325866",
-   "paragraphs": [
-    "主管能源与工业的能源、贸易及工业部部长陈诗龙医生年度企业家奖颁奖典礼。",
-    "18名企业家今天(30日)在年度企业家奖颁奖典礼上获奖。 主管能源与工业的能源、贸易及工业部部长陈诗龙医生也出席了颁奖典礼。 陈诗龙在活动上致辞时表示，许多企业家在我国经济转型过程中扮演重要角色，为国家的经济增长与发展作出贡献。 得奖的包括将泳校发展成区域游泳教育机构Happy Fish Swim School创办人兼总裁Tan Jian Yong，以及推动老字号食品制造商Ha Li Fa转型的企业家Jill Ang。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
