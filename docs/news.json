@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T07:50:29+08:00",
+ "generated_at": "2026-10-30T08:00:52+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,39 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "财经",
+   "time": "Fri, 30 Oct 2026 07:55:55 +0800",
+   "sort_time": "2026-10-30T07:55:55+08:00",
+   "title": "美国华尔街股市三连涨后 全面下滑",
+   "url": "https://www.8world.com/finance/dow-3325036",
+   "id": "https://www.8world.com/finance/dow-3325036",
+   "paragraphs": [
+    "道琼斯工商指数跌133点，报5万2343点；标准与普尔500指数滑落24点，报7720点；反映科技股走势的纳斯达克指数下滑365点或将近1.4%，报2万6185点。",
+    "交易员说，投资人士正在消化各大企业的财报业绩和通货膨胀数据，并重新评估科技业巨头发布关于人工智能方面的开销情况。其中，互联网搜索引擎谷歌母公司Alphabet公布的季度业绩不如市场预期，导致公司股价下挫超过12%，拖累科技股下跌。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Fri, 30 Oct 2026 07:52:31 +0800",
+   "sort_time": "2026-10-30T07:52:31+08:00",
+   "title": "据传涉泄密 美军高级将领被革职",
+   "url": "https://www.8world.com/world/brett-sylvia-fired-3325031",
+   "id": "https://www.8world.com/world/brett-sylvia-fired-3325031",
+   "paragraphs": [
+    "参谋长联席会议的战略、计划与政策主管陆军中将西尔维亚（Brett Sylvia）据传被革职。（图：路透社档案照）",
+    "据报道，美军一名高级将领被革职，理由是泄露机密资料。",
+    "《路透社》引述官员的消息说，被革职的是参谋长联席会议的战略、计划与政策主管陆军中将西尔维亚（Brett Sylvia）。他被指向媒体泄露机密消息。",
+    "西尔维亚是因为同样指控，受到处分的最高级军事将领之一。",
+    "外界认为，就在美国总统特朗普可能再次对伊朗发动大规模军事打击行动之际，五角大楼这次的人事变动令人感到意外。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -511,27 +544,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Thu, 29 Oct 2026 22:39:07 +0800",
-   "sort_time": "2026-10-29T22:39:07+08:00",
-   "title": "涉杀中国雇主逃入甘蔗园 四嫌犯躲五小时后求食物落网",
-   "url": "https://www.8world.com/southeast-asia/thailand-mynmar-workers-kill-chinese-employer-3324921",
-   "id": "https://www.8world.com/southeast-asia/thailand-mynmar-workers-kill-chinese-employer-3324921",
-   "paragraphs": [
-    "四名嫌犯最终因体力不支走出甘蔗园，结果被警方逮捕。（图:泰国头条新闻）",
-    "疑因工资纠纷杀害中国籍雇主，泰国四名缅甸籍员工干案后携款逃进甘蔗园躲藏，警方展开大规模搜捕五个多小时后，四人因体力不支，自行走出甘蔗林向救援人员索取食物和水，最终被警方逮捕。",
-    "综合泰国媒体The Thaiger及泰国头条新闻报道，案件于星期二（27日）发生在曼谷拉卡邦区（Lat Krabang）一处建筑工地。",
-    "据了解，39岁中国籍雇主Yang Zhongshu因工资纠纷，遭两对男女员工袭击而伤重身亡，四名嫌疑人涉嫌拿走4万至5万泰铢（约1520至1900新元）现金后逃离。",
-    "案发隔天下午约3点，春武里府调查人员接获曼谷警方通报称，四名嫌疑人已逃往当地帕那尼空县（Phanat Nikhom）。",
-    "警方随即联合当地警员、地方行政人员及救援人员，出动超过100人展开搜捕，在华塔农（Hua Thanon）及萨西廉（Sa Si Liam）一带的约16公顷甘蔗园搜查。",
-    "执法人员包围甘蔗林，并出动配备热成像设备的无人机搜寻园内动静。经过五个多小时的搜捕，四人最终于当天深夜自行走出甘蔗林。",
-    "一名救援人员发现，四人的面部特征与警方追捕的嫌疑人相似，于是上前询问。他们承认涉案，并向救援人员索取食物和饮用水。",
-    "救援人员随后通报警方，四人最终于晚上约11点被逮捕。",
-    "据报道，四名男女嫌犯为两对夫妻，他们在被警方初步盘问时已承认涉案；案件仍在调查中。"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "22:31",
@@ -571,26 +583,6 @@
     "阿拉伯裔政党拉姆党（Ra’am）领导人阿巴斯（Mansour Abbas）也否认有关指控。",
     "以色列总统赫尔佐格呼吁调查有关指控，但同时警告，不应因此污名化整个阿拉伯裔以色列人社群。这次选举中，阿拉伯裔选民的投票率创下新高。",
     "内坦亚胡本人此前也卷入与卡塔尔有关的争议。他的两名助手去年因涉嫌收受卡塔尔款项而被捕。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Thu, 29 Oct 2026 22:19:21 +0800",
-   "sort_time": "2026-10-29T22:19:21+08:00",
-   "title": "疑含金属异物 食品局召回四款Bomberry巧克力水果食品",
-   "url": "https://www.8world.com/singapore/recall-of-bomberry-products-3324831",
-   "id": "https://www.8world.com/singapore/recall-of-bomberry-products-3324831",
-   "paragraphs": [
-    "新加坡食品局召回以上四款从澳大利亚进口的Bomberry巧克力水果食品。（图：新加坡食品局）",
-    "四款从澳大利亚进口的Bomberry巧克力水果食品疑似含有金属异物，新加坡食品局已指示进口商召回受影响产品。",
-    "食品局今天（29日）发文告表示，澳大利亚和新西兰食品标准局发出通知，召回多款Bomberry产品，原因是这些产品可能含有金属异物。",
-    "作为预防措施，食品局已指示本地进口商Little Farms私人有限公司召回受影响产品，目前召回工作仍在进行中。",
-    "·Bomberry天然蓝莓配比利时黑巧克力 ·Bomberry天然蓝莓配比利时白巧克力及牛奶巧克力 ·Bomberry天然树莓配比利时白巧克力及黑巧克力 ·Bomberry天然树莓配比利时白巧克力及牛奶巧克力",
-    "四款产品均为150克装，原产地为澳大利亚。召回范围涵盖所有最佳食用日期为2028年1月20日或之前的上述产品。",
-    "食品局提醒，已经购买受影响产品的消费者不要食用。如果已经食用有关产品，并对自身健康状况感到担忧，应及时求医。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
