@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:50:45+08:00",
+ "generated_at": "2026-10-31T13:00:45+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,9 +13,29 @@
  "articles": [
   {
    "source": "8world",
+   "section": "新加坡",
+   "time": "Sat, 31 Oct 2026 12:57:10 +0800",
+   "sort_time": "2026-10-31T12:57:10+08:00",
+   "title": "淡滨尼车祸无照司机被控 面对危驾致死等九项控状",
+   "url": "https://www.8world.com/singapore/tampines-accident-driver-charged-3326116",
+   "id": "https://www.8world.com/singapore/tampines-accident-driver-charged-3326116",
+   "paragraphs": [
+    "10月29日淡滨尼12道发生致命车祸。（图：新加坡警察部队）",
+    "淡滨尼致命车祸的涉案司机今天（31日）被控上法庭，这名30岁男子一共面对九项控状，当中包括危险驾驶导致他人死亡。",
+    "《8视界新闻网》早前报道，淡滨尼12道星期四（29日）发生致命车祸，涉及一辆摩托车和两辆轿车，并造成24岁的摩托车骑士和乘客身亡。",
+    "涉案的30岁男司机在车祸后弃车逃逸，警方随后将他和一名29岁女乘客逮捕。",
+    "涉案男司机Muhammad Zulfiqar Abdul Aziz今天面控，一共面对九项罪名。",
+    "法庭也下令禁止被告保释外出，他将在11月27日过堂。",
+    "由于两名死者遗下一名六岁孩子，法庭也已颁布禁令，禁止报道死者的姓名。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "国际",
-   "time": "Sat, 31 Oct 2026 12:47:22 +0800",
-   "sort_time": "2026-10-31T12:47:22+08:00",
+   "time": "Sat, 31 Oct 2026 12:47:00 +0800",
+   "sort_time": "2026-10-31T12:47:00+08:00",
    "title": "美国法官下令禁止司法部以刑事起诉威胁选举官员",
    "url": "https://www.8world.com/world/judge-orders-to-cease-threats-to-prosecute-election-officials-3326121",
    "id": "https://www.8world.com/world/judge-orders-to-cease-threats-to-prosecute-election-officials-3326121",
@@ -589,27 +609,6 @@
     "美国和以色列今年2月空袭伊朗后，伊朗封锁霍尔木兹海峡，全球能源价格飙升。外界预计，这次会议难有重大突破。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Sat, 31 Oct 2026 08:20:00 +0800",
-   "sort_time": "2026-10-31T08:20:00+08:00",
-   "title": "本地三大医疗集群应用程序 11月起整合到HealthHub应用",
-   "url": "https://www.8world.com/singapore/nhg-health-nuhs-singhealth-apps-under-healthhub-3326026",
-   "id": "https://www.8world.com/singapore/nhg-health-nuhs-singhealth-apps-under-healthhub-3326026",
-   "paragraphs": [
-    "公共医疗应用11月统一至HealthHub。（图：Healthhub网站）",
-    "从11月起，公众只需通过HealthHub应用程序，就能获取本地三大公共医疗集群的医疗资讯和服务，无须再切换不同的应用程序，更方便地管理个人医疗事务。",
-    "三大公共医疗集群分别是国立健保集团（NHG Health）、国大医学组织（NUHS），以及新加坡保健服务集团（SingHealth）。",
-    "全国医疗科技机构新联科技（Synapxe）今年7月宣布 ，将整合三大医疗集群的专属应用程序，包括NHG Health、NUHS App和Health Buddy，统一纳入升级版HealthHub。",
-    "三大医疗集群原有的专属应用将在明年2月底前陆续停止服务。整合期间，病患现有的医疗记录、预约和医疗服务均不受影响。",
-    "升级版HealthHub将提供多项数码医疗服务，让公众更方便地管理自己和家人的医疗需求。",
-    "用户可通过指纹或面部识别功能，更便捷地使用部分电子医疗服务及查阅医疗记录，也可根据个人需求自定义主页，将常用的医疗服务放在显眼位置。",
-    "此外，用户可查看医疗记录，包括疫苗接种记录、化验报告、医疗警示及药物不良反应等资料。",
-    "预约方面，公众可选择指定的综合诊疗所和医疗服务，并在看诊前30到90分钟通过应用程序预先登记，获取排队号码。",
-    "用户也可通过应用程序支付未缴清的医疗账单、查看处方记录，以及申请补充药物。"
    ]
   },
   {
