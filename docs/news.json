@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:40:31+08:00",
+ "generated_at": "2026-10-31T12:50:45+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,24 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 31 Oct 2026 12:47:22 +0800",
+   "sort_time": "2026-10-31T12:47:22+08:00",
+   "title": "美国法官下令禁止司法部以刑事起诉威胁选举官员",
+   "url": "https://www.8world.com/world/judge-orders-to-cease-threats-to-prosecute-election-officials-3326121",
+   "id": "https://www.8world.com/world/judge-orders-to-cease-threats-to-prosecute-election-officials-3326121",
+   "paragraphs": [
+    "美国一名联邦法官下令禁止司法部以刑事起诉威胁不配合特朗普政府要求的各州和地方选举官员。",
+    "《路透社》报道，法官汤普森（Trina Thompson）颁布临时限制令，禁止当局以选民涉嫌没有投票资格为由，要求把特定的已登记选民从选民名单中删除、拒绝向特定选民发出选票，或要求不点算选票。",
+    "法官指出，现在距离美国中期选举投票日只剩几天，公众最关心的是选举官员和工作人员能够依法执行工作。",
+    "她表示，司法部威胁起诉不合作的选举官员，做得太过分了。司法部不能指称某名选民没有投票资格，就威胁、恐吓或强迫选举官员停止处理这名选民的选票。",
+    "更多相关报道，请浏览 《美国中期选举2026》 。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -613,24 +631,6 @@
     "欧盟外交与安全政策高级代表卡拉斯星期五告诉法新社，俄方似乎并未做好推进和平谈判的准备。她呼吁继续向莫斯科施压，特别是在促成黑海地区停火方面。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "财经",
-   "time": "Sat, 31 Oct 2026 07:32:00 +0800",
-   "sort_time": "2026-10-31T07:32:00+08:00",
-   "title": "黄金价格跌破每盎司3900美元 创一年来最低水平",
-   "url": "https://www.8world.com/finance/gold-price-dived-3326021",
-   "id": "https://www.8world.com/finance/gold-price-dived-3326021",
-   "paragraphs": [
-    "黄金价格跌破每盎司3900美元，下滑到一年来的最低水平。",
-    "《路透社》报道，现货金价在纽约午后交易时段下跌3.5%，到大约每盎司3881美元，是自去年10月以来的新低。",
-    "美国12月黄金期货是以每盎司3899美元收盘，跌幅为3.3%。",
-    "另外，白银价格下跌6.5%，到每盎司49美元，是11个月来第一次跌破50美元。",
-    "德国商业银行分析师认为，科技股大跌，可能迫使投资者抛售黄金等避险资产来应付追加保证金的要求，不过他预测贵金属价格会回升。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
