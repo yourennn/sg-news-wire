@@ -1,13 +1,14 @@
 {
- "generated_at": "2026-11-01T20:40:31+08:00",
+ "generated_at": "2026-11-01T20:50:52+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
    "count": 20
   },
   "8world": {
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 20,
+   "error": "HTTPSConnectionPool(host='www.8world.com', port=443): Read timed out. (read timeout=20)"
   }
  },
  "articles": [
