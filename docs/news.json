@@ -1,17 +1,50 @@
 {
- "generated_at": "2026-11-01T20:50:52+08:00",
+ "generated_at": "2026-11-01T21:00:46+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
    "count": 20
   },
   "8world": {
-   "ok": false,
-   "count": 20,
-   "error": "HTTPSConnectionPool(host='www.8world.com', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 20
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "中港台",
+   "time": "Sun, 01 Nov 2026 20:52:30 +0800",
+   "sort_time": "2026-11-01T20:52:30+08:00",
+   "title": "重庆男童踩滑板车误闯快速公路 多名司机暖心护送",
+   "url": "https://www.8world.com/greater-china/china-boy-kick-scooter-enters-expressway-3327196",
+   "id": "https://www.8world.com/greater-china/china-boy-kick-scooter-enters-expressway-3327196",
+   "paragraphs": [
+    "男童踩滑板车误入开速车道，险象环生，幸有好心驾驶司机护助，让男童脱险。（图：星视频）",
+    "中国重庆市一名据称患有自闭症的男童，疑趁家人不注意时溜出家门，踩着滑板车误闯快速公路，多名路过的驾驶者纷纷减速并开启双闪灯，为男童筑起临时安全防护圈，最终协助他脱险。 网上流传的视频显示，男童当时踩着滑板车在快速车道上滑行，身旁不断有车辆驶过，情况相当危险。 发现男童后，多名驾驶者不约而同地放慢车速，并开启双闪灯，一边避让，一边护送男童往紧急停车道移动，为他挡下后方车流。 随后，一名网约车司机停车，带男童上车，直到赶到现场的警员接手。 据悉，公路监控巡查人员发现男童误闯快速公路后，立即通知附近巡查组前往处理。男童最终平安无事，并已由家人接回。 警方事后也联系上参与救助的驾驶者，表扬他们在紧急关头冷静应对、互相配合的救护行为。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Sun, 01 Nov 2026 20:48:35 +0800",
+   "sort_time": "2026-11-01T20:48:35+08:00",
+   "title": "越南批准十年发展战略 重点提升儿童网络安全",
+   "url": "https://www.8world.com/southeast-asia/vietnam-tackles-gaps-in-child-online-safety-3327191",
+   "id": "https://www.8world.com/southeast-asia/vietnam-tackles-gaps-in-child-online-safety-3327191",
+   "paragraphs": [
+    "越南批准了未来十年的国家儿童发展战略，希望提升儿童的数码技能，打造安全网络环境，并完善求助机制。",
+    "在河内举办的“你并不孤单”网络安全日活动中，学生通过互动游戏学习如何识别网络威胁并求助。",
+    "一名高中生说，活动让他更懂得识别网络风险，也知道遇到问题时，可以向老师和朋友求助。",
+    "联合国儿童基金会的报告显示，越南儿童网络问题案例中，58.6%没有被披露，当中超过两成受害者认为事件不够严重，18.5%不知道如何求助。其他人则怕尴尬或担心麻烦而沉默。",
+    "联合国儿童基金会驻越南首席代表达奈洛夫说，“越南曾是这个地区首个批准《儿童权利公约》的国家。公约为儿童权利和儿童保护提供了框架，我认为他们正积极采取一系列措施，进一步加强儿童保护工作。”",
+    "根据发展战略，2027年越南各地将建立儿童保护支持和求助机制。到了2035年将让数码技能教育覆盖95%的学生。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -31,6 +64,21 @@
     "阿克特尔直言：“考虑到通胀和不断上涨的生活费，我们这次要求将月薪调高至3万塔卡以上。”",
     "面对越南等区域竞争对手的挑战，孟加拉成衣业目前也正寻求将版图扩展至传统市场之外，近期不仅获得进入日本市场的更大准入权，也在积极开拓新的出口目的地。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sun, 01 Nov 2026 20:38:13 +0800",
+   "sort_time": "2026-11-01T20:38:13+08:00",
+   "title": "客机降落珀斯机身倾斜 新航：遇强风决定复飞",
+   "url": "https://www.8world.com/world/sia-flight-perth-go-around-3327186",
+   "id": "https://www.8world.com/world/sia-flight-perth-go-around-3327186",
+   "paragraphs": [
+    "目击者在网上分享的视频显示，一架新航客机在珀斯机场准备降落时，机身一度明显倾斜，随后复飞。（图：受访者提供）",
+    "新加坡航空公司证实，一架从新加坡飞往澳大利亚珀斯的客机，准备降落时遇上强风，机师随后决定让客机复飞，最终安全降落。 新航发言人回复《8视界新闻网》询问时说，涉事新航SQ213航班星期六（10月31日）在接近珀斯国际机场时遇上强风，机师决定采取复飞程序。 发言人说，这架空中巴士A350-900客机最终于当地时间中午12点30分安全降落，并滑行至登机门。 发言人强调，乘客和机组人员的安全始终是新航的首要考量。 《8视界新闻网》 早前报道 ，网民在社交媒体分享的视频显示，客机降落珀斯机场时机身明显倾斜，随后重新爬升；另一段视频则显示，客机第二次尝试后安全着陆，机场观景台上的民众随即鼓掌欢呼。 据早前报道，一名乘客形容，客机当时剧烈颠簸，让她感到恶心，机上也有乘客呕吐。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
    ]
   },
   {
@@ -252,8 +300,8 @@
   {
    "source": "8world",
    "section": "music",
-   "time": "Sun, 01 Nov 2026 18:49:46 +0800",
-   "sort_time": "2026-11-01T18:49:46+08:00",
+   "time": "Sun, 01 Nov 2026 18:49:00 +0800",
+   "sort_time": "2026-11-01T18:49:00+08:00",
    "title": "海内外歌手齐聚“SING浪”四面台开唱　被粉丝喊话“脱衣”，高尔宣机智回应！",
    "url": "https://www.8world.com/music/singlang-concert-3327041",
    "id": "https://www.8world.com/music/singlang-concert-3327041",
@@ -629,23 +677,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Sun, 01 Nov 2026 17:08:46 +0800",
-   "sort_time": "2026-11-01T17:08:46+08:00",
-   "title": "马航订票供应商发生网安事件 部分客户资料或受影响",
-   "url": "https://www.8world.com/southeast-asia/malaysia-airlines-amadeus-security-breach-3326871",
-   "id": "https://www.8world.com/southeast-asia/malaysia-airlines-amadeus-security-breach-3326871",
-   "paragraphs": [
-    "马航指网安事件或影响过去三年通过Amadeus处理的部分客户资料。（图：路透社/Hasnoor Hussain）",
-    "继日本全日空航空公司（ANA）和香港国泰航空之后，马来西亚航空公司（MAB）也表示，由于第三方航空订票技术供应商Amadeus发生网络安全事件，马航部分客户资料可能受到影响。",
-    "马航昨天（10月31日）在官网发布声明指出，有关事件可能影响了2023年8月到今年9月期间，通过Amadeus处理的部分客户资料。",
-    "不过，马航也保证，公司本身的信息技术系统并未受到影响。截至目前，也没有证据显示客户的财务资料曾被访问。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "16:59",
@@ -667,21 +698,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Sun, 01 Nov 2026 16:59:12 +0800",
-   "sort_time": "2026-11-01T16:59:12+08:00",
-   "title": "狮城男子曼谷下德士后狂奔 坠下高架公路重伤",
-   "url": "https://www.8world.com/southeast-asia/singaporean-runs-from-bangkok-airport-taxi-falls-off-expressway-3326846",
-   "id": "https://www.8world.com/southeast-asia/singaporean-runs-from-bangkok-airport-taxi-falls-off-expressway-3326846",
-   "paragraphs": [
-    "本地男子在曼谷高速公路跳车奔跑，越过护栏坠落。（图：Thaiger）",
-    "一名30岁新加坡男子从曼谷机场搭乘德士途中，突然要求司机停车，随后下车在高速公路上奔跑，最终越过护栏后从高架公路坠落，身受重伤。 泰国媒体Thaiger报道，事件星期一（26日）发生在曼谷诗丽叻高速公路（Si Rat Expressway）玛卡山（Makkasan）一带。 德士司机表示，他早前从素万那普国际机场接载男子。男子上车后没有说明目的地，只不断要求司机继续前行。 德士驶至玛卡山附近时，男子突然情绪激动，多次要求司机停车。 司机停车后，男子打开车门下车，并沿着高速公路奔跑。司机曾尝试追上并劝他返回车内，但最终失去他的踪影，于是向当地交通广播电台求助。 电台随即通知高速公路救援人员及警方。 警方过后接获通报，指有人从高架公路坠落至下方的拉差贴威披隆公园（Ratchathewi Phirom Park）。 救援人员赶到现场后发现男子已经失去意识并身受重伤，通过护照确认他是新加坡公民。他随后被送往拉差威医院（Rajavithi Hospital）接受治疗。 泰国媒体报道，男子坠落前曾越过高速公路护栏。不过，他为何这么做以及坠落的具体经过，目前仍不清楚。 警方正向德士司机录取口供，并收集证据调查事件。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "16:54",
@@ -700,27 +716,6 @@
     "华族文化中心总裁陈子宇说：“我们希望借助巡回宝箱，从小培养幼儿对华文华语及华族文化的兴趣，并且为学前教育工作者提供必要的资源，促进语言学习和文化欣赏，从而为幼儿园带来教育性又生动有趣的本土华族文化体验。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Sun, 01 Nov 2026 16:54:00 +0800",
-   "sort_time": "2026-11-01T16:54:00+08:00",
-   "title": "中国14岁少女突发脑中风　家属：常喝奶茶吃外卖",
-   "url": "https://www.8world.com/greater-china/china-14-year-old-girl-suffers-sudden-stroke-frequent-consume-bubble-tea-3326866",
-   "id": "https://www.8world.com/greater-china/china-14-year-old-girl-suffers-sudden-stroke-frequent-consume-bubble-tea-3326866",
-   "paragraphs": [
-    "中国安徽一名14岁少女突发脑中风，送院时已出现一侧身体严重瘫痪、嘴角歪斜等症状。家属透露，少女长期把饮料和奶茶当水喝，几乎不喝白开水，也经常吃外卖、烧烤和油炸食品。",
-    "综合中国媒体《央视新闻》和《羊城晚报》报道，中国科学技术大学附属第一医院（安徽省立医院）神经内科近日接诊这名少女。",
-    "医生表示，少女送院时已经出现严重的一侧肢体偏瘫、嘴角歪斜等情况。经过头部影像及临床检查后，确诊为急性脑中风。",
-    "医生进一步询问病史时，家属透露，少女长期把饮料和奶茶当水喝，几乎不喝白开水，也经常吃外卖，尤其常吃烧烤和油炸食品，这样的饮食习惯已持续多年。",
-    "院方借此病例提醒，长期摄取高糖、高脂食物，加上不良生活习惯，会对血管健康造成影响。",
-    "院方指出，近年来年轻人中风的情况呈上升趋势。",
-    "高风险群包括有家族病史者，以及患有高血压、糖尿病、高血脂等疾病的人，还有长期吸烟、过量饮酒、睡眠不足和缺乏运动者。",
-    "医生提醒，中风救治分秒必争。若突然出现脸部歪斜、手脚无力、说话异常，以及平衡或视力出现问题，应尽快求医。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
