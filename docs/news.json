@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:40:33+08:00",
+ "generated_at": "2026-11-01T08:50:34+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,38 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "体育",
+   "time": "Sun, 01 Nov 2026 08:49:28 +0800",
+   "sort_time": "2026-11-01T08:49:28+08:00",
+   "title": "新超联赛：0比2不敌幼狮队 后港联队跌落积分榜榜末",
+   "url": "https://www.8world.com/sports/singapore-premier-league-hougang-united-fc-young-lions-3326661",
+   "id": "https://www.8world.com/sports/singapore-premier-league-hougang-united-fc-young-lions-3326661",
+   "paragraphs": [
+    "后港联队以0比2，输给幼狮队。（图：Facebook / Young Lions﻿）",
+    "后港联队以0比2，输给幼狮队，掉落到积分榜榜末。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sun, 01 Nov 2026 08:40:00 +0800",
+   "sort_time": "2026-11-01T08:40:00+08:00",
+   "title": "币安遭窃63亿美元虚拟资产 FBI指朝鲜黑客是幕后黑手",
+   "url": "https://www.8world.com/world/fbi-says-north-korea-behind-binance-crypto-theft-3326651",
+   "id": "https://www.8world.com/world/fbi-says-north-korea-behind-binance-crypto-theft-3326651",
+   "paragraphs": [
+    "美国联邦调查局指朝鲜黑客是全球最大加密货币交易所币安（Binance）约63亿美元虚拟资产盗窃案的幕后黑手。",
+    "联邦调查局在声明中说，币安（Binance）日前遭受的大规模黑客攻击，同名为TraderTraitor的朝鲜黑客组织所进行的“恶意网络活动”有关。组织去年也从加密货币交易所Bybit盗走15亿美元的资产。",
+    "联邦调查局的调查发现，TraderTraitor正将盗取的资产转换成以太币（ethereum），并预计组织接下来将试图利用去中心化金融（DeFi）平台和“即时兑换服务”来转换这些资产。",
+    "联邦调查局要求加密货币交易所、区块链分析公司和其他相关机构，封锁相关交易，以防止黑客透过洗钱方式，掩盖被盗资金的来源。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "体育",
@@ -394,26 +426,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 31 Oct 2026 23:40:59 +0800",
-   "sort_time": "2026-10-31T23:40:59+08:00",
-   "title": "豪华游轮滞留柬埔寨再延四天 逾200游客全部离船",
-   "url": "https://www.8world.com/world/us-cruise-ship-halts-world-voyage-cambodia-extend-stay-3326516",
-   "id": "https://www.8world.com/world/us-cruise-ship-halts-world-voyage-cambodia-extend-stay-3326516",
-   "paragraphs": [
-    "豪华游轮“Villa Vie Odyssey”号滞留柬埔寨西哈努克港。（图：柬中时报）",
-    "受燃油成本上涨影响，豪华游轮“Villa Vie Odyssey”号滞留柬埔寨西哈努克港，原定10月31日离港，但船方已申请再延长停靠四天，船上逾200名外国游客已全部离船，仅剩100多名船员留守，复航时间尚未确定。",
-    "“Villa Vie Odyssey”号由美国公司运营，以长期海上居住及环球航行为卖点。该游轮于10月23日抵达西哈努克港，原载有203名来自15个国家的外国游客，以及156名船员和工作人员。",
-    "由于燃油成本大幅上涨，游轮运营及后续航程受到影响，导致船舶滞留港口，原定行程被迫延误。",
-    "西哈努克市副市长农迪纳拉10月31日向《柬中时报》证实，游轮已申请继续停靠西哈努克港四天，暂时无法恢复航程。",
-    "原本搭乘游轮的200多名游客已全部离船，部分人搭乘飞机离开，另有游客通过陆路及水路前往其他地区旅游。目前，船上仅剩100多名船员。",
-    "柬埔寨旅游部长何哈于10月29日登船了解情况，并协调港口、移民及地方政府等部门，为游客和船员提供必要协助。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "23:36",
@@ -432,20 +444,6 @@
     "永续发展与环境部也将在来临国会提呈《跨境烟霾污染法令》修正案，赋予这套审查机制法律效力。一旦通过，环境局有权向任何涉嫌引发火患，或与火患有关的实体正式发出指令，以及要求他们委任审查员；不遵从指令属违法行为。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Sat, 31 Oct 2026 23:01:14 +0800",
-   "sort_time": "2026-10-31T23:01:14+08:00",
-   "title": "泰国两女假扮病患三度骗钱 105岁高僧损失逾2万泰铢",
-   "url": "https://www.8world.com/southeast-asia/two-women-scam-105-year-old-monk-3326426",
-   "id": "https://www.8world.com/southeast-asia/two-women-scam-105-year-old-monk-3326426",
-   "paragraphs": [
-    "两名女子假扮身体不适的信徒，骗走高僧逾2万泰铢。（图：Thaiger/ komchadluek）",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
