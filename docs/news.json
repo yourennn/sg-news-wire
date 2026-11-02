@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:30:47+08:00",
+ "generated_at": "2026-11-02T10:40:37+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,63 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Mon, 02 Nov 2026 10:39:13 +0800",
+   "sort_time": "2026-11-02T10:39:13+08:00",
+   "title": "日本GMO互联网集团遭网络攻击 疑涉朝鲜黑客组织",
+   "url": "https://www.8world.com/world/north-korea-linked-hacking-group-likely-behind-gmo-cyberattack-sources-3327521",
+   "id": "https://www.8world.com/world/north-korea-linked-hacking-group-likely-behind-gmo-cyberattack-sources-3327521",
+   "paragraphs": [
+    "日本GMO互联网集团遭网络黑客攻击，客户资料外泄。（图：路透社）",
+    "日本互联网基础设施服务商GMO互联网集团（GMO Internet Group），10月份时候遭到网络攻击，公司内部分析发现，事件很可能涉及一个与朝鲜有关联的黑客组织。",
+    "据日本共同社（Kyodo News）报道，知情人士11月1日透露，根据GMO内部分析，攻击所使用的恶意软件特征，以及攻击者留下的其他痕迹，都指向一个与朝鲜有关联的黑客组织。",
+    "公司相信已向日本政府通报事件，目前将进一步查明事件的全部情况。",
+    "共同社与网络安全专家合作调查发现，攻击发生后，一个声称对事件负责的网站上线后，立即有五个用于访问该网站的IP地址，与此前一个朝鲜黑客组织过去使用过的IP地址相符。",
+    "不过，网站也留下涉及美国和日本等多个国家的相关痕迹。网络安全消息人士指出，黑客可能试图通过“假旗行动”（False Flag Operation），误导调查人员。",
+    "调查也发现，网站域名于9月1日向一家美国公司注册，托管服务器同样由这家公司提供。网站档案的创建时间采用美国时区，操作系统则设为英文。",
+    "此外，用于收集访客记录的程式包含了日文文本，并呈现出由人工智能生成内容的特征。网站上发布的文件，是使用在中国开发并被广泛使用的软件创建的。",
+    "网络安全专家在10月31日的分析发现，一个供GMO网络攻击受害者分享信息的网站，也可能由攻击者设立，因为其网站结构，与用于宣称为此次攻击负责的网站有诸多相似之处。",
+    "分析显示，该信息共享网站于10月19日注册，比GMO在10月21日公开网络攻击事件早两天，并于10月22日确认可以使用。专家认为，攻击者可能借此收集受害者资料。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Mon, 02 Nov 2026 10:36:06 +0800",
+   "sort_time": "2026-11-02T10:36:06+08:00",
+   "title": "密歇根州民主党众议员倒戈 公开支持共和党参议员候选人",
+   "url": "https://www.8world.com/world/michigan-democrats-endorsement-of-republican-ruffles-critical-senate-race-3327516",
+   "id": "https://www.8world.com/world/michigan-democrats-endorsement-of-republican-ruffles-critical-senate-race-3327516",
+   "paragraphs": [
+    "2026年11月1日，美国密歇根州民主党众议员史蒂文斯（左）与她支持的共和党参议员候选人罗杰斯，在底特律一所教堂参加活动后接受媒体采访。（图：路透社）",
+    "美国中期选举进入倒数阶段，密歇根州的民主党众议员倒戈支持共和党参议员候选人，为共和党在关键的参议院选战中带来助力。 倒戈的民主党众议员是史蒂文斯（Haley Stevens）。她原本计划在中期选举转战参议院，但在民主党初选中，败给进步派的埃尔萨耶德（Abdul El-Sayed）。两人原定昨天（1日）同台亮相，以展示民主党的团结。 不过，史蒂文斯公开宣布支持共和党参议员候选人罗杰斯（Mike Rogers），并且一同出现在底特律的一座教堂。 史蒂文斯也在社交媒体发布视频，表示自己不属于埃尔萨耶德的竞选团队。 大约数小时后，总统特朗普在爱荷华州的政治集会上，邀请史蒂文斯加入共和党。 较早前，特朗普告诉记者，会联系史蒂文斯，感谢她支持罗杰斯，并形容这是明智的决定，因为埃尔萨耶德会毁掉美国。 密歇根州被视为民主党能否重新夺回参议院控制权的关键州之一。史蒂文斯倒戈可能进一步加剧密歇根州民主党内部的分裂。 不过，史蒂文斯的决定似乎并未对密歇根州部分提前投票选民产生太大影响。 根据民调数据汇总网站RealClearPolling预测，埃尔萨耶德目前领先罗杰斯近四个百分点。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "food",
+   "time": "Mon, 02 Nov 2026 10:33:00 +0800",
+   "sort_time": "2026-11-02T10:33:00+08:00",
+   "title": "#sgdeals 甘牌烧味搬家了！欢庆重新开张，推出$12.80超值套餐",
+   "url": "https://www.8world.com/food/kams-roast-has-moved-3327511",
+   "id": "https://www.8world.com/food/kams-roast-has-moved-3327511",
+   "paragraphs": [
+    "位于星耀樟宜（Jewel Changi Airport）的甘牌烧味旗舰店搬迁了！",
+    "以港式米其林星级烧味闻名的甘牌烧味，已从2楼迁至B2层。品牌营运总监Victor Ng向vibes透露，这次搬迁主要是配合业主在营业空间与规划上的调整。现在，餐馆可使用的整体面积比之前稍大一些，可以提供更更多的空间安排座位及餐饮服务。另外，还有一间厢房可让食客在私有空间享受美食。",
+    "食物方面，原有的招牌烧味和主要菜色都保持不变，但也增添了一些新品为食客带来更多选择。除了原有的桶子油鸡，目前也增设了白切鸡；白饭之外还可选择油饭；甜品方面则新添了小朋友爱吃的芒果布丁，以及深受欢迎的芋泥等。如果只想纯享下午茶，在这里也可以吃到欢乐冰室著名的蛋挞。",
+    "$12.80的烧味套餐，可选择甘牌烧味的招牌叉烧或烧鸭。（图：甘牌烧味网站）",
+    "配合乔迁之喜，甘牌烧味从今天（11月2日）起，在周日（星期一至四，10am-4pm）推出$12.80（原价$23.40）的烧味饭套餐，无论是招牌烧鸭还是叉烧饭，都附加一份熏红肠和一杯饮料，价格要比食阁版的Kam’s Roast Express还更便宜。堂食或打包都可以。",
+    "Victor表示，搬迁后的甘牌烧味不会改变原有的经营方向，品牌仍会以烧味为主打。这一楼层的餐厅食肆较集中，人潮也更多，即便是下午2pm至5pm的非用餐时段，依然人龙不断。",
+    "然然一新的甘牌烧味新店面，现设有优雅厢房。（摄影：高明）",
+    "地址： 78 Airport Blvd, #02-210 Jewel Changi Airport Mall, Singapore 819666 电话： 6513 3718 电邮： info@kamsroastgoose.com 营业时间： 10am–10pm（每天营业） 网址： www.kamsroast.com.sg",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -127,8 +184,8 @@
   {
    "source": "8world",
    "section": "新加坡",
-   "time": "Mon, 02 Nov 2026 10:07:55 +0800",
-   "sort_time": "2026-11-02T10:07:55+08:00",
+   "time": "Mon, 02 Nov 2026 10:07:00 +0800",
+   "sort_time": "2026-11-02T10:07:00+08:00",
    "title": "直落布兰雅命案 32岁男子押回现场重组案情",
    "url": "https://www.8world.com/singapore/telok-blangah-murder-crime-scene-visit-3327481",
    "id": "https://www.8world.com/singapore/telok-blangah-murder-crime-scene-visit-3327481",
@@ -428,21 +485,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Mon, 02 Nov 2026 07:49:00 +0800",
-   "sort_time": "2026-11-02T07:49:00+08:00",
-   "title": "据报印尼公民赴俄从军身亡 雅加达促俄停止招募",
-   "url": "https://www.8world.com/southeast-asia/jakarta-urges-moscow-to-halt-military-recruitment-of-indonesians-3327406",
-   "id": "https://www.8world.com/southeast-asia/jakarta-urges-moscow-to-halt-military-recruitment-of-indonesians-3327406",
-   "paragraphs": [
-    "2026年7月9日，印度尼西亚外交部发言人伊冯娜·梅文康在雅加达出席媒体吹风会后接受记者采访。（图：安塔拉通讯社）",
-    "据报道，一名到俄罗斯从军的印度尼西亚公民在俄乌战事中身亡。印尼政府在消息传出后，敦促俄罗斯停止以任何方式招募印尼公民加入俄军。 《安塔拉通讯社》报道，印尼外交部发言人证实，雅加达已通过外交渠道，正式向莫斯科提出有关要求。 发言人说，雅加达也要求俄方把印尼列入豁免被征召参军的国家名单，并希望俄方立即有效落实有关要求。 乌克兰国防情报局上星期在社交媒体发文，披露一名加入俄军的印尼公民死亡的消息。 乌方指这名印尼男子被招募到俄罗斯从军一年，但被派往乌克兰前线只有一个星期，就在战斗中丧命。 对此，印尼外交部发言人说，印尼驻俄大使馆正在核实相关信息，并呼吁公众在官方公布消息前，不要妄加猜测。 发言人也提醒印尼公民在考虑海外工作机会时，务必保持警惕。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "07:46",
@@ -461,36 +503,6 @@
     "美国国务院星期五（10月30日）说，特朗普政府已批准向乌克兰出售500枚“爱国者”导弹。但泽连斯基警告称，这些导弹可能需要数年时间才能交付。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:41:00 +0800",
-   "sort_time": "2026-11-02T07:41:00+08:00",
-   "title": "币安恢复提款后资金流出激增 净流出逾36亿美元",
-   "url": "https://www.8world.com/world/binance-sees-spike-in-withdrawals-as-exchange-returns-online-after-63-3327401",
-   "id": "https://www.8world.com/world/binance-sees-spike-in-withdrawals-as-exchange-returns-online-after-63-3327401",
-   "paragraphs": [
-    "加密货币交易平台币安（Binance）的标志和黑客代码。（图：路透社）",
-    "遭黑客攻击的全球最大加密货币交易所币安（Binance）分阶段恢复提款服务后，流出的资金一度激增。 被黑客盗走约63亿美元虚拟资产的币安，昨天（1日）开始恢复提款服务。 币安说，截至新加坡时间昨晚11点半，净流出资金达36亿4000万美元，占公司总资产的2.1%。 不过，根据加密货币数据分析平台DefiLlama，被提取的款项比公布的多，达43亿6000万美元。 币安发言人回应说，有关数据不包括公司自行存入的款项，因此不准确。 币安也表示，目前客户提款的情况已趋稳。 较早前，币安宣布，已补足失窃资产中九成半的损失，并承诺承担所有财务责任。 美国联邦调查局已介入调查，并指朝鲜黑客是窃案的幕后黑手。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:38:00 +0800",
-   "sort_time": "2026-11-02T07:38:00+08:00",
-   "title": "特朗普同内坦亚胡通话 讨论伊朗问题",
-   "url": "https://www.8world.com/world/trump-holds-call-with-netanyahu-over-state-of-iran-war-report-3327396",
-   "id": "https://www.8world.com/world/trump-holds-call-with-netanyahu-over-state-of-iran-war-report-3327396",
-   "paragraphs": [
-    "2026年10月26日，以色列特拉维夫一处利库德集团的竞选广告展示总理内坦亚胡和美国总统特朗普的肖像，并写着“我们只有一次获胜的机会！”（图：路透社）",
-    "美国和以色列领导人通话，讨论伊朗问题。 美国总统特朗普证实，前天（31日）和以色列总理内坦亚胡通电话，伊朗是两人讨论的其中一个课题。 较早前，美国媒体报道，两人讨论了何时和是否要升级对伊朗的作战行动。 新闻网站Axios引述美、以官员的话说，两人也讨论了同伊朗谈判的进展。内坦亚胡敦促特朗普在美国中期选举结束后，立即对伊朗发动打击，但特朗普希望让谈判继续进行下去。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
