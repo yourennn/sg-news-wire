@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T08:30:43+08:00",
+ "generated_at": "2026-11-02T08:40:37+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,9 +13,29 @@
  "articles": [
   {
    "source": "8world",
+   "section": "新加坡",
+   "time": "Mon, 02 Nov 2026 08:34:00 +0800",
+   "sort_time": "2026-11-02T08:34:00+08:00",
+   "title": "李智陞与埃及教育部长共进午餐 探讨深化两国教育合作",
+   "url": "https://www.8world.com/singapore/desmond-lee-egypt-fb-post-3327421",
+   "id": "https://www.8world.com/singapore/desmond-lee-egypt-fb-post-3327421",
+   "paragraphs": [
+    "我国教育部长李智陞与埃及教育和技术教育部长阿卜杜勒拉蒂夫共进午餐。（图：Facebook/李智陞）",
+    "我国教育部长李智陞与埃及教育和技术教育部长阿卜杜勒拉蒂夫共进午餐，探讨深化两国教育合作。",
+    "双方讨论的合作领域包括教育科技、研究，以及技术与职业教育培训。",
+    "李智陞期待继续与埃及方面保持联系，并在两国深厚的友谊与合作基础上，进一步加强双边关系。",
+    "我国教育部长李智陞与埃及教育和技术教育部长阿卜杜勒拉蒂夫（Mohamed Abdellatif）共进午餐，双方就进一步深化两国教育合作的机会展开交流。",
+    "李智陞今早（2日）在Facebook发文表示，新加坡与埃及长期以来保持着友好关系，双方见面时进行了富有成果的讨论，包括探讨在教育科技、研究，以及技术与职业教育培训等领域深化合作。",
+    "李智陞表示，期待未来继续与埃及方面保持联系，并在两国深厚的友谊与合作基础上，进一步加强双边关系。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "国际",
-   "time": "Mon, 02 Nov 2026 08:02:49 +0800",
-   "sort_time": "2026-11-02T08:02:49+08:00",
+   "time": "Mon, 02 Nov 2026 08:02:00 +0800",
+   "sort_time": "2026-11-02T08:02:00+08:00",
    "title": "美国佛州商务机坠毁 机上九人全部罹难",
    "url": "https://www.8world.com/world/florida-jet-crash-9-died-3327416",
    "id": "https://www.8world.com/world/florida-jet-crash-9-died-3327416",
@@ -29,8 +49,8 @@
   {
    "source": "8world",
    "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:52:47 +0800",
-   "sort_time": "2026-11-02T07:52:47+08:00",
+   "time": "Mon, 02 Nov 2026 07:52:00 +0800",
+   "sort_time": "2026-11-02T07:52:00+08:00",
    "title": "法兰克福示威演变骚乱 54人被捕逾百警员受伤",
    "url": "https://www.8world.com/world/german-ministers-vow-tough-response-to-frankfurt-riots-and-looting-3327411",
    "id": "https://www.8world.com/world/german-ministers-vow-tough-response-to-frankfurt-riots-and-looting-3327411",
@@ -44,8 +64,8 @@
   {
    "source": "8world",
    "section": "东南亚",
-   "time": "Mon, 02 Nov 2026 07:49:16 +0800",
-   "sort_time": "2026-11-02T07:49:16+08:00",
+   "time": "Mon, 02 Nov 2026 07:49:00 +0800",
+   "sort_time": "2026-11-02T07:49:00+08:00",
    "title": "据报印尼公民赴俄从军身亡 雅加达促俄停止招募",
    "url": "https://www.8world.com/southeast-asia/jakarta-urges-moscow-to-halt-military-recruitment-of-indonesians-3327406",
    "id": "https://www.8world.com/southeast-asia/jakarta-urges-moscow-to-halt-military-recruitment-of-indonesians-3327406",
@@ -95,8 +115,8 @@
   {
    "source": "8world",
    "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:38:06 +0800",
-   "sort_time": "2026-11-02T07:38:06+08:00",
+   "time": "Mon, 02 Nov 2026 07:38:00 +0800",
+   "sort_time": "2026-11-02T07:38:00+08:00",
    "title": "特朗普同内坦亚胡通话 讨论伊朗问题",
    "url": "https://www.8world.com/world/trump-holds-call-with-netanyahu-over-state-of-iran-war-report-3327396",
    "id": "https://www.8world.com/world/trump-holds-call-with-netanyahu-over-state-of-iran-war-report-3327396",
@@ -110,8 +130,8 @@
   {
    "source": "8world",
    "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:34:10 +0800",
-   "sort_time": "2026-11-02T07:34:10+08:00",
+   "time": "Mon, 02 Nov 2026 07:34:00 +0800",
+   "sort_time": "2026-11-02T07:34:00+08:00",
    "title": "俄方称依据美国情报拘留一名涉策划恐袭少年",
    "url": "https://www.8world.com/world/russias-fsb-says-minor-detained-over-park-attack-threat-after-us-tip-off-3327391",
    "id": "https://www.8world.com/world/russias-fsb-says-minor-detained-over-park-attack-threat-after-us-tip-off-3327391",
@@ -145,8 +165,8 @@
   {
    "source": "8world",
    "section": "体育",
-   "time": "Mon, 02 Nov 2026 07:17:29 +0800",
-   "sort_time": "2026-11-02T07:17:29+08:00",
+   "time": "Mon, 02 Nov 2026 07:17:00 +0800",
+   "sort_time": "2026-11-02T07:17:00+08:00",
    "title": "20岁安东内利提前夺冠 成F1史上最年轻世界冠军",
    "url": "https://www.8world.com/sports/antonelli-becomes-youngest-f1-champion-at-20-years-old-3327386",
    "id": "https://www.8world.com/sports/antonelli-becomes-youngest-f1-champion-at-20-years-old-3327386",
@@ -160,8 +180,8 @@
   {
    "source": "8world",
    "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:11:09 +0800",
-   "sort_time": "2026-11-02T07:11:09+08:00",
+   "time": "Mon, 02 Nov 2026 07:11:00 +0800",
+   "sort_time": "2026-11-02T07:11:00+08:00",
    "title": "OPEC+七国维持下月产油配额不变",
    "url": "https://www.8world.com/world/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-3327381",
    "id": "https://www.8world.com/world/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-3327381",
@@ -174,8 +194,8 @@
   {
    "source": "8world",
    "section": "国际",
-   "time": "Mon, 02 Nov 2026 07:08:09 +0800",
-   "sort_time": "2026-11-02T07:08:09+08:00",
+   "time": "Mon, 02 Nov 2026 07:08:00 +0800",
+   "sort_time": "2026-11-02T07:08:00+08:00",
    "title": "法国检方就巴黎示威袭警事件展开“企图谋杀”调查",
    "url": "https://www.8world.com/world/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-on-security-3327376",
    "id": "https://www.8world.com/world/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-on-security-3327376",
@@ -207,8 +227,8 @@
   {
    "source": "8world",
    "section": "体育",
-   "time": "Mon, 02 Nov 2026 06:55:17 +0800",
-   "sort_time": "2026-11-02T06:55:17+08:00",
+   "time": "Mon, 02 Nov 2026 06:55:00 +0800",
+   "sort_time": "2026-11-02T06:55:00+08:00",
    "title": "西甲：皇马3比0大胜桑坦德 毕尔巴鄂击退皇家社会",
    "url": "https://www.8world.com/sports/la-liga-3327371",
    "id": "https://www.8world.com/sports/la-liga-3327371",
@@ -243,8 +263,8 @@
   {
    "source": "8world",
    "section": "体育",
-   "time": "Mon, 02 Nov 2026 06:45:58 +0800",
-   "sort_time": "2026-11-02T06:45:58+08:00",
+   "time": "Mon, 02 Nov 2026 06:45:00 +0800",
+   "sort_time": "2026-11-02T06:45:00+08:00",
    "title": "德甲：法兰克福3比1击败汉堡 柏林联盟战平科隆",
    "url": "https://www.8world.com/sports/bundesliga-3327366",
    "id": "https://www.8world.com/sports/bundesliga-3327366",
@@ -257,8 +277,8 @@
   {
    "source": "8world",
    "section": "体育",
-   "time": "Mon, 02 Nov 2026 06:44:21 +0800",
-   "sort_time": "2026-11-02T06:44:21+08:00",
+   "time": "Mon, 02 Nov 2026 06:44:00 +0800",
+   "sort_time": "2026-11-02T06:44:00+08:00",
    "title": "英超：阿申纳1比0击败利物浦 登上积分榜榜首",
    "url": "https://www.8world.com/sports/epl-3327361",
    "id": "https://www.8world.com/sports/epl-3327361",
@@ -534,27 +554,6 @@
     "总会也举办许多实用讲座，从永久授权书、防诈骗到AI（ 人工智能 ），题材多元的活动总能吸引会员到场。胡伟翔感触最深的是，大家愿意来，往往因为“都是宗亲”，彼此相聚交流，分外亲切。",
     "康乐股方面，榴梿盛宴首次举办即吸引120人参与，反响热烈。康乐股主任胡煜勤说：“集思营统一目标后，大家方向更清晰；先辈打下财务基础，我们如今要努力的就是凝聚新人。”80周年也有新尝试，学生领取奖助学金后被安排代表上台分享，让年轻声音成为庆典的一部分。",
     "展望未来，胡德成说：“80年是一段辉煌历史，更是一份沉甸甸的责任。未来我们将继续吸引年轻人，壮大阵容，并致力于弘扬优良华人传统，协助新移民融入社会。”"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "food",
-   "time": "Sun, 01 Nov 2026 22:27:00 +0800",
-   "sort_time": "2026-11-01T22:27:00+08:00",
-   "title": "在商场食阁内推出$6鱼汤还含米饭，蔡和平打价格战背后藏无奈",
-   "url": "https://www.8world.com/food/ju-xing-fish-6-dollars-promotion-set-3327241",
-   "id": "https://www.8world.com/food/ju-xing-fish-6-dollars-promotion-set-3327241",
-   "paragraphs": [
-    "为了应对突如其来的竞争，在莱佛士城（Raffles City Singapore）The Food Place食阁经营聚兴鱼家（摊号#03-15/16/17）的饮食业者蔡和平不得不做出调整——从明天（11月2日）起至12月31日，只要$6（原价$11.80），就可享有一份鱼汤配米饭，还可选择麻辣、酸菜鱼或番茄汤底。",
-    "蔡和平打“价格战”只是权宜之计。（摄影：高明）",
-    "蔡和平告诉vibes，这并不是他原本想打的“价格战”。",
-    "聚兴鱼家主打港式风味酸菜鱼，食阁内虽有另一家售卖本地风味石斑王鱼汤的摊位，但两者风味与定位不同，向来各做各的，互不影响。然而，近日食阁出现空置摊位，业主为了填补空缺，引进了一家售卖烤鱼的新摊位，该摊位目前逐月推出$6.60起的烤鱼促销，口味包括酸菜鱼和番茄等——面对这种变局，他只能顺应市场，推出$6（净价）的鱼汤配套以保住生意，但仍坚守品质——浓郁的汤底主张清淡少油，是用了整只鸡，包括鸡骨和鸡爪，以大火中熬煮，随后转小火慢炖，让汤汁浓缩，最后加入新鲜鱼片，保留了食材的爽脆与鲜嫩。",
-    "聚兴鱼家的酸菜鱼深受食客喜爱。（图：聚兴鱼家提供）",
-    "在蔡和平看来，餐饮业有竞争是好事，它能促使业者提升品质与服务，但前提必须是健康、多元的公平竞争，而非在有限的空间里人为制造高度重叠的同行厮杀。“一个食阁的摊位有限，业主有责任规划好摊位组合，让顾客的选择更丰富。如果为了填补空缺，最后造成租户之间不断压低售价求存，长远来看，对食材品质和整个饮食业生态都没有好处。”",
-    "另外，除了市场竞争，他也指出食阁日常管理中的细碎规则，也常让租户们体会到经营的不易。例如，租户不论调整食物价格或推出新菜色，往往都需经过业主冗长的审批流程。不过蔡和平特别提到，这次申请售卖$6鱼汤促销时，业主在两天内就给予批准，效率比过去明显改善，这一点非常值得肯定。他目前希望另一项随餐赠送饮料的申请也能早日得到明确的答复。按照常规，租户不能自行售卖茶水饮料，蔡和平对此完全理解与尊重。但目前在食阁内，业主旗下的铁板烧摊位却能破例出售饮料。他喊话：“大家都在同一个屋檐下付租金经营，希望管理标准能够一视同仁。租户只是希望能有更多弹性和公平的促销空间。”",
-    "蔡和平这次选择坦诚分享自己的经历，是希望借此反映基层的实际经营状况。",
-    "他的租约还有一段时间，接下来也会继续恪守合约、用心做好产品。他笑着总结自己的经营哲学：“我不怕市场竞争，也愿意想办法回应顾客需求。只是真心希望业主能和租户站在一起，互相尊重、彼此协助，大家才能在良好的环境里把生意长久做下去。”",
-    "Download our app and get the latest news updates on-the-go"
    ]
   },
   {
