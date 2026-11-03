@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:50:30+08:00",
+ "generated_at": "2026-11-03T08:00:52+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,28 @@
   },
   "8world": {
    "ok": true,
-   "count": 18
+   "count": 19
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Tue, 03 Nov 2026 07:52:02 +0800",
+   "sort_time": "2026-11-03T07:52:02+08:00",
+   "title": "欧洲多国超市遭网络攻击 冷冻设备升温致食品变质",
+   "url": "https://www.8world.com/world/new-cyberattack-on-supermarket-fridges-sweeps-across-europe-3328256",
+   "id": "https://www.8world.com/world/new-cyberattack-on-supermarket-fridges-sweeps-across-europe-3328256",
+   "paragraphs": [
+    "欧洲多个国家的超级市场遭到网络攻击，导致冷藏和冷冻设备温度异常升高，部分食品变质。",
+    "这是继上个月法国数百家超市遭到类似攻击后，欧洲再次发生针对超市的网袭事件。",
+    "这次受影响的包括：比利时、芬兰、意大利、荷兰、葡萄牙、瑞典等九个国家的多家超市。",
+    "欧洲联盟农业与食品专员汉森（Christophe Hansen）表示，欧盟严正看待这类事件。",
+    "他说，有人蓄意干扰欧盟的食品供应链，影响消费信心，敲响了警钟，当局必须认真看待这方面的威胁。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
