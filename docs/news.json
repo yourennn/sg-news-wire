@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:20:45+08:00",
+ "generated_at": "2026-11-04T19:30:46+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,47 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Wed, 04 Nov 2026 19:26:25 +0800",
+   "sort_time": "2026-11-04T19:26:25+08:00",
+   "title": "印尼调派逾两万军人进驻雅加达",
+   "url": "https://www.8world.com/southeast-asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-3330921",
+   "id": "https://www.8world.com/southeast-asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-3330921",
+   "paragraphs": [
+    "2026年6月12日，印尼雅加达军队与示威学生对峙。（图：美联社/Tatan Syuflana）",
+    "在 三名印度尼西亚高级警官因涉嫌非法监听总统普拉博沃而被拘留 之际，当局正调派超过两万名军人进驻首都雅加达。",
+    "《美联社》报道，当局尚未证实这项部署行动是否同窃听案件有关。",
+    "报道指出，第一阶段的部署行动已经在星期一（2日）展开，涉及2100名人员。",
+    "印尼海军中将亚延·索菲扬（Yayan Sofiyan）表示，来自首都以外地区的部队预计将从今天（4日）起陆续抵达，使参与部署的人员达到2万零980人。他表示，另外有1万多名人员处于待命状态，必要时可随时部署。",
+    "印尼警方早前表示，三名涉案的高级警员涉嫌非法截取通信、未经授权进入电子系统，以及删除电子数据。三人已经在星期天（1日）被拘留。",
+    "警方表示，未经授权的窃听活动发生在2025年到2026年期间。当局怀疑，嫌疑人在没有遵循适当程序的情况下，下令展开窃听行动。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Wed, 04 Nov 2026 19:25:56 +0800",
+   "sort_time": "2026-11-04T19:25:56+08:00",
+   "title": "政府科技局推防诈骗应用 用人工智能识别可疑信息",
+   "url": "https://www.8world.com/singapore/govtech-antiscam-pango-android-scam-alerts-3330786",
+   "id": "https://www.8world.com/singapore/govtech-antiscam-pango-android-scam-alerts-3330786",
+   "paragraphs": [
+    "防诈骗手机应用程序AntiScam Pango利用人工智能来分析手机收到的信息通知，查看是否有潜在诈骗行为。（图：政府科技局）",
+    "政府科技局和谷歌联手开发一款新的防诈骗手机应用程序，利用人工智能来分析手机收到的信息通知，查看是否有潜在诈骗行为，并会提醒用户提高警惕。",
+    "这个名为AntiScam Pango的防诈骗手机应用程序，是由政府科技局（GovTech）和谷歌旗下的人工智能研究机构Google DeepMind合作开发的。",
+    "这款应用今天（4日）推出测试版，目前已开放让安卓（Android）手机用户通过Google Play商店下载。",
+    "AntiScam Pango会利用人工智能，来分析WhatsApp、Telegram和手机信息通知（message notifications）中的对话，若发现有诈骗迹象便会提醒用户并说明原因，让用户先了解风险，再决定如何回应。",
+    "政府科技局说，骗徒不断变换手法，诈骗信息越来越难以辨认。用户授权这款程序读取通知后，程序会在后台把同一发送者先后发来的信息串联起来分析，判断其中是否出现诈骗迹象。",
+    "AntiScam Pango在手机主屏幕弹出红色警示，提醒用户对话可能涉及诈骗。（图：政府科技局）",
+    "当局提供的应用截图显示，应用会在手机屏幕上弹出红色警示，列出发信人的号码，提醒用户这段对话可能涉及诈骗，应先核实再采取行动。",
+    "用户可以点选“查看详情”了解对话为何可疑，也可关闭提示。",
+    "程序将样本对话中要求支付200元注册费的投资邀约标为可疑，提醒用户不要转账。（图：政府科技局）"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -707,41 +748,6 @@
     "法国学生自9月起爆发一系列示威，这场最初围绕教育问题而展开的学生运动，如今进一步扩大到工资，生活费和公共服务等课题。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Wed, 04 Nov 2026 16:17:00 +0800",
-   "sort_time": "2026-11-04T16:17:00+08:00",
-   "title": "11月首轮拥车证成价 中小型车组13.9万元再创新高",
-   "url": "https://www.8world.com/singapore/coe-nov-1st-round-3330736",
-   "id": "https://www.8world.com/singapore/coe-nov-1st-round-3330736",
-   "paragraphs": [
-    "11月第一轮 拥车证 投标结果出炉，中小型车组报13万9001元，写下历来新高。 中小型车组（A组）成价上涨6997元，报13万9001元。 大型及豪华车组（B组）上涨433元，成交价为13万2334元。 货车和巴士组（C组）也下跌200元，成交价为9万2000元。 摩托车组（D组）的成交价则下跌89元，报1万零689元。 公开组（E组）也上涨208元，报13万5998元。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Wed, 04 Nov 2026 16:09:00 +0800",
-   "sort_time": "2026-11-04T16:09:00+08:00",
-   "title": "Agoda调查：逾六成亚洲旅客更青睐一站式预订行程",
-   "url": "https://www.8world.com/singapore/agodas-2027-asia-travel-pulse-reveals-appetite-for-all-in-one-booking-3330676",
-   "id": "https://www.8world.com/singapore/agodas-2027-asia-travel-pulse-reveals-appetite-for-all-in-one-booking-3330676",
-   "paragraphs": [
-    "Agoda调查显示，逾六成受访亚洲旅客愿意在同一个平台预订整个行程。（图：Agoda）",
-    "数字旅游平台（ Digital travel platform ） Agoda 发布的一项调查显示，超过六成受访亚洲旅客，愿意在同一个平台预订整个旅游行程。",
-    "报道指出，马来西亚、印度尼西亚和菲律宾旅客最看重平台是否提供当地常用的支付方式；韩国和日本旅客则最重视母语支持的客户服务。",
-    "Agoda 今天（ 4 日）发布的《 2027 年亚洲旅游趋势报告》显示，调查也发现， 27% 的受访者，更倾向于把机票和酒店一起预订；另有 16% 表示，要视行程而定。",
-    "在受访的亚洲旅客中，有 33% 认为，当地常用的支付方式，最能体现预订服务是否贴合本地需求，其次是以母语提供的客户服务，占 21% 。",
-    "分市场来看，马国有 46% 的受访者最看重本地支付方式，印尼和菲律宾分别有 41% 和 39% ；韩国和日本受访者则把母语支持的客服排在首位，比例分别为 40% 和 31% 。",
-    "Agoda 供应业务高级副总裁安德鲁 · 史密斯（ Andrew Smith ）说，同一家酒店可以向不同市场的旅客销售同一间客房，但吉隆坡、首尔和雅加达的旅客在决定是否下单时，看重的细节各有不同。",
-    "业者了解了这些差异，有助于向各地旅客提供他们在意的信息和服务。",
-    "调查显示， 64% 的受访亚洲旅客先选目的地， 14% 先选住宿，先选活动和先看优惠的各占 8% 。",
-    "印尼和泰国各有 24% 的受访者先选住宿，高于区域整体的 14% 。印尼也有 17% 先看优惠，为各市场最高。"
    ]
   },
   {
