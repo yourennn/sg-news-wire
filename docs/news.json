@@ -1,17 +1,31 @@
 {
- "generated_at": "2026-11-04T16:08:01+08:00",
+ "generated_at": "2026-11-04T16:10:31+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
    "count": 20
   },
   "8world": {
-   "ok": false,
-   "count": 20,
-   "error": "HTTPSConnectionPool(host='www.8world.com', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 20
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 04 Nov 2026 16:01:00 +0800",
+   "sort_time": "2026-11-04T16:01:00+08:00",
+   "title": "中国：美国中期选举属内政 愿加强沟通合作",
+   "url": "https://www.8world.com/world/china-calls-for-constructive-ties-with-us-amid-democratic-gains-in-midterm-3330746",
+   "id": "https://www.8world.com/world/china-calls-for-constructive-ties-with-us-amid-democratic-gains-in-midterm-3330746",
+   "paragraphs": [
+    "中国指出，中期选举是美国内政，中方愿继续同美方一道维护和落实好两国元首的重要共识。 中国外交部发言人毛宁在例行记者会上，针对记者提问对美国中期选举的看法时表示，中方也愿同美方加强沟通，妥善处理分歧，拓展合作，并且在尊重、公平和对等的基础上，构建中美建设性战略稳定关系。",
+    "更多相关报道，请浏览 《美国中期选举2026》 专页。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -54,7 +68,7 @@
    "section": "新加坡",
    "time": "15:58",
    "sort_time": "2026-11-04T15:58:31+08:00",
-   "title": "交警转头看旁车 撞前车酿四车车祸",
+   "title": "疑转头看旁车 交警撞前车酿四车车祸三人送院",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261104-9945874",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261104-9945874",
    "paragraphs": [
@@ -652,27 +666,6 @@
     "马哈迪也说，收到许多信件和吊唁，但无法一一回复。不过，他会尽量回复所有人。",
     "西蒂哈斯玛是在今年9月28日逝世，享年100岁。她和马哈迪在1956年结婚，今年8月才迎来结婚70周年。",
     "马哈迪在妻子离世后，因未得到足够的休息并感到疲劳，而在上个月底入住马来西亚国家心脏中心接受观察。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 04 Nov 2026 14:35:00 +0800",
-   "sort_time": "2026-11-04T14:35:00+08:00",
-   "title": "美国民主党中期选举大翻盘 参众两院双双易主",
-   "url": "https://www.8world.com/world/democrats-win-us-house-and-senate-3330631",
-   "id": "https://www.8world.com/world/democrats-win-us-house-and-senate-3330631",
-   "paragraphs": [
-    "美国民主党在中期选举中成功翻盘，从共和党手中夺回国会参众两院的控制权。",
-    "根据美联社的判定，截至新加坡时间4日下午2点34分，民主党已确定取得众议院220席，共和党则有127席。",
-    "此外，计入不参与本次改选的65个席位后，民主党阵营已掌握参议院53席，共和党则拿下41席。",
-    "其中，民主党成功拿下七个原属于共和党的参议院席位，包括缅因、爱荷华、堪萨斯、北卡罗莱纳、南卡罗莱纳、俄亥俄和得克萨斯州。",
-    "共和党在选举前同时掌控参众两院。民主党夺回两院后，将能主导国会的立法议程，并通过委员会加强对特朗普政府的监督和调查。",
-    "在参议院方面，民主党也将掌握对特朗普提名的内阁部长、联邦法官等重要官员的审议和表决程序，可能使部分人事任命面对更大阻力。",
-    "不过，即使民主党同时掌控参众两院，也不能单方面改变特朗普政府的政策。特朗普仍拥有总统否决权，并可在现有法律授权范围内行使行政权力。",
-    "更多相关报道，请浏览 《美国中期选举2026》 专页。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
