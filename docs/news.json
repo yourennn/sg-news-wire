@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:20:33+08:00",
+ "generated_at": "2026-11-04T15:30:56+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,23 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "beauty-fashion",
+   "time": "Wed, 04 Nov 2026 15:26:00 +0800",
+   "sort_time": "2026-11-04T15:26:00+08:00",
+   "title": "一出现就代表圣诞到了！Mariah Carey穿Gucci蝴蝶系列华丽“解冻”",
+   "url": "https://www.8world.com/beauty-fashion/mariah-carey-gets-serenaded-in-style-at-guccis-holiday-campaign-3330696",
+   "id": "https://www.8world.com/beauty-fashion/mariah-carey-gets-serenaded-in-style-at-guccis-holiday-campaign-3330696",
+   "paragraphs": [
+    "每年一到11月，大家等的就是这一刻！“圣诞女王”Mariah Carey，解冻了。",
+    "今年Mariah Carey不只带着经典神曲“All I Want For Christmas Is You”回归，还惊喜携手Gucci拍摄全新节庆形象广告，穿上品牌特别打造的Butterfly系列华丽登场。广告由导演Harmony Korine掌镜，场景设在一间为迎接天后而精心布置的酒店，熟悉的圣诞旋律一响起，整个空间瞬间充满欢乐气氛，仿佛正式宣告：圣诞季，开始了。",
+    "这次造型的最大亮点，当然是蝴蝶。对Mariah Carey来说，蝴蝶不只是装饰，更是她的个人符号，1997年那张经典专辑就叫“Butterfly”，象征自由、美丽与蜕变。Gucci把蝴蝶翅膀随光线变化的虹彩光泽融入设计，梦幻又华丽，也让整个合作多了一层专属于她的意义。",
+    "当然，节庆广告不只卖气氛，也顺便带货。Gucci同步推出全新节庆系列，从Starlet、Gucci Duffle、GG Marmont特别款，到柔软麂皮打造的Paparazzo包款；鞋款则有GG Monogram长靴、经典Horsebit乐福鞋、Ace运动鞋与Vittoria高跟鞋，搭配帽款、围巾等冬季配件，年末派对、交换礼物、冬季度假，一次搞定。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -611,23 +628,6 @@
     "全球广泛使用的网页编程语言PHP上个月被发现存在两项严重安全漏洞。政府表示，目前没有证据表明，政府系统或关键信息基础设施系统中的相关漏洞遭到利用，但仍须保持警惕。 数码发展及新闻部高级政务部长陈杰豪在国会答复议员询问时表示，这两项漏洞可能让攻击者在未经身份验证的情况下，远程执行程序代码，甚至控制受影响的网页服务器。 他指出，漏洞被披露后，政府科技局和网络安全局迅速同政府机构和关键信息基础设施业者合作，识别受影响的系统，并采取防护措施。对于无法立即修补漏洞的系统，当局也采取了其他防护措施。 政府也进行了追溯检查，寻找系统之前可能遭入侵的迹象。不过，由于追溯检查未必能发现所有入侵事件，当局将继续监测可疑或恶意网络活动。",
     "陈杰豪说，除了要求政府机构和供应商申报，当局也会主动扫描系统，识别可能存在漏洞的PHP组件，包括嵌入第三方应用程序中的组件。 一旦发现潜在漏洞，当局会同相关政府机构和供应商进一步核实，确认系统是否受到影响，以及是否需要修补。 根据《网络安全实践守则》，关键信息基础设施业者必须保存系统资产和相关依赖组件的清单，并建立漏洞识别和管理程序。 针对这次PHP安全漏洞，业者也必须同供应商合作，识别可能受影响的产品。 陈杰豪表示，政府将继续评估现有的漏洞管理规定是否足够，包括针对由第三方供应商维护的系统。",
     "陈杰豪指出，人工智能正加快安全漏洞的发现，也提高了网络攻击的速度和规模。企业不应等到发生数据泄露事件后，才着手处理已知漏洞。 考虑到中小企业可能缺乏专门的网络安全团队和资源，他表示，网络安全局的CyberSG Cyber Safe计划和其他政府支持措施，可协助企业加强网络安全防护，其中多项措施可获得政府高达七成的共同资助。 政府也提供援助，让企业聘请专业网络安全公司进行漏洞检测和渗透测试。 此外，政府计划尽快推出网络安全事故援助热线，让企业，尤其是中小企业，在遭遇网络安全事故、不知如何应对时，能够寻求协助。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "movies-shows",
-   "time": "Wed, 04 Nov 2026 13:57:40 +0800",
-   "sort_time": "2026-11-04T13:57:40+08:00",
-   "title": "新片上映：The Cat In The Hat",
-   "url": "https://www.8world.com/movies-shows/the-cat-in-the-hat-3330561",
-   "id": "https://www.8world.com/movies-shows/the-cat-in-the-hat-3330561",
-   "paragraphs": [
-    "全球童书史上的传奇角色重磅回归！改编自美国“国宝级”儿童文学作家Seuss博士经典同名著作的动画电影“The Cat In The Hat”由Alessandro Carloni及Erica Rivinoja联合执导，配音演员包括Bill Hader、Xochitl Gomez、Matt Berry、Quinta Brunson、Paula Pell及Tiago Martinez。",
-    "故事由一对刚搬到新家的姐弟视角展开，两人正为适应陌生环境而感到苦恼，此时最懂得制造欢乐的“戴帽子的猫”闪亮登场，接下带回笑容的特别任务。然而，当姐弟俩在搬家纸箱中误触一只神秘的“时光表”后，一段横跨回忆与未知的奇幻旅程随即展开。",
-    "新版在熟悉的角色之外，增加了组织 I.I.I.I. 与任务危机，让恶作剧连上孩子的生活变化，也让“戴帽子的猫”需要面对行动的后果。",
-    "这名头戴红白条纹高帽、个性古灵精怪的捣蛋大师，睽违已久终于以全新动画长片形式重返大银幕，势必将带领影迷展开一场充满奇想的奇幻冒险。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
