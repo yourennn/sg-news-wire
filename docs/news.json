@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:40:38+08:00",
+ "generated_at": "2026-11-05T20:50:35+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,31 @@
   },
   "8world": {
    "ok": true,
-   "count": 20
+   "count": 19
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Thu, 05 Nov 2026 20:46:29 +0800",
+   "sort_time": "2026-11-05T20:46:29+08:00",
+   "title": "IHH医疗保健整合业务　新马港逾300员工将离职",
+   "url": "https://www.8world.com/singapore/ihh-retrenchment-3331986",
+   "id": "https://www.8world.com/singapore/ihh-retrenchment-3331986",
+   "paragraphs": [
+    "IHH医疗保健宣布整合旗下业务支援服务，导致超过300名员工离职。（图：伊丽莎白医院网站）",
+    "亚洲最大私人医疗集团之一的IHH医疗保健宣布整合旗下业务支援服务，新加坡、马来西亚和香港共有超过300名员工将离职，其中部分员工获提供离职方案，另一些则被裁退。",
+    "亚洲新闻台CNA报道，IHH医疗保健集团昨天（4日）发文告表示，集团正在整合三个市场的业务支援服务，全球约7万6000名员工中，约0.5%将离职。",
+    "该集团未公布具体离职人数，但按比例计算，估计约有380名员工将离职。",
+    "IHH医疗保健发言人答复CNA询问时表示，受影响员工有些获提供离职方案，另一些则被裁退，具体安排取决于不同市场的既定做法。",
+    "部分员工将在业务整合过程中，转往重新设计的岗位任职。",
+    "“这次的业务整合不会影响临床服务、医护人员，以及面向病患的团队。”",
+    "集团也透露，已经为受影响员工提供超出法定要求的支持。",
+    "至于供应商、商业伙伴和其他合作业者，集团表示，现有业务运作和合同将暂时不会受到影响。",
+    "集团表示，这次调整旨在统一业务流程、发挥集团旗下医疗网络的协同效益，并将资源投入能够为病患带来最大效益的领域。"
+   ]
+  },
   {
    "source": "8world",
    "section": "东南亚",
@@ -574,41 +595,6 @@
     "泽连斯基在美国民主党赢得中期选举后，接受德国电视台ZDF访问时表示，现在有了希望，因为出现了这种权力制衡，乌克兰也希望能够获得更多支持。",
     "泽连斯基认为，美国国会政治格局的改变，可能为乌克兰争取更多援助创造机会，并可能对俄罗斯总统普京的决策产生影响。",
     "较早前，泽连斯基表示，他已同美国特使威特科夫（Steve Witkoff）和美国总统特朗普的女婿库什纳（Jared Kushner）进行了长达一个半小时的会谈，为下星期的美国、俄罗斯和乌克兰三方谈判做准备。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Thu, 05 Nov 2026 18:22:00 +0800",
-   "sort_time": "2026-11-05T18:22:00+08:00",
-   "title": "行动党公布第39届中委会职务  萧振祥 黄志明 沈颖 陈惠意增补为中委",
-   "url": "https://www.8world.com/singapore/pap-unveils-39th-central-executive-committee-office-holders-and-co-opts-3331991",
-   "id": "https://www.8world.com/singapore/pap-unveils-39th-central-executive-committee-office-holders-and-co-opts-3331991",
-   "paragraphs": [
-    "人民行动党第39届中央执行委员会今天（5日）开会，并增补四名中央执行委员。 四人分别是交通部长兼财政部第二部长萧振祥、总理公署部长黄志明、外交部兼内政部第二部长沈颖，以及阿裕尼集选区基层组织顾问陈惠意。 中委会也选出主要职务人选。 教育部长李智陞出任主席，社会及家庭发展部长马善高担任副主席，黄循财总理出任秘书长，公共服务统筹部长兼国防部长陈振声担任助理秘书长。 社会政策统筹部长兼保健卫生部长王乙康担任财政，国家发展部长徐芳达担任助理财政。 永续发展 与环境部长傅海燕和律政部长兼内政部第二部长唐振辉担任组织秘书。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Thu, 05 Nov 2026 18:07:23 +0800",
-   "sort_time": "2026-11-05T18:07:23+08:00",
-   "title": "印度金融机构遭AI网络攻击 部分黑客工具被指同中国有关",
-   "url": "https://www.8world.com/world/india-financial-institution-cyberattack-3331981",
-   "id": "https://www.8world.com/world/india-financial-institution-cyberattack-3331981",
-   "paragraphs": [
-    "印度多家金融机构遭遇网络攻击，导致资金被盗，黑客使用的部分人工智能工具同中国有关。",
-    "印度计算机紧急响应小组（CERT-In）昨天（4日）发布安全通告，指一个名为“Crafty Falcon”的黑客组织，入侵了贷款机构、金融科技公司和加密货币交易所。",
-    "当局指出，黑客利用公开的人工智能工具发动袭击，并警告相关威胁仍持续存在。",
-    "黑客使用的四款工具分别是ARTEX、PentAGI、Cairn和CyberStrikeAI。网络安全研究人员指出，其中至少两款工具同中国有关。",
-    "网络安全公司CrowdStrike早前表示，中国开发的ARTEX自9月底以来，已被用于攻击韩国银行。一个同中国有关联的黑客组织也曾利用这款工具，对至少14个国家的超过200个机构展开网络间谍活动。",
-    "印度当局没有公布受影响公司的名称和被盗资金金额，也没有透露幕后黑客的身份。",
-    "当局指出，黑客通常选择假期和周末等监控较为薄弱的时段发动攻击，并通过受害机构自身的支付和放款系统转移资金。",
-    "一些公司虽然在收到安全警告后修补了系统漏洞，但由于修复工作不够彻底，再次遭到攻击。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
