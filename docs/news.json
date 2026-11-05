@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T12:50:33+08:00",
+ "generated_at": "2026-11-05T13:00:51+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Thu, 05 Nov 2026 12:57:31 +0800",
+   "sort_time": "2026-11-05T12:57:31+08:00",
+   "title": "新加坡出现疑似流星后 马国多地也拍到神秘发光体",
+   "url": "https://www.8world.com/southeast-asia/mysterious-glowing-object-spotted-streaking-across-kluang-night-sky-3331641",
+   "id": "https://www.8world.com/southeast-asia/mysterious-glowing-object-spotted-streaking-across-kluang-night-sky-3331641",
+   "paragraphs": [
+    "马国多地天空拍到神秘发光体。（图：星洲日报）",
+    "新加坡昨晚有人目击疑似流星划过夜空，同一时间，马来西亚柔佛等多个地区也有人拍到一道拖着长尾的明亮发光体，引起网民热议。",
+    "据《星洲日报》报道，居銮一名目击者希微阿郎（Siewi Arang）表示，他当时身处地王广场，看见发光体从马哥打军营方向出现，并朝地城方向移动，于是立即拿起手机拍摄。",
+    "他说，整个过程十分短暂，只来得及拍下约两秒的画面。",
+    "视频显示，一道明亮光点拖着长长的光尾高速划过夜空，亮度随后逐渐减弱，最终被建筑物遮挡。",
+    "据了解，除了居銮，柔佛多个地区也有人在相近时间拍到类似发光体。",
+    "《8视界新闻网》早前报道，新加坡蔡厝港一带昨晚8点40分也有公众拍到疑似流星划过天空的画面。((insert link https://www.8world.com/singapore/meteor-choa-chu-kang-3331416))",
+    "目击者表示，这恰好是金牛座流星雨（Taurids Meteor Showers）活跃期。",
+    "目前尚不清楚新加坡和马国民众拍到的是否为同一个发光体，其具体性质也有待相关方面确认。",
+    "Download our app and get the latest news updates on-the-go"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -34,9 +55,30 @@
   },
   {
    "source": "8world",
+   "section": "新加坡",
+   "time": "Thu, 05 Nov 2026 12:47:00 +0800",
+   "sort_time": "2026-11-05T12:47:00+08:00",
+   "title": "新一轮预购组屋销售开跑一天 登加二房式灵活单位最抢手",
+   "url": "https://www.8world.com/singapore/hdb-bto-application-rates-3331636",
+   "id": "https://www.8world.com/singapore/hdb-bto-application-rates-3331636",
+   "paragraphs": [
+    "毗邻泛岛快速公路（PIE）的登加预购组屋项目Plantation Dew。（设计概念图：建屋发展局）",
+    "新一轮预购组屋销售首日反应热烈，登加Plantation Dew的二房式灵活单位最抢手，首次购屋单身者申购率高达8.6。",
+    "大巴窑黄金地段项目Toa Payoh Hillside的四房式单位也备受欢迎，第二次购屋家庭申购率高达15.1；勿洛三房式单位的第二次购屋家庭申购率更达到17.3。",
+    "相比之下，三巴旺Sembawang Anchor项目较冷门，三房式至五房式单位的首次购屋家庭申购率均低于1.0。",
+    "新一轮预购组屋销售活动开跑第一天反应热烈，多个项目申购率超过1.0。其中，登加标准地段项目Plantation Dew的二房式灵活单位最抢手。",
+    "建屋发展局网站的数据显示，截至今天（5日）中午12点，Plantation Dew二房式灵活单位的首次购屋单身人士申购率高达8.6，是目前所有二房式灵活单位中最高的。",
+    "Plantation Dew的三房式、四房式和五房式及三代同堂单位也颇受欢迎，首次购屋家庭申购率分别达1.3、2.6和1.6。",
+    "本轮销售活动的唯一一个黄金地段项目，位于大巴窑的Toa Payoh Hillside，四房式单位同样热门。584个单位已吸引2137份申请，首次购屋家庭申购率达2.4，第二次购屋家庭的申购率更高达15.1。",
+    "同个项目推出的592个二房式灵活单位，也收到1247份申请。其中，首次购屋单身者申购率达3.4。",
+    "大巴窑也是这一轮预购组屋销售活动中，唯一推出社区关爱组屋单位的项目，目前申购率为0.5。"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "中港台",
-   "time": "Thu, 05 Nov 2026 12:36:07 +0800",
-   "sort_time": "2026-11-05T12:36:07+08:00",
+   "time": "Thu, 05 Nov 2026 12:36:00 +0800",
+   "sort_time": "2026-11-05T12:36:00+08:00",
    "title": "指中国公民入境檀香山遭美方盘查遣返 中方提出严正交涉",
    "url": "https://www.8world.com/greater-china/los-angeles-china-consulate-travel-advisory-3331631",
    "id": "https://www.8world.com/greater-china/los-angeles-china-consulate-travel-advisory-3331631",
@@ -572,40 +614,6 @@
     "45岁的新加坡业主Hong Wei Zhong则说，收楼时游泳池等设施尚未准备就绪，感觉就像“住在建筑工地”。",
     "根据法院裁决，每个单位因延迟交付可获约3万4000至19万6000令吉（约1万1000至6万3000新元）赔偿，公共设施延误则另有赔偿。",
     "发展商也须退还业主在2018年11月8日前缴付的部分管理费、维修基金及水费押金。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Thu, 05 Nov 2026 11:08:50 +0800",
-   "sort_time": "2026-11-05T11:08:50+08:00",
-   "title": "别让脚踏车“霸位” 陆交局7月以来移走303辆",
-   "url": "https://www.8world.com/singapore/lta-removed-303-bicycles-3331511",
-   "id": "https://www.8world.com/singapore/lta-removed-303-bicycles-3331511",
-   "paragraphs": [
-    "陆交局7月以来移走303辆。（图：facebook/陆路交通管理局）",
-    "陆路交通管理局自今年7月以来，已从多个脚踏车停放处移走303辆乱停或被弃置的脚踏车。 陆交局今天（5日）在Facebook贴文说，当局持续在主要交通枢纽一带采取行动，以确保脚踏车停车位能留给有需要的人使用。 受影响地点包括海军部、淡滨尼、阿裕尼、义顺和三巴旺等地区。 陆交局也提醒公众，应把脚踏车停放在指定地点，避免长期占用停车位或随意弃置。 公众如果不确定附近哪里可以停放脚踏车，可通过MyTransport.SG应用查询附近的脚踏车停车处，包括购物商场内的停车地点。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Thu, 05 Nov 2026 11:02:00 +0800",
-   "sort_time": "2026-11-05T11:02:00+08:00",
-   "title": "共和党惨败成众矢之的 众议院最快下周表决赫格塞斯弹劾案",
-   "url": "https://www.8world.com/world/pete-hegseth-impeachment-trump-3331496",
-   "id": "https://www.8world.com/world/pete-hegseth-impeachment-trump-3331496",
-   "paragraphs": [
-    "美国共和党在中期选举中惨败，战争部长赫格塞思成为众矢之的，众议院最快可能在下个星期就弹劾赫格塞思的议案进行表决。",
-    "美国有线电视新闻网CNN报道，在共和党惨败后，部分共和党议员迅速将矛头指向赫格塞思。他们认为，赫格塞思在说服总统特朗普对伊朗发动攻击方面发挥了关键作用，却没有制定结束战争的战略，也没有为可能引发的政治后果做好准备。",
-    "以公开反对特朗普而闻名的肯塔基州共和党众议员托马斯·马西（Thomas Massie）告诉CNN，他计划在国会下个星期复会时，推动就弹劾赫格塞思进行表决。",
-    "多名共和党人匿名向CNN表示，赫格塞思一直是这场战争的积极鼓吹者，却夸大了美国能够迅速、轻松赢得战争的能力。他们也指责赫格塞思，尽管持续轰炸没有明显迹象显示伊朗更接近投降，他仍不断主张升级军事行动。",
-    "多名共和党消息人士也预计，弹劾议案将获得通过。",
-    "另一方面，当被媒体问及赫格塞思的职位是否稳固时，特朗普为战争行动辩护，否认有意解雇赫格塞思，并表示这名战争部长“做得非常好”。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
