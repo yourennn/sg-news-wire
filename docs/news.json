@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:20:35+08:00",
+ "generated_at": "2026-11-06T23:30:43+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Fri, 06 Nov 2026 23:20:00 +0800",
+   "sort_time": "2026-11-06T23:20:00+08:00",
+   "title": "M1和Doctor Anywhere同日披露客户资料外泄事件",
+   "url": "https://www.8world.com/singapore/m1-and-doctor-anywhere-data-breach-3333296",
+   "id": "https://www.8world.com/singapore/m1-and-doctor-anywhere-data-breach-3333296",
+   "paragraphs": [
+    "电信公司M1和远程医疗服务平台Doctor Anywhere发生客户资料外泄事件。（图：CNA/Ooi Boon Keong, 谷歌地图）",
+    "本地电信公司M1和远程医疗服务平台Doctor Anywhere同一天披露客户资料外泄事件。",
+    "其中，M1受影响的资料包括客户身份证号码、出生日期及联络方式等，而Doctor Anywhere则表示，公司遭到恶意网络攻击，导致用户个人资料外泄。",
+    "M1今天（6日）答复《8视界新闻网》的询问时表示，公司于10月30日发现这起资料外泄事件，目前已控制情况，并正与有关当局及第三方专家合作展开调查。",
+    "受影响的资料包括客户姓名、身份证或外国人身份证号码、出生日期、手机号码、电邮地址及地址。",
+    "公司强调，客户的付款卡资料、财务及银行信息没有外泄，客户账户访问权限没有被影响。公司的所有服务及业务运作都没有受到干扰。",
+    "M1将通过电邮或信件通知受影响的客户，并提醒客户提高警惕，谨慎应对来历不明的电话、短信或电邮。",
+    "亚洲新闻台CNA报道，远程医疗服务平台Doctor Anywhere发表声明表示，公司遭遇恶意网络攻击，导致用户个人资料外泄。",
+    "公司指出，一名身份不明的第三方未经授权访问系统，但没有透露事件发生的具体时间、受影响的客户人数，以及外泄资料的类型。",
+    "Doctor Anywhere表示，已聘请网络安全及数码鉴证公司Ensign InfoSecurity协助调查。截至上个月30日，Ensign InfoSecurity已验证公司采取的安全修复措施，并确认系统中发现的漏洞已获得修复。"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -58,7 +79,7 @@
    "section": "新加坡",
    "time": "Fri, 06 Nov 2026 23:10:00 +0800",
    "sort_time": "2026-11-06T23:10:00+08:00",
-   "title": "黄循财贴文哀悼前国会议员李玉胜逝世",
+   "title": "前国会议员李玉胜逝世 享寿87岁",
    "url": "https://www.8world.com/singapore/lee-yiok-seng-passed-away-3333291",
    "id": "https://www.8world.com/singapore/lee-yiok-seng-passed-away-3333291",
    "paragraphs": [
@@ -72,7 +93,7 @@
    "section": "新加坡",
    "time": "23:09",
    "sort_time": "2026-11-06T23:09:11+08:00",
-   "title": "前议员李玉胜逝世 黄总理：新加坡失去一位尽忠职守的公职人员",
+   "title": "前议员李玉胜逝世 黄总理：新加坡失去一位尽忠职守公职人员",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261106-9961329",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261106-9961329",
    "paragraphs": [
@@ -752,22 +773,6 @@
     "报道称，过去一周，卡塔尔在与伊朗的外交斡旋中发挥主导作用，不仅在德黑兰参与两轮会谈，还在多哈主办第三轮会谈；其中两名官员说，卡塔尔方面近期还在亚美尼亚与伊朗官员会晤。",
     "报道还说，雷扎伊虽然言辞强硬，但私下对核问题的讨论表现出更开放态度，并且一直与卡塔尔谈判。一同参与谈判的还有多名伊朗高级官员，包括外交部长阿拉格齐，以及和伊斯兰议会议长卡利巴夫。",
     "此外，美国副总统 万斯 据称已成为卡塔尔主导的调解进程关键支持者。他似乎也有意与特朗普拉开距离，将共和党本周中期选举的惨败归咎于这场战争。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Fri, 06 Nov 2026 19:38:00 +0800",
-   "sort_time": "2026-11-06T19:38:00+08:00",
-   "title": "本地近期空气质量良好 周末料维持",
-   "url": "https://www.8world.com/singapore/haze-advisory-nov06-3333091",
-   "id": "https://www.8world.com/singapore/haze-advisory-nov06-3333091",
-   "paragraphs": [
-    "本地近来的空气质量维持良好，国家环境局预测明天（7日）的空气污染指数将介于40到70点，处于良好到中等水平。",
-    "环境局今天（6日）发布的每日烟霾报告表示，南苏门答腊这周末预料较为干燥，不过本地和周边区域会有降雨，加上风向多变，烟霾预计会继续受到抑制。",
-    "截至晚上7点，全岛一小时PM2.5悬浮颗粒浓度介于每立方米7微克到22微克，属于正常水平。24小时空气污染指数则介于52到57点，处于中等水平。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
