@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T10:50:34+08:00",
+ "generated_at": "2026-11-06T11:00:57+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,24 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Fri, 06 Nov 2026 10:56:01 +0800",
+   "sort_time": "2026-11-06T10:56:01+08:00",
+   "title": "日本企业上个月遭逾4亿次网袭 高性能AI自动化或为幕后推手",
+   "url": "https://www.8world.com/world/japan-cyberattack-3332501",
+   "id": "https://www.8world.com/world/japan-cyberattack-3332501",
+   "paragraphs": [
+    "据报道，日本国内企业上个月遭到超过4亿次网络攻击，而高性能人工智能让攻击自动化，可能是导致攻击数量激增的幕后推手。",
+    "日本《共同网》报道，总部设在东京的私人企业“网络安全云”（Cyber Security Cloud），主要为日本企业等大约两万个网站提供防止非法登录的工具和服务。",
+    "根据公司统计检测到的恶意通信数据，单在上个月，以日本国内企业网站为主要目标的网络攻击高达4亿7500万次，年比增加两倍半，也比前个月多出2100万次。",
+    "从类型来看，网页扫描占绝大多数，相信黑客试图通过掌握网站结构来寻找可以入侵网站的漏洞或设置错误。",
+    "另一种被称为“SQL注入”的攻击手法也呈上升趋势。黑客主要通过发送恶意指令，试图窃取或篡改数据库内的信息。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "新加坡",
@@ -473,24 +491,6 @@
     "知情人士说，少量晶片已通过中间商和间接渠道运进中国，但没有说平具体数量。不过，据说，北京尚未批准大规模进口这款晶片。",
     "报道指出，这批早前未披露的晶片库存规模，反映北京不愿进一步依赖美国技术，但在这同时，中国企业又需要英伟达的先进晶片，以满足国内日益增长的人工智能需求。",
     "中国工业和信息化部、国家发展和改革委员会、英伟达，以及阿里巴巴（Alibaba）、字节跳动（ByteDance）、深度求索（DeepSeek）、腾讯（Tencent）等中资企业都还未就此回应《路透社》的询问。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Fri, 06 Nov 2026 08:11:00 +0800",
-   "sort_time": "2026-11-06T08:11:00+08:00",
-   "title": "中国发射一组遥感卫星升空 卫星顺利进入预定轨道",
-   "url": "https://www.8world.com/greater-china/china-launches-new-remote-sensing-satellites-3332401",
-   "id": "https://www.8world.com/greater-china/china-launches-new-remote-sensing-satellites-3332401",
-   "paragraphs": [
-    "中国发射一组遥感卫星升空。（图：央视新闻）",
-    "中国发射一组遥感卫星（remote sensing satellites）升空，卫星顺利进入预定轨道。",
-    "《新华社》报道，当局昨晚（5日）11点58分，在四川省的西昌卫星发射中心，使用“长征二号丙”运载火箭，把“遥感51号07-09卫星”发射升空。",
-    "据报道，这组卫星主要用于科学试验、电磁环境探测等领域。",
-    "这也是“长征系列”运载火箭的第675次飞行任务。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
