@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:00:55+08:00",
+ "generated_at": "2026-11-10T07:09:56+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Tue, 10 Nov 2026 07:07:56 +0800",
+   "sort_time": "2026-11-10T07:07:56+08:00",
+   "title": "法国多家超市遭网络攻击 当局指幕后黑手是伊朗军方",
+   "url": "https://www.8world.com/world/france-says-iran-behind-cyberattacks-3335716",
+   "id": "https://www.8world.com/world/france-says-iran-behind-cyberattacks-3335716",
+   "paragraphs": [
+    "法国多家超市的冷冻设备温度控制系统疑遭黑客操纵，被迫清空冷冻食品货架。（图：路透社）",
+    "国内超级市场冷藏系统遭网络攻击，法国指伊朗军方是幕后黑手。",
+    "法国多家超市上个月11和12日遭到网络袭击，冷藏系统的温度异常升高，导致食品库存变质，必须丢弃。",
+    "法国外交部长巴罗（Jean-Noel Barrot）说，伊朗革命卫队是这次网袭的幕后黑手。",
+    "他在巴黎召开的七国集团外长会议场边说，这次网袭的规模和侵略性是前所未有的。",
+    "法国外交部长巴罗指伊朗军方是网攻事件的幕后黑手。（图：路透社）",
+    "在这同时，巴黎检察院发表声明说，司法机关已对伊朗革命卫队旗下的网络组织烈士卡维（Shahid Kaveh）、组织负责人和两名副手展开调查。",
+    "巴罗表示，法国已为此事传召伊朗驻巴黎大使，表达强烈抗议，并会在欧洲层面，对所有应对事件负责的人实施制裁。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -648,22 +669,6 @@
     "我国较低的企业税率及税务优惠，为苹果带来约54亿9000万美元（约70亿2640万新元）的税务减免。",
     "扣除全球最低税制下的补足税（Global Minimum Tax），以及其他调整后，净节税额约为26亿7000万美元（约34亿1721万新元）。",
     "《金融时报》估算，苹果2026财年归入新加坡的利润可能高达500亿美元（约640亿新元）。不过并非苹果正式披露的国别利润数据。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Mon, 09 Nov 2026 20:22:00 +0800",
-   "sort_time": "2026-11-09T20:22:00+08:00",
-   "title": "世嘉电子杂志服务供应商遭黑客攻击 约219万名顾客电邮外泄",
-   "url": "https://www.8world.com/world/sega-user-email-addresses-leaked-in-vendor-breach-3335501",
-   "id": "https://www.8world.com/world/sega-user-email-addresses-leaked-in-vendor-breach-3335501",
-   "paragraphs": [
-    "日本游戏巨头世嘉（SEGA）表示，为公司提供电子杂志服务的企业遭到黑客攻击，导致约219万名顾客的电邮地址外泄。",
-    "《共同网》报道，为公司提供电子杂志服务的Arara公司系统遭到非法访问，导致219万名顾客的电邮地址外泄。不过，泄露的资料不包括姓名、电话号码和信用卡信息等个人资料。",
-    "世嘉表示，目前尚未发现外泄资料遭到恶意利用，但已提醒用户提高警惕，提防日后可能收到冒充公司名义发送的可疑电邮。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
