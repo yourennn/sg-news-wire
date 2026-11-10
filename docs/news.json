@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:10:36+08:00",
+ "generated_at": "2026-11-10T13:20:35+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,24 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Tue, 10 Nov 2026 13:10:32 +0800",
+   "sort_time": "2026-11-10T13:10:32+08:00",
+   "title": "美国白宫附近突发安全事故 特勤局逮捕两男",
+   "url": "https://www.8world.com/world/two-guys-arrested-near-white-house-3335931",
+   "id": "https://www.8world.com/world/two-guys-arrested-near-white-house-3335931",
+   "paragraphs": [
+    "一辆汽车冲上白宫前方的拉斐特公园，司机拒绝配合最终被捕。（图：路透社）",
+    "美国特勤局在白宫附近逮捕了两名男子。白宫一度短暂封锁，附近公园周围的道路也暂时关闭。",
+    "《路透社》报道，特勤局发言人发声明说，一辆汽车在当地时间星期一早上10点前，冲上白宫前方的拉斐特公园（Lafayette Park）周围的人行道。司机不配合执法人员，迅速被制伏逮捕。",
+    "声明说，几乎同一时间，另一名男子在拉斐特公园西北角附近翻越护栏，而被逮捕。",
+    "事发时，总统特朗普正在白宫内。特勤局正在调查这两起事件是否有关联。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -527,27 +545,6 @@
     "此外，特种作战司令部为执行渗透作战所需物资的采购量也将大幅增加。其中，空中和水下装备器材共计1万6600多万件，比今年和去年增加约16倍。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "健康",
-   "time": "Tue, 10 Nov 2026 10:37:00 +0800",
-   "sort_time": "2026-11-10T10:37:00+08:00",
-   "title": "有人中午一碰咖啡就铁定失眠、有人深夜喝浓茶也能秒睡　3个因素找到了！",
-   "url": "https://www.8world.com/bodysos/why-some-people-cannot-sleep-after-having-coffee-or-tea-3335841",
-   "id": "https://www.8world.com/bodysos/why-some-people-cannot-sleep-after-having-coffee-or-tea-3335841",
-   "paragraphs": [
-    "为什么有些人中午过后喝杯咖啡就会整夜失眠，有些人深夜喝浓茶却能瞬间入睡？",
-    "这种巨大的差异并非心理作用，而是由每个人独特的生物学与基因生理机制决定的。",
-    "咖啡因主要由肝脏中的CYP1A2代谢酶进行分解，该基因的活性决定了代谢效率：",
-    "快速代谢者：CYP1A2基因活性高，咖啡因半衰期仅需2–4小时。深夜时血液中的咖啡因已降至极低水平，自然不影响入睡。",
-    "慢速代谢者：基因活性较低，半衰期可长达8–10小时以上。中午喝的咖啡到了深夜仍有残留，极易导致入睡困难。",
-    "人在清醒时大脑会不断积累腺苷，结合腺苷受体后产生睡意。咖啡因通过抢先占领这些受体来阻断疲劳信号传递。",
-    "低敏感人群：受体结构与基因表达对咖啡因反应较弱，即使受体被部分占据，身体依然能顺畅接收睡眠信号。",
-    "高敏感人群：受体极易结合咖啡因，微量摄入就会引起大脑神经持续兴奋。",
-    "耐受性适应：长期饮用茶或咖啡，大脑会通过调整受体数量来适应咖啡因，使其兴奋作用逐渐减弱。",
-    "高睡眠驱动力：个体生理时钟与睡眠压力不同，有些人天生积累睡意的能力较强，能直接压制咖啡因的提神效果。"
    ]
   },
   {
