@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T10:00:52+08:00",
+ "generated_at": "2026-11-11T10:10:37+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,29 @@
   },
   "8world": {
    "ok": true,
-   "count": 19
+   "count": 18
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 11 Nov 2026 10:09:02 +0800",
+   "sort_time": "2026-11-11T10:09:02+08:00",
+   "title": "美国共和党国会领导层改选 图恩获连任乔丹当选众院新领袖",
+   "url": "https://www.8world.com/world/thune-jordan-emerge-as-republican-minority-leaders-for-next-us-congress-3337066",
+   "id": "https://www.8world.com/world/thune-jordan-emerge-as-republican-minority-leaders-for-next-us-congress-3337066",
+   "paragraphs": [
+    "美国共和党为国会参众两院的内部领导层举行选举，现任参议院多数党领袖图恩获得连任；众议院司法委员会主席乔丹被推选为众议院新领袖。",
+    "共和党在中期选举中惨败，失去国会控制权。图恩（John Thune）获连任参议院共和党领袖后表示，虽然共和党明年将不再掌控参议院，但他承诺，共和党会在所有立法工作上，积极维护保守派的优先事项。",
+    "当选众议院少数党领袖的乔丹（Jim Jordan）则是总统特朗普的强硬派盟友。他将接替辞去领导职务的众议院议长约翰逊，带领共和党人在众议院捍卫特朗普的政策议程。",
+    "民主党虽然掌控国会，但要在参议院推动重大政策，仍需要得到共和党的支持。",
+    "根据参议院的冗长辩论规则，大多数法案需要获得至少60票支持，才能推进。",
+    "此外，民主党在参众两院的多数优势，也远远达不到推翻总统否决权所需的三分之二票数。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "food",
@@ -434,23 +453,6 @@
   },
   {
    "source": "8world",
-   "section": "国际",
-   "time": "Wed, 11 Nov 2026 07:15:00 +0800",
-   "sort_time": "2026-11-11T07:15:00+08:00",
-   "title": "涉协助俄罗斯情报机构 美陆军高级军官在英国被逮捕",
-   "url": "https://www.8world.com/world/uk-police-say-member-of-us-army-arrested-under-national-security-act-3336961",
-   "id": "https://www.8world.com/world/uk-police-say-member-of-us-army-arrested-under-national-security-act-3336961",
-   "paragraphs": [
-    "美国一名陆军高级士兵嫌协助俄罗斯情报机构，在英国被逮捕。",
-    "英国警方说，这名41岁的士兵昨天（10日）在英格兰西部城市格洛斯特（Gloucester）附近落网。他涉嫌违反英国《国家安全法》，包括获取或披露受保护信息，以及协助外国情报机构，目前被扣押在伦敦警局。",
-    "警方说，有关指控涉及的国家是俄罗斯，并指出逮捕行动同反恐警察正在调查的其他案件没有关联。",
-    "美国联邦调查局局长帕特尔发表声明说，逮捕行动涉及美国和盟友最为关切的间谍指控，并强调联邦调查局绝不姑息任何背弃对美国的宣誓、以及危害美国和伙伴安全的人。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
    "section": "财经",
    "time": "Wed, 11 Nov 2026 07:09:00 +0800",
    "sort_time": "2026-11-11T07:09:00+08:00",
@@ -467,27 +469,6 @@
     "其中，晶片制造商英伟达（Nvidia）的股价继续受首席执行官黄仁勋同疑似从事间谍活动的女子搞婚外情的风波影响，再跌大约6%，使两天的累计跌幅达10%，导致公司市值蒸发4千700亿美元。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Wed, 11 Nov 2026 06:54:00 +0800",
-   "sort_time": "2026-11-11T06:54:00+08:00",
-   "title": "学历争议面临弹劾压力 吉布兰：普拉博沃建议“抗争”证明资格",
-   "url": "https://www.8world.com/southeast-asia/prabowo-advises-gibran-to-continue-diploma-defense-at-court-3336946",
-   "id": "https://www.8world.com/southeast-asia/prabowo-advises-gibran-to-continue-diploma-defense-at-court-3336946",
-   "paragraphs": [
-    "印度尼西亚副总统吉布兰。（图：ANTARA News）",
-    "因学历风波面临国会弹劾压力的印度尼西亚副总统吉布兰表示，总统普拉博沃建议他“抗争”，以证明自己的资格。",
-    "吉布兰昨天在雅加达的官邸向媒体透露，普拉博沃的建议包括通过国家行政法院，采取法律行动。",
-    "吉布兰表示，他会同负责基础教育的部门协调，入禀最高法院，要求进行司法审核。",
-    "较早前，总统发言人普拉塞蒂约（Prasetyo Hadi）说，吉布兰同普拉博沃会面时，鉴于当前局势的发展，表达了辞职意愿。",
-    "普拉塞蒂约否认普拉博沃拒绝吉布兰辞职请求的报道，但没有说明总统是否已接受辞呈。",
-    "39岁的吉布兰是前总统佐科的长子。他在2024年大选中，担任普拉博沃的竞选搭档，协助对方以压倒性优势胜选。",
-    "不过，吉布兰参选时提交的学历文件近期引发争议。印尼宪法法院和最高法院上个月裁定，相关文件不符合选举规定。",
-    "目前，部分国会议员正考虑针对吉布兰的参选资格展开调查。",
-    "Download our app and get the latest news updates on-the-go"
    ]
   },
   {
