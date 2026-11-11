@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:40:38+08:00",
+ "generated_at": "2026-11-11T09:50:36+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,26 @@
   },
   "8world": {
    "ok": true,
-   "count": 19
+   "count": 18
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 11 Nov 2026 09:47:00 +0800",
+   "sort_time": "2026-11-11T09:47:00+08:00",
+   "title": "美国财长贝森特接获伊朗人身安全威胁 已迁入军事基地避险",
+   "url": "https://www.8world.com/world/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats-3337051",
+   "id": "https://www.8world.com/world/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats-3337051",
+   "paragraphs": [
+    "据报道，美国财政部长贝森特（Scott Bessent）近期受到来自伊朗的人身安全威胁，已从住所迁入一处军事基地避险。",
+    "《纽约时报》引述知情人士的消息说，目前还不清楚针对贝森特的威胁有多严重。不过，美国官员认为，伊朗在美国本土和其他海外地区发动大规模袭击的能力有限。",
+    "根据《路透社》上个月看到的备忘录，美国高级情报官员警告，伊朗针对美国现任和前任官员策划的行动，正进入更加深入的阶段。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -434,26 +450,6 @@
   },
   {
    "source": "8world",
-   "section": "国际",
-   "time": "Wed, 11 Nov 2026 07:00:00 +0800",
-   "sort_time": "2026-11-11T07:00:00+08:00",
-   "title": "赫格塞斯抨击弹劾行动是闹剧 强硬捍卫政绩",
-   "url": "https://www.8world.com/world/defiant-hegseth-blasts-impeachment-farce-ahead-of-us-house-vote-3336951",
-   "id": "https://www.8world.com/world/defiant-hegseth-blasts-impeachment-farce-ahead-of-us-house-vote-3336951",
-   "paragraphs": [
-    "美国战争部长赫格塞斯猛烈抨击针对他的弹劾行动，形容这是一场闹剧，并强硬捍卫自己的政绩。",
-    "赫格塞斯自5月以来，首次在五角大楼召开记者会。他表示，提交给众议院的弹劾议案是基于政策分歧，并强调他没有犯下任何依据宪法可将他免职的严重罪行。",
-    "赫格塞斯也指弹劾行动等同否定美国军人的贡献和作战成果，并且正在削弱美军的力量。他说，这不是爱国主义，而是蓄意破坏。",
-    "此外，赫格塞斯指出，总统特朗普“以实力求和平”的原则，不仅是一句口号，更是一种作战方式；而美国是唯一能成功执行这些军事任务的国家。",
-    "他强调，支持美军开展的每一项行动，并为执行这些行动感到自豪，如果有需要，他会再次这么做。",
-    "特朗普在记者会结束后，在自家社交平台发文，称赞赫格塞斯的表现，并再次指提出弹劾动议的肯塔基州众议员梅西（Thomas Massie）是彻头彻尾的失败者。",
-    "副总统万斯也在X社交平台推文，支持赫格塞斯，指弹劾同伊朗无关，而是关于赫格塞斯挑战五角大楼官僚体制的事实。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
    "section": "东南亚",
    "time": "Wed, 11 Nov 2026 06:54:00 +0800",
    "sort_time": "2026-11-11T06:54:00+08:00",
@@ -471,27 +467,6 @@
     "不过，吉布兰参选时提交的学历文件近期引发争议。印尼宪法法院和最高法院上个月裁定，相关文件不符合选举规定。",
     "目前，部分国会议员正考虑针对吉布兰的参选资格展开调查。",
     "Download our app and get the latest news updates on-the-go"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Wed, 11 Nov 2026 00:24:00 +0800",
-   "sort_time": "2026-11-11T00:24:00+08:00",
-   "title": "新翔学校订餐应用遭入侵 四所学校的学生信息外泄",
-   "url": "https://www.8world.com/singapore/sats-school-meal-ordering-application-compromised-3336936",
-   "id": "https://www.8world.com/singapore/sats-school-meal-ordering-application-compromised-3336936",
-   "paragraphs": [
-    "新翔集团（SATS）采用的学校订餐应用Tappee遭网络攻击。",
-    "新翔集团（SATS）采用的学校订餐应用Tappee遭网络攻击，导致四所学校的学生个人资料外泄，包括学生姓名、经济援助计划状态、车资卡号码，以及部分家长和监护人的电邮地址。",
-    "新翔集团星期二（10日）表示，有不法分子利用Tappee平台的安全漏洞，未经授权恶意入侵系统。",
-    "集团的网络安全监测系统发现这起事故后，立即指示应用供应商暂停应用程序。",
-    "集团指出，有关应用程序是由第三方供应商Serial Multivision有限公司开发及维护，目前在本地四所学校使用。集团本身的资讯科技设施并未遭到入侵。",
-    "根据目前的调查结果，这起事故涉及孩子的个人资料，包括学生姓名、电邮地址、学生经济援助计划状态、学生车子卡号码，以及部分家长和监护人的电邮地址。",
-    "此外，一小部分受影响的记录还包含学生的身高、体重、过敏资料及卡路里摄取量。",
-    "不过新翔集团表示，银行或信用卡资料，以及学生身份证明文件的资料或图像均未外泄，因为Tappee应用程序并未收集这些信息。",
-    "新翔集团说：“我们已向个人资料保护委员会（PDPC）通报这起事故，并将在调查持续进行期间，全力配合相关当局。”",
-    "个人资料保护委员会也向亚洲新闻台CNA证实，已知悉这起事件，并正在展开调查。"
    ]
   },
   {
