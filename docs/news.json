@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:30:45+08:00",
+ "generated_at": "2026-11-13T06:40:36+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,23 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Fri, 13 Nov 2026 06:39:46 +0800",
+   "sort_time": "2026-11-13T06:39:46+08:00",
+   "title": "微软发生大规模故障 影响数以千计的用户",
+   "url": "https://www.8world.com/world/microsoft-365-outlook-down-for-thousands-of-users-3339231",
+   "id": "https://www.8world.com/world/microsoft-365-outlook-down-for-thousands-of-users-3339231",
+   "paragraphs": [
+    "美国科技巨头微软发生大规模故障，影响数以千计的用户。",
+    "公司旗下的云端和软件服务微软365、电邮Outlook和即时通讯平台Teams昨天（12日）服务中断，同时也影响人工智能服务OpenAI和Anthropic使用的连接器。",
+    "根据故障追踪网站Downdetector.com的数据，截至当地时间昨天下午2点左右，共有9万7000名美国用户通报Outlook电邮故障；超过3万8000人无法使用微软365，4500人也申诉Teams出现问题。",
+    "微软随后发表声明说，公司伺服器负载升高，但并非流量增加所致，而是由于大量伺服器不知何故无法使用。公司正努力让受影响的伺服器恢复服务，同时采取行动，防止其他伺服器受影响。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -754,24 +771,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Thu, 12 Nov 2026 21:01:52 +0800",
-   "sort_time": "2026-11-12T21:01:52+08:00",
-   "title": "习近平呼吁两岸同胞和中华人民 为和平实现祖国完全统一努力",
-   "url": "https://www.8world.com/greater-china/xi-jinping-3339021",
-   "id": "https://www.8world.com/greater-china/xi-jinping-3339021",
-   "paragraphs": [
-    "中国国家主席习近平呼吁两岸同胞和海内外中华人民，为和平实现祖国完全统一而努力。",
-    "《央视新闻网》报道，今天（12日）是孙中山160周年诞辰。纪念仪式上午10点在中国北京人民大会堂举行。",
-    "习近平在活动上指出，孙中山始终坚定维护国家统一、民族团结，坚决反对一切分裂国家、分裂民族的言论和行为。",
-    "习近平认为，解决台湾问题、实现祖国完全统一是中国共产党的历史任务，是全体中华人民的共同愿望，也是实现中华民族伟大复兴的必然要求。",
-    "他呼吁两岸同胞和海内外全体中华人民要共同反对“台独”分裂势力，并为两岸关系和平发展、实现祖国完全统一而努力。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   }
  ]
