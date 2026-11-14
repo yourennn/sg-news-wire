@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:20:35+08:00",
+ "generated_at": "2026-11-14T15:30:41+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,23 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 14 Nov 2026 15:25:30 +0800",
+   "sort_time": "2026-11-14T15:25:30+08:00",
+   "title": "微软消费者产品服务已全面恢复",
+   "url": "https://www.8world.com/world/microsoft-update-3340371",
+   "id": "https://www.8world.com/world/microsoft-update-3340371",
+   "paragraphs": [
+    "微软表示，旗下消费者产品服务已经全面恢复，Microsoft 365企业服务的情况也持续好转。",
+    "《路透社》报道，公司目前仍在处理故障期间积压的大量电邮，并持续观察企业服务的恢复情况。",
+    "微软表示，由于这次故障严重，公司将继续监测系统情况，确认没有其他问题后，才会宣布企业服务完全恢复。",
+    "微软早前表示，这次全球服务故障是技术问题造成，同网络攻击或人工智能无关。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -639,25 +656,6 @@
     "他曾在英伟达工作七年，期间升任运算产品业务副总裁兼总经理，之后于2013年加入Arm，并在2022年出任总执行长。他随后带领Arm于2023年在美国纳斯达克挂牌上市。",
     "Arm主要设计处理器架构，并授权其他公司使用相关技术开发晶片。公司的传统优势集中在手机晶片，目前也积极拓展电脑市场。",
     "Futurum Equities首席市场策略师博卢尔（Shay Boloor）认为，哈斯既熟悉英伟达文化，又拥有领导上市晶片公司的经验，这样的组合并不常见。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Sat, 14 Nov 2026 10:51:00 +0800",
-   "sort_time": "2026-11-14T10:51:00+08:00",
-   "title": "马六甲州选开跑 逾67万选民投票",
-   "url": "https://www.8world.com/southeast-asia/melaka-heads-to-polls-3340256",
-   "id": "https://www.8world.com/southeast-asia/melaka-heads-to-polls-3340256",
-   "paragraphs": [
-    "马来西亚马六甲州选举今天投票。（图：CNA）",
-    "马来西亚马六甲州选举今天（14日）投票，超过67万名普通选民将选出28名州议员。",
-    "马新社报道，全州240个投票中心的1213个投票渠道从早上8点开放至傍晚6点，共有67万5166名普通选民符合投票资格。",
-    "这次州选共有79名候选人角逐28个议席。其中，希望联盟派出24名候选人，国民阵线23人、马来西亚共同党16人、土著团结党七人、国民联盟五人，另有一名马来西亚土著权威党候选人和三名独立人士。",
-    "马六甲共有68万7697名登记选民。选委会希望今天的投票率达到约70%，完整成绩预计在午夜前出炉。",
-    "上一届马六甲州选在2021年举行，国阵当时赢得28席中的21席，希望联盟获得五席，国民联盟则拿下两席。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
