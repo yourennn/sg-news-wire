@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:40:31+08:00",
+ "generated_at": "2026-11-14T16:50:33+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,25 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 14 Nov 2026 16:42:00 +0800",
+   "sort_time": "2026-11-14T16:42:00+08:00",
+   "title": "微软称Teams和Outlook等产品服务已全面恢复",
+   "url": "https://www.8world.com/world/microsoft-apologises-fully-restores-services-3340421",
+   "id": "https://www.8world.com/world/microsoft-apologises-fully-restores-services-3340421",
+   "paragraphs": [
+    "微软表示，旗下Teams、Outlook及其他产品的服务已全面恢复，结束了持续超过24小时的全球服务中断事件。",
+    "微软在社交平台X上发文表示，公司已完成修复工作，解决导致故障的根本问题，并恢复所有剩余受影响客户和地区的服务。",
+    "微软早前表示，这次故障是由服务器问题引起，旗下人工智能助手Copilot也受到影响。公司表示，没有发现任何恶意活动的迹象，并排除人工智能是故障原因的可能性。",
+    "Outlook和Teams是全球使用最广泛的职场应用程序之一，拥有数以亿计的用户。这次服务中断导致用户无法执行发送电邮、管理日历和举行线上会议等基本工作。",
+    "根据公开声明，受影响的机构包括新加坡、澳大利亚、日本和美国的政府部门。故障也导致一些交易公司的业务延误、部分企业无法按时公布业绩，以及航空公司提醒客户，通讯服务可能出现延迟。",
+    "相比之下，没有使用云端服务，而是通过自家服务器运行微软服务的机构，受到的影响相对较小。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -117,7 +136,7 @@
    "section": "新加坡",
    "time": "16:00",
    "sort_time": "2026-11-14T16:00:00+08:00",
-   "title": "我国首个碳信用项目获批 为卢旺达分30万净水器到2030年减碳78万公吨",
+   "title": "新加坡首个碳信用项目获批 为卢旺达分30万净水器免砍柴烧水可减碳达78万公吨",
    "url": "https://www.zaobao.com.sg/news/singapore/story20261114-9997393",
    "id": "https://www.zaobao.com.sg/news/singapore/story20261114-9997393",
    "paragraphs": [
@@ -673,27 +692,6 @@
     "招标活动将在下个月7日截止。当局预计在明年第二季颁发项目合约。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "jk-zone",
-   "time": "Sat, 14 Nov 2026 12:28:08 +0800",
-   "sort_time": "2026-11-14T12:28:08+08:00",
-   "title": "《请回答1988》高庚杓酒驾撞车！朴宝剑节目恐受牵连",
-   "url": "https://www.8world.com/jk-zone/ko-kyung-pyo-arrested-for-drink-driving-3340301",
-   "id": "https://www.8world.com/jk-zone/ko-kyung-pyo-arrested-for-drink-driving-3340301",
-   "paragraphs": [
-    "（综合讯）曾出演 《请回答1988》 备受瞩目的韩星 高庚杓 ，今天（14日）凌晨惊传酒驾！他开车行经首尔麻浦区时，与一辆清洁车发生碰撞，酒精检测结果更达到吊销驾照的标准。",
-    "据韩媒报道，事故发生于今天凌晨3.30am，高庚杓当时驾驶自己的轿车，行经首尔麻浦区东桥洞时，与一辆清洁车发生碰撞。",
-    "所属经纪公司CL& Company随后发表声明，证实 高庚杓 酒后开车，警方进行呼气酒精检测后，发现其酒精浓度已达到吊销驾照的标准。他目前已完成警方调查问话，并返回家中。",
-    "公司表示，高庚杓对自己的行为深感懊悔，愿意接受任何处罚，并承担包括损害赔偿在内的所有责任。",
-    "高庚杓原定于本月21日在首尔城岩艺术厅举办两场粉丝见面会，门票早已开卖。如今距离活动仅剩一周，能否如期举行，以及后续退票安排，都成为外界关注焦点。",
-    "此外，他原定参与本月29日首播的tvN综艺《乡村魔发师2》，与朴宝剑、李相二组成“3兄弟”，一起经营海边村庄的发廊。节目已进入宣传阶段，突如其来的酒驾事件，恐影响播出及剪辑安排。",
-    "另一档预计12月2日上线的TVING综艺《大逃脱：都市怪谈》也可能受到波及。高庚杓与金钟旼、金东炫、Super Junior神童、柳炳宰及SEVENTEEN胜寛组成6人班底，相关海报及预告已公开。由于节目主打团队合作解谜，若要大量删减他的镜头，恐怕并不容易。",
-    "36岁的高庚杓于2010年凭《丛林的鱼2》出道，之后出演《请回答1988》、《芝加哥打字机》、《月水金火木土》、《嫉妒的化身》、《私生活》等热门韩剧，今年初也有《卧底洪小姐》播出。",
-    "近年来积极跨足综艺圈的他，如今却因酒驾事件陷入争议，接下来的演艺工作是否受到影响，仍有待相关单位公布。",
-    "Download our app and get the latest news updates on-the-go"
    ]
   },
   {
