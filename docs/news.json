@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T14:40:34+08:00",
+ "generated_at": "2026-11-14T14:50:37+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,66 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Sat, 14 Nov 2026 14:49:38 +0800",
+   "sort_time": "2026-11-14T14:49:38+08:00",
+   "title": "冒充快递公司iMessage诈骗持续 约两周内受害者损失至少3.1万元",
+   "url": "https://www.8world.com/singapore/police-advisory-on-phishing-scams-via-apple-imessage-3340346",
+   "id": "https://www.8world.com/singapore/police-advisory-on-phishing-scams-via-apple-imessage-3340346",
+   "paragraphs": [
+    "骗子冒充快递公司发iMessage。（图：新加坡警察部队）",
+    "骗子利用苹果iMessage行骗，冒充快递公司发送钓鱼短信。警方估计，自上个月31日以来，也就在约两周内，这类骗局已造成至少3万1000元的损失。",
+    "警方今天（14日）发文告说，骗子会冒充快递公司发送短信，声称包裹的送货资料不完整，或配送出现问题。",
+    "警方也发现，有骗子冒充新加坡保健集团综合诊疗所（SingHealth Polyclinics），谎称收件人有还未支付的门诊账单。",
+    "警方说，无论冒充哪家机构，骗子都会在短信中附上钓鱼链接，诱使收件人进入虚假网站，以骗取个人资料、银行账户或信用卡信息，或诱导他们付款。",
+    "警方提醒公众，不要回复这类可疑短信。如果收到有关包裹配送的短信，应通过ScamShield应用程序或快递公司的官方网站核实信息，并在付款或提供个人资料前，直接向快递公司求证。",
+    "公众可开启过滤“未知发件人”和“过滤垃圾信息”功能。 （图：新加坡警察部队）",
+    "警方也呼吁公众更新iMessage设定，确保开启过滤“未知发件人”（Unknown Senders）和“过滤垃圾信息”（Filter Spam）功能，并通过应用内的举报功能，举报可疑短信，以防范这类骗局。",
+    "警方也建议公众将苹果手机更新到最新的iOS 27.2版本，以加强防范诈骗短信。",
+    "如果不确定是不是诈骗，可拨打24小时ScamShield反诈骗热线1799查询。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 14 Nov 2026 14:44:00 +0800",
+   "sort_time": "2026-11-14T14:44:00+08:00",
+   "title": "黄仁勋下台内幕？华邮：鲁比奥向特朗普示警",
+   "url": "https://www.8world.com/world/rubio-intervention-helped-topple-jensen-huang-3340351",
+   "id": "https://www.8world.com/world/rubio-intervention-helped-topple-jensen-huang-3340351",
+   "paragraphs": [
+    "英伟达前总执行长黄仁勋因婚外情风波辞职。《华盛顿邮报》披露，美国对华鹰派早已不满黄仁勋对总统特朗普的影响力，而这场最终导致黄仁勋下台的风波，是由国务卿兼国家安全顾问鲁比奥推动发展。",
+    "报道指出，黄仁勋同特朗普关系密切，并曾成功游说政府允许部分先进英伟达晶片继续出口中国，引起主张对中国采取更严格科技限制的官员和议员不满。",
+    "《华盛顿邮报》引述知情人士报道，鲁比奥今年5月曾利用一份美国中央情报局的报告，向特朗普示警黄仁勋与一名被怀疑同中国情报机构有关的女子之间的关系。",
+    "当时特朗普正准备访问中国，而黄仁勋过后作为临时加入的成员，登上总统专机随团访华。",
+    "黄仁勋的婚外情及相关国家安全疑虑随后曝光。他在本月承认对妻子不忠，并在星期四（12日）辞去英伟达总执行长职务。",
+    "《华盛顿邮报》指出，黄仁勋下台可能使华盛顿内部的权力格局出现重大变化。随着他离开英伟达，美国主张对中国采取更严格科技限制的议员认为，推动相关措施的阻力可能减少。",
+    "黄仁勋过去主张，美国企业应该继续向中国市场提供晶片。他认为，如果中国企业无法购买美国技术，反而可能加速发展本土替代产品，最终削弱美国科技企业的竞争力。",
+    "对华鹰派则认为，先进晶片是美中科技竞争中的重要战略资产，应受到严格管控。随着黄仁勋离开英伟达，他们正推动进一步限制先进人工智能晶片出口、加强追踪晶片走私，以及限制中国取得晶片制造设备。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 14 Nov 2026 14:39:00 +0800",
+   "sort_time": "2026-11-14T14:39:00+08:00",
+   "title": "美国Workday发生故障 部分用户无法登入账号",
+   "url": "https://www.8world.com/world/workday-outage-3340341",
+   "id": "https://www.8world.com/world/workday-outage-3340341",
+   "paragraphs": [
+    "美国人力资源管理平台Workday。（图：Workday）",
+    "美国人力资源管理平台Workday发生故障，部分用户无法登入账号。",
+    "Workday在全球有超过1万1千500家企业使用，包括沃尔玛、摩根士丹利、Target等大型企业。公司的客户还包括达拉斯、西雅图、丹佛等地方政府，以及美国能源部。",
+    "《福克斯新闻》报道，公司表示，问题是在测试备用系统时发现，导致部分资料出现不一致，用户登入账号或处理工作时可能出现错误。公司已把部分系统转入维修模式，并正在抢修。",
+    "Workday为故障道歉，并表示目前还无法确定服务能在什么时候全面恢复。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -538,45 +598,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 14 Nov 2026 10:36:00 +0800",
-   "sort_time": "2026-11-14T10:36:00+08:00",
-   "title": "美国官员：特朗普同习近平会面时不会提到黄仁勋风波",
-   "url": "https://www.8world.com/world/trump-not-expected-to-raise-alice-huang-case-with-xi-3340246",
-   "id": "https://www.8world.com/world/trump-not-expected-to-raise-alice-huang-case-with-xi-3340246",
-   "paragraphs": [
-    "美国总统特朗普和中国主席习近平。（图：法新社）",
-    "美国官员表示，总统特朗普下星期同中国国家主席习近平会面时，预计不会提到英伟达前首席执行官黄仁勋和黄乐的婚外情风波及相关事件。",
-    "特朗普将到中国深圳出席亚太经济合作组织峰会期间同习近平会面。",
-    "《路透社》引述美国官员的话说，尽管半导体一直是中美关系的重要课题，但涉及国家安全的相关审查和调查仍在美国进行，因此在现阶段预计不会向中方提出有关黄乐的事件。",
-    "黄乐曾是英伟达客户超速国际（Megaspeed International）的高层。美国媒体早前报道，美国当局怀疑她为中国从事间谍活动，她同黄仁勋的关系也引发国家安全疑虑。不过，中国已否认黄乐是间谍。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "food",
-   "time": "Sat, 14 Nov 2026 10:32:04 +0800",
-   "sort_time": "2026-11-14T10:32:04+08:00",
-   "title": "品鉴咖啡、DIY Starbucks奶盖饮品！咖啡控的圣诞乐园就在这里",
-   "url": "https://www.8world.com/food/the-bearista-holiday-experience-3340241",
-   "id": "https://www.8world.com/food/the-bearista-holiday-experience-3340241",
-   "paragraphs": [
-    "圣诞节还没到，咖啡香已经飘出浓浓节日气息！",
-    "这个佳节，CapitaLand携手Starbucks在全岛16家商场及多个办公场所打造本地最大规模的Starbucks圣诞主题活动。除了巨型萌熊装置，还有创意咖啡体验、限定周边和丰富好礼，让咖啡控边喝边玩，提前感受圣诞气氛！",
-    "活动重头戏The Bearista Holiday Experience于11月11日至22日登陆Raffles City，11月25日至12月6日则移师Bugis+。",
-    "5只Starbucks Bearista——Dasha、Jam、Brewster、Snowmallow和Star难得齐聚，现场还有圣诞树及咖啡主题装置，处处都是打卡热点。",
-    "现场也设有新加坡首个Starbucks DIY奶盖饮品吧（Create-Your-Own Cold Foam Beverage Bar），让咖啡控自由搭配焙茶、抹茶、草莓等特色奶盖口味。",
-    "想尝点不一样的？Raffles City更独家推出加入香脆面包丁的咖椰吐司奶盖（Kaya Toast Cold Foam），而Bugis+则有巧克力曲奇奶盖（Chocolate Chip Cookie Cold Foam），为咖啡增添惊喜滋味！",
-    "The Bearista Holiday Experience在Raffles City设有咖啡品鉴体验，让访客品尝不同烘焙程度的咖啡，搭配甜点感受各自的风味特色。现场也有咖啡与手作工作坊，参与者可利用回收咖啡渣制作身体磨砂膏。",
-    "到了Bugis+，体验则换上新花样，带大家探索来自拉丁美洲、非洲及印度尼西亚的咖啡香气与风味。",
-    "喜欢收藏Starbucks周边的朋友，也能选购活动限定商品，甚至亲手为姜饼造型的Bearista萌熊换上个性服装！",
-    "圣诞魔法也蔓延至全岛多家CapitaLand商场，其中Raffles City更迎来高达8m的Star萌熊，Dasha则现身Funan商场高空，吸睛十足！"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "10:32",
@@ -595,25 +616,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Sat, 14 Nov 2026 10:28:00 +0800",
-   "sort_time": "2026-11-14T10:28:00+08:00",
-   "title": "微软故障缓解 本地受影响服务逐步恢复",
-   "url": "https://www.8world.com/singapore/microsoft-services-restored-3340231",
-   "id": "https://www.8world.com/singapore/microsoft-services-restored-3340231",
-   "paragraphs": [
-    "微软应用（图：法新社/Andrew Caballero-Reynolds）",
-    "随着微软服务故障的逐步修复，本地受影响的政府系统和企业服务也已陆续恢复。",
-    "土地管理局今天（14日）上午8点40分左右，在Facebook贴文中说，所使用的Outlook电邮服务已恢复正常运作，网上服务也已全面恢复。",
-    "国内税务局昨天（13日）晚间11点57分，也在Facebook说，之前因微软Outlook全球故障导致的电邮服务中断问题已解决。",
-    "星展银行今天上午9点12分在Facebook贴文中更新说，银行的电邮服务已恢复正常。不过银行也表示，目前仍在密切关注事态发展，并感谢顾客的耐心和理解。",
-    "大华银行昨天（13日）晚间10点在社媒上说，电邮系统已恢复，但由于团队正在处理积压的查询和请求，因此回复可能会有所延迟。银行也说，顾客如有急事，可致电客户经理，或拨打服务热线1800 222 2121。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
