@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T11:30:40+08:00",
+ "generated_at": "2026-11-14T11:40:32+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,9 +13,29 @@
  "articles": [
   {
    "source": "8world",
+   "section": "国际",
+   "time": "Sat, 14 Nov 2026 11:30:00 +0800",
+   "sort_time": "2026-11-14T11:30:00+08:00",
+   "title": "美媒：黄仁勋被指误导高层 隐瞒与黄乐婚外情",
+   "url": "https://www.8world.com/world/ex-nvidia-ceo-misled-top-lawyer-on-affair-with-chinese-businesswoman-3340276",
+   "id": "https://www.8world.com/world/ex-nvidia-ceo-misled-top-lawyer-on-affair-with-chinese-businesswoman-3340276",
+   "paragraphs": [
+    "英伟达前首席执行官黄仁勋和中国女子黄乐。（图：路透社）",
+    "英伟达前首席执行官 黄仁勋虽然已经辞职 ，但相关风波仍未平息。美媒报道，他被指曾误导多名公司高层，将自己与中国女子黄乐的关系形容为正常商务往来，没有透露两人的婚外情。",
+    "路透社引述知情人士报道，在2025年秋季至2026年10月期间，随着媒体开始询问黄仁勋与黄乐的关系，部分英伟达高层也开始关注两人的往来。",
+    "不过，黄仁勋曾向包括英伟达总法律顾问蒂姆·泰特（Tim Teter）和首席营销官瓦贡菲尔德（Alison Wagonfeld）在内的高层强调，他与黄乐任职的超速公司之间只是常规业务往来。",
+    "此前，《纽约时报》曾在去年10月报道黄仁勋与黄乐公开会面。据报道，黄仁勋当时没有向公司高层透露两人的婚外情，并一度讨论是否对《纽约时报》采取法律行动。不过，英伟达和黄仁勋最终都没有起诉该报。",
+    "除了黄乐， 黄仁勋也被曝曾与英伟达医疗保健副总裁金伯利·鲍威尔（Kimberly Powell）发生婚外情 ， 并曾与另一名英伟达员工有婚外关系 。",
+    "随着有关黄仁勋私人关系的报道接连曝光， 英伟达聘请美国律师事务所Wachtell, Lipton, Rosen & Katz展开调查。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "东南亚",
-   "time": "Sat, 14 Nov 2026 11:24:06 +0800",
-   "sort_time": "2026-11-14T11:24:06+08:00",
+   "time": "Sat, 14 Nov 2026 11:24:00 +0800",
+   "sort_time": "2026-11-14T11:24:00+08:00",
    "title": "菲律宾在亚细安峰会主要会场周围增派警察和军人巡逻",
    "url": "https://www.8world.com/southeast-asia/manila-tightens-security-ahead-of-asean-summit-3340271",
    "id": "https://www.8world.com/southeast-asia/manila-tightens-security-ahead-of-asean-summit-3340271",
@@ -563,25 +583,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 14 Nov 2026 07:27:00 +0800",
-   "sort_time": "2026-11-14T07:27:00+08:00",
-   "title": "微软故障情况逐步缓解 全面恢复时间仍不确定",
-   "url": "https://www.8world.com/world/ms-deeply-sorry-as-outage-triggers-global-chaos-3340156",
-   "id": "https://www.8world.com/world/ms-deeply-sorry-as-outage-triggers-global-chaos-3340156",
-   "paragraphs": [
-    "微软全球故障情况逐步缓解，不过全面恢复服务的时间仍不确定。（图：路透社）",
-    "微软全球大故障超过24小时后，情况逐步缓解，不过全面恢复服务的时间仍不确定。",
-    "《路透社》报道，公司指出，这次故障是服务器问题造成的。除了电邮系统Outlook和即时通讯平台Teams，人工智能助理Copilot也受到影响。随着公司扩大推出软件修复措施，系统正逐步恢复稳定。",
-    "微软也说，这次事故是技术问题，与网络攻击或人工智能无关。公司也为这次全球服务中断向客户和合作伙伴道歉。",
-    "故障追踪网站Downdetector在全球收到超过740万起通报。",
-    "事故影响多个国家的政府机构和企业，也造成金融交易延误、部分企业推迟公布业绩，以及航空公司的电邮客服受影响。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
