@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:10:41+08:00",
+ "generated_at": "2026-11-15T21:20:36+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,68 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Sun, 15 Nov 2026 21:15:32 +0800",
+   "sort_time": "2026-11-15T21:15:32+08:00",
+   "title": "反特朗普等议题引发示威 菲律宾逾200人被捕",
+   "url": "https://www.8world.com/southeast-asia/philippines-manila-protests-3341161",
+   "id": "https://www.8world.com/southeast-asia/philippines-manila-protests-3341161",
+   "paragraphs": [
+    "菲律宾亚细安峰会举行期间，大马尼拉地区多地爆发示威和警民冲突。（图：Inquiry.net）",
+    "菲律宾亚细安峰会举行期间，大马尼拉地区多地爆发示威和警民冲突，超过200人被捕，多人受伤或身体不适。",
+    "菲律宾GMA新闻网报道，警方今天（15日）在首都马尼拉阻止示威者前往菲律宾国际会议中心。第49届亚细安领导人峰会正在当地举行。",
+    "示威者拒绝离开并试图继续前往峰会会场后，同警方发生冲突。劳工和教师团体表示，九名示威者被捕，另有多人受伤。",
+    "与此同时，蒙廷卢帕市另一场示威也爆发冲突，警方逮捕超过200人，示威团体则声称被捕人数多达300人。部分示威者在过程中晕倒，并被送院治疗。",
+    "示威者主要反对美国总统特朗普到访菲律宾，以及美国主导的Pax Silica科技供应链合作计划。他们也针对物价上涨、低工资和合约劳工等问题表达不满。",
+    "Pax Silica旨在加强人工智能、半导体和关键矿产等领域的供应链合作，并减少对中国供应链的依赖。菲律宾今年4月加入这项计划。",
+    "警方早前表示，尊重民众和平集会的权利，但基于亚细安峰会的保安安排，不会允许示威者靠近峰会会场。",
+    "菲律宾警方早前表示，为确保亚细安峰会安全，已部署近2万3000名来自警方和其他政府机构的人员。",
+    "第49届亚细安峰会今天开幕，并将举行至星期三（18日）。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Sun, 15 Nov 2026 21:14:38 +0800",
+   "sort_time": "2026-11-15T21:14:38+08:00",
+   "title": "近期网络攻击和微软故障敲响警钟 更多本地企业提升网络保障和备用计划",
+   "url": "https://www.8world.com/singapore/more-businesses-and-organisations-are-strengthening-their-cyber-ability-3341166",
+   "id": "https://www.8world.com/singapore/more-businesses-and-organisations-are-strengthening-their-cyber-ability-3341166",
+   "paragraphs": [
+    "微软全球故障事件让不少企业审视公司的业务持续计划。（图：路透社）",
+    "微软电邮故障和近期接连发生的网络攻击事件给企业敲响警钟，专家指出人工智能让网络攻击变得更快速和广泛，预计业界还需要半年到一年的时间做好应对工作，才能对新的网络攻击生态产生免疫。",
+    "网络风险管理平台Tenable发现，近期有越来越多企业和机构提升应对能力，开始采用主动式网络安全防护（Proactive Security），也就是在网络攻击发生前，主动寻找漏洞避免被入侵，不再只是进行传统的筑墙式防御。",
+    "新加坡中小企业商会指星期五发生的微软电邮大故障，也提醒企业必须做好业务持续计划，应对各种突发危机，企业应用的不同的系统还有依赖的服务，要想到有后备，不能百分之百只依赖云服务去操作公司的流程。",
+    "The recent Microsoft outage and a string of cyberattacks have served as a wake up call for businesses. Experts say AI has enabled cyberattacks to become faster and more widespread, and estimate that the industry will need another six months to a year to build up its defences and adapt to the evolving cyber threat landscape.",
+    "Cyber risk management company Tenable has observed that more businesses and organisations are strengthening their ability to respond to cyber threats by adopting proactive security. Instead of relying solely on traditional perimeter based defences, organisations are now actively identifying and addressing vulnerabilities before attackers can exploit them.",
+    "The Singapore Association of Small and Medium Enterprises said Friday’s major Microsoft outage was also a reminder for businesses to have robust business continuity plans in place to deal with unexpected disruptions. Companies should ensure they have backup options for the various systems and services they rely on, rather than depending entirely on cloud services to run their business operations.",
+    "微软电邮故障和近期接连发生的网络攻击事件给企业敲响警钟，专家指出人工智能让网络攻击变得更快速和广泛，预计业界还需要半年到一年的时间做好应对工作，才能对新的网络攻击生态产生免疫。 网安专家指出，网络系统一旦出现某个漏洞，骇客现在可利用人工智能展开大规模、全天候搜索，若发现企业或机构的系统出现这个漏洞，便可快速展开攻击。这种模式让网络攻击速度明显加快，也变得更容易执行。 网络风险管理平台Tenable发现，近期有越来越多企业和机构提升应对能力，开始采用主动式网络安全防护（Proactive Security），也就是在网络攻击发生前，主动寻找漏洞避免被入侵，不再只是进行传统的筑墙式防御。",
+    "Tenable亚太与日本区前线技术总监本穆迪（Ben Mudie）说：“对某些企业来说，全面扫描系统可能需要长达10个小时，这速度显得太慢。因此主动式网络安全防护至关重要，因为它能够帮助企业提前准备，应对不断增加的安全漏洞，目前预计今年会出现多达9万8000个安全漏洞，而这只是根据现有趋势估算，预计还会增加。” 除了网络攻击事件预料会增加，新加坡中小企业商会指出星期五发生的微软电邮大故障，也提醒企业必须做好业务持续计划，应对各种突发危机。 中小企业商会会长洪煜说：“对于企业应用的不同的系统还有依赖的服务，要想到有备用计划，不只是这样，你也不能够百分之百只依赖云服务去操作公司的流程。” 新加坡国立大学电脑科学系教授邓锦浩博士则说，虽然人工智能加快了网络攻击速度，不过企业也一样能利用人工智能提高防御能力。 他说：“我们知道那个漏洞很快就可以被攻击的话，那么大家就可以从这个错误中学习，更好地去看这个漏洞的发布，然后更快的去这个缝补起来，然后人工智能也可以帮忙，那就看我们怎么建立一个AI防护系统，来对付AI攻击。” 邓锦浩教授也说，中小企业可以通过网安局的首席信息安全官数码咨询服务（CISO-as-a-Service）计划提升网络保护能力，符合条件的中小企业在雇用网络安全顾问服务时，可获得网安局高达70％的共同出资支持。",
+    "Download our app and get the latest news updates on-the-go"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Sun, 15 Nov 2026 21:12:42 +0800",
+   "sort_time": "2026-11-15T21:12:42+08:00",
+   "title": "巴士和列车披上圣诞新装 新捷运：通勤中感受佳节氛围",
+   "url": "https://www.8world.com/singapore/sbs-christmas-themed-bus-and-train-3341136",
+   "id": "https://www.8world.com/singapore/sbs-christmas-themed-bus-and-train-3341136",
+   "paragraphs": [
+    "配合圣诞节来临，新捷运（SBS Transit）为巴士和地铁列车换上圣诞装饰，让乘客提前感受佳节气氛。（图：Facebook/SBS Transit)",
+    "距离圣诞节还有一个多月，但是新捷运（SBS Transit）的巴士和地铁列车已经披上了圣诞新装，让公众和乘客提前感受浓浓的佳节气氛。",
+    "新捷运今天（15日）在Facebook贴文表示，在滨海湾金沙会展中心举行的圣诞工艺市集（The Christmas Atelier 2026）上，一辆披上缤纷圣诞装饰的巴士成为活动焦点。",
+    "这辆车身上满是圣诞元素的新捷运巴士，在为期三天的圣诞工艺市集上，迎接了大批访客，给他们带来了节日的奇妙体验。",
+    "浓浓的节日的氛围还延伸到了地铁网络。新捷运在贴文中，展示了一列以圣诞为主题的地铁列车，让乘客在日常通勤途中也能感受到佳节气氛。",
+    "“无论是披上节日盛装的巴士还是地铁列车，都希望能让民众的日常出行能够更加明快，更加愉悦。”",
+    "新捷运也表示，非常高兴能尽自己的一份绵薄之力，为乘客和社区传递节日欢乐，共同创造美好的节日回忆。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -35,8 +97,8 @@
   {
    "source": "8world",
    "section": "life",
-   "time": "Sun, 15 Nov 2026 21:06:17 +0800",
-   "sort_time": "2026-11-15T21:06:17+08:00",
+   "time": "Sun, 15 Nov 2026 21:06:00 +0800",
+   "sort_time": "2026-11-15T21:06:00+08:00",
    "title": "养电子鸡养到怀疑人生？“Stranger Things”联名款玩转颠倒世界",
    "url": "https://www.8world.com/life/stranger-things-tamagotchi-3341156",
    "id": "https://www.8world.com/life/stranger-things-tamagotchi-3341156",
@@ -631,27 +693,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Sun, 15 Nov 2026 17:47:00 +0800",
-   "sort_time": "2026-11-15T17:47:00+08:00",
-   "title": "宏茂桥3道新交通安排今实施 行人须绕路商家忧生意受影响",
-   "url": "https://www.8world.com/singapore/amk-ave-3-temporary-traffic-reconfiguration-public-business-impact-3341001",
-   "id": "https://www.8world.com/singapore/amk-ave-3-temporary-traffic-reconfiguration-public-business-impact-3341001",
-   "paragraphs": [
-    "根据陆路交通管理局早前公布的安排，宏茂桥3道朝宏茂桥8道方向的部分东向车道改为巴士专用道；西向车道则从三条缩减至两条。（图：林映慧）",
-    "为配合跨岛线隧道工程，宏茂桥3道部分路段今天（15日）起实施新的交通安排。记者观察到，尽管一些驾驶者因为不熟悉新安排而驶进错误车道，但整体交通大致顺畅。",
-    "新的行人过路处直到接近中午才启用，部分公众认为新路线增加步行距离，附近商家也担心生意受影响。",
-    "根据陆路交通管理局早前公布的安排，宏茂桥3道朝宏茂桥8道方向的部分东向车道改为巴士专用道；西向车道则从三条缩减至两条。",
-    "行人通行安排也有所改变。原本位于宏茂桥坊（AMK Hub）上下车处外的行人过路处，已迁移至靠近商场停车场出入口的位置。",
-    "《8视界新闻网》记者今天上午10点45分在现场观察到，原有行人过路处的交通信号灯已停止运作，现场有交通管制人员协助指挥行人过马路，每组交通信号灯附近约有两名工作人员。新的行人过路处直到上午11点55分左右才正式启用。",
-    "受访公众均认为，原有的行人过路处位置更方便。",
-    "附近居民钟佩琪说：“周末要来职总平价超市买东西就不方便了。原本这边的红绿灯比较方便，过马路后就能直接到宏茂桥坊。现在得走到下面的红绿灯，再绕回来，会比较麻烦。”",
-    "另一名公众黄女士则指出，新的步行路线对年长者可能造成更大不便。",
-    "她说：“这个路走比较远，对老人家来说可能比较不方便。可能脚痛还是什么比较难走，因为这里老人家比较多。”"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "17:44",
@@ -673,20 +714,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Sun, 15 Nov 2026 17:30:00 +0800",
-   "sort_time": "2026-11-15T17:30:00+08:00",
-   "title": "黄循财总理会晤巴西总统 盼深化双边合作",
-   "url": "https://www.8world.com/singapore/pm-wong-meet-brazil-president-3340986",
-   "id": "https://www.8world.com/singapore/pm-wong-meet-brazil-president-3340986",
-   "paragraphs": [
-    "我国和巴西将在2027年迎来建交60周年。黄循财总理表示，期待届时两国能在创新和可持续发展领域开展更紧密的合作。 在马尼拉出席亚细安峰会的黄循财总理今天（15日）在社交媒体平台X发文表示，很高兴再次同巴西总统卢拉会面，并祝贺他成功连任，开启具有历史意义的第四个任期。 总理说，新加坡和巴西之间关系深厚且长久，且建立在双方共同支持的多边主义基础之上。巴西也是新加坡在贸易和粮食安全方面的重要合作伙伴。 “我们还讨论了如何通过南方共同市场—新加坡自由贸易协定（MERCOSUR-Singapore Free Trade Agreement，简称MCSFTA），深化两地之间的合作。2027年，我们将迎来两国建交60周年，期待届时双方能在创新和可持续领域更紧密合作。” 总理也说，期待在我国明年担任亚细安轮值主席国期间，能进一步加强亚细安与巴西之间的联系。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "新加坡",
    "time": "17:29",
@@ -705,24 +732,6 @@
     "《联合早报》正在向榜鹅市镇会了解更多详情。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Sun, 15 Nov 2026 17:16:59 +0800",
-   "sort_time": "2026-11-15T17:16:59+08:00",
-   "title": "北京全面收紧无人机管制 禁止持有存放及运入无人机",
-   "url": "https://www.8world.com/greater-china/beijing-implements-drone-ban-3340981",
-   "id": "https://www.8world.com/greater-china/beijing-implements-drone-ban-3340981",
-   "paragraphs": [
-    "中国首都北京即日（15日）起实施新规定，除了全面禁止飞行、销售和运输无人机，也把持有和存放无人机及零件纳入管制范围。",
-    "根据新修订的《北京市无人驾驶航空器管理规定》，禁令覆盖北京市约1万6400平方公里的城乡地区。",
-    "当局禁止持有和存放无人机，也禁止把无人机和相关零部件运入北京。违规者可能被罚款，无人机也会被没收。",
-    "不过，当局可基于反恐、执法、紧急救援、农业、科研等特定用途，批准无人机飞行。",
-    "北京今年3月以低空安全面临挑战为由，出台无人机管理新规，并从5月起禁止个人飞行、买卖和运输无人机。不到半年，当局再度收紧管制。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
