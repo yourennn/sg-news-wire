@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T09:40:34+08:00",
+ "generated_at": "2026-11-15T09:50:33+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,25 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sun, 15 Nov 2026 09:43:00 +0800",
+   "sort_time": "2026-11-15T09:43:00+08:00",
+   "title": "擅自读取用户照片视频 Meta被意大利重罚逾8亿欧元",
+   "url": "https://www.8world.com/world/italy-fines-meta-880-mn-over-photo-privacy-3340786",
+   "id": "https://www.8world.com/world/italy-fines-meta-880-mn-over-photo-privacy-3340786",
+   "paragraphs": [
+    "社交平台Facebook母公司Meta因擅自读取用户的照片和视频，被意大利当局处以8亿零500万欧元的巨额罚款。Meta表示，将提出上诉。",
+    "意大利数据保护局表示，Meta通过安卓设备的Facebook应用程序，在未事先告知或征得用户明确同意的情况下，读取了用户的照片、视频及相关元数据。",
+    "根据报道，Meta自2023年起在Facebook应用程序推出相册推荐功能。这个功能会在用户浏览时，根据手机相册中的照片和视频，提供发布内容的建议。而应用程式是以通用授权，获取访问用户手机相册的权限。",
+    "意大利当局估计，约有2000万名安卓用户受到影响，并指Meta在调查过程中缺乏合作。",
+    "当局也表示，Meta今后必须针对这项功能，另行向用户提出明确、独立的授权请求。公司也必须清楚说明功能的用途，包括它会访问用户的手机相册，以及用户可以如何关闭这项功能。",
+    "Meta发言人则表示，公司强烈反对意大利监管机构的审查结果，并认为罚款金额过高，将对此提出上诉。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "娱乐",
@@ -650,27 +669,6 @@
     "本届州选共有28个州议席，取得至少15席便达到过半门槛。2021年上届州选中，国阵赢得21席、希盟五席，国盟两席。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 14 Nov 2026 21:24:45 +0800",
-   "sort_time": "2026-11-14T21:24:45+08:00",
-   "title": "澳洲总理与部长开不雅玩笑 对话意外遭麦克风录下",
-   "url": "https://www.8world.com/world/australian-pm-jokes-about-genitalia-in-hot-mic-mishap-3340611",
-   "id": "https://www.8world.com/world/australian-pm-jokes-about-genitalia-in-hot-mic-mishap-3340611",
-   "paragraphs": [
-    "澳大利亚总理阿尔巴尼斯和气候变化部长鲍文。（图：澳大利亚广播公司）",
-    "澳大利亚总理阿尔巴尼斯和气候变化部长鲍文在联合国气候变化大会期间，拿男性生殖器开玩笑，没想到对话被未关闭的麦克风录下，引发关注。",
-    "《法新社》报道，澳大利亚第七频道昨天（13日）播出的画面显示，阿尔巴尼斯（Anthony Albanese）和鲍文（Chris Bowen）在土耳其安塔利亚举行的第31届联合国气候变化大会（COP31）期间，趁会议空档闲聊。",
-    "阿尔巴尼斯提醒鲍文，不要把手机放在靠近心脏的位置，以免干扰心律。",
-    "鲍文回应说，他更担心把手机放在裤袋里。阿尔巴尼斯随即问道，是因为担心影响生殖器吗？",
-    "鲍文笑着回答，可以这么说，毕竟那比心脏更重要。",
-    "对此，阿尔巴尼斯的发言人向《法新社》表示，两人只是在会议间隙开玩笑。",
-    "澳洲目前正主持这届气候大会的谈判，但由于澳洲是全球主要化石燃料出口国之一，因此被批评在气候政策上言行不一。",
-    "这并非阿尔巴尼斯首次因不当言论引发争议。他今年早前曾在播客节目中表示，愿意同澳洲歌手凯莉·米洛（Kylie Minogue）发生性关系，之后又在谈及日本首相赠送的蜜瓜时，发表带有性暗示的言论，引起争议。",
-    "Download our app and get the latest news updates on-the-go"
    ]
   },
   {
