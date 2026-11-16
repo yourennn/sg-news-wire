@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:30:47+08:00",
+ "generated_at": "2026-11-17T07:40:39+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "财经",
+   "time": "Tue, 17 Nov 2026 07:39:39 +0800",
+   "sort_time": "2026-11-17T07:39:39+08:00",
+   "title": "美大通银行故障 数千客户无法线上转账",
+   "url": "https://www.8world.com/finance/us-bank-3342241",
+   "id": "https://www.8world.com/finance/us-bank-3342241",
+   "paragraphs": [
+    "美国大通银行（Chase Bank）。（图：路透社）",
+    "美国摩根大通银行旗下的大通银行（Chase Bank）发生技术故障，导致数以千计的客户无法正常使用网上银行服务。",
+    "《美国有线电视新闻网》报道，大通银行发言人说，软件出现漏洞，导致银行处理部分客户的交易和服务请求时，所需的时间比平时长。",
+    "发言人强调，故障并非大规模网络攻击造成，客户仍可使用银行账户和存款。",
+    "另外，美国银行（Bank of America）、富国银行（Wells Fargo）和美国合众银行（U.S. Bank）也有客户通报交易出现问题，但受影响的范围较小。",
+    "这些问题相信同客户通过电子转账平台Zelle，向大通银行账户转账有关。",
+    "美国合众银行表示，银行系统本身没有受到影响，但客户通过Zelle同其他金融机构转账时，可能出现延误。",
+    "专家指出，这次大通银行故障、上星期微软服务中断和美国航空交通管制系统故障，虽然没有明确关联，但都反映出人们日常依赖的科技系统复杂且脆弱。",
+    "专家说，这些事故都源于大型系统中的小问题，却迅速扩大，导致全国大范围的服务中断。",
+    "Download our app and get the latest news updates on-the-go"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -75,7 +96,7 @@
    "section": "国际",
    "time": "07:16",
    "sort_time": "2026-11-17T07:16:39+08:00",
-   "title": "美台掀声援潮 消息称英伟达董事会无意让黄仁勋复职",
+   "title": "英伟达董事会无意让黄仁勋回巢",
    "url": "https://www.zaobao.com.sg/news/world/story20261117-10009278",
    "id": "https://www.zaobao.com.sg/news/world/story20261117-10009278",
    "paragraphs": [
@@ -702,25 +723,6 @@
     "“第一次吸气后，我们没能游出去，只好返回可以呼吸的地方。第二次吸气后，我们才成功游出去，之后有人把我们拉上岸。”",
     "他透露，自己小时候也曾险些被水流冲走，因此每当看见有人，尤其是儿童落水遇险时，便无法袖手旁观。",
     "Download our app and get the latest news updates on-the-go"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Mon, 16 Nov 2026 21:00:00 +0800",
-   "sort_time": "2026-11-16T21:00:00+08:00",
-   "title": "越南法院裁决跨国投资网骗案 逾180人入狱",
-   "url": "https://www.8world.com/southeast-asia/vietnam-court-jails-over-180-in-investment-fraud-case-3342031",
-   "id": "https://www.8world.com/southeast-asia/vietnam-court-jails-over-180-in-investment-fraud-case-3342031",
-   "paragraphs": [
-    "越南河内。（图：法新社/Nhac Nhuyen）",
-    "越南河内一家法院就一起跨国网络投资诈骗案作出判决，超过180名被告被判监禁。",
-    "一名不愿具名的法院书记员向《法新社》表示，大多数被告因诈骗和洗钱罪被判处超过十年监禁。其中两名诈骗集团首脑被判终身监禁。",
-    "另有一名被告是越南创业投资真人秀节目《Shark Tank Vietnam》的知名投资人阮和平（Nguyen Hoa Binh），他因洗钱罪被判处十年监禁。",
-    "根据越南官方媒体报道，这个跨国诈骗网络在2019年开始运作，涉及约1700名工作人员。共有超过900人受骗，损失总金额约6000万美元。",
-    "联合国今年7月公布的报告指出，东亚、东南亚、澳大利亚和新西兰的跨国网络诈骗受害者，去年损失总金额可能高达1141亿美元，同2023年相比至少增加两倍。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
