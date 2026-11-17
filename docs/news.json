@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:00:51+08:00",
+ "generated_at": "2026-11-17T17:10:36+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,25 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Tue, 17 Nov 2026 16:59:11 +0800",
+   "sort_time": "2026-11-17T16:59:11+08:00",
+   "title": "伊朗革命卫队：无人机袭击巴林美军雷达系统",
+   "url": "https://www.8world.com/world/irans-irgc-claims-drones-hit-us-radar-at-bahrains-sheikh-isa-base-3342716",
+   "id": "https://www.8world.com/world/irans-irgc-claims-drones-hit-us-radar-at-bahrains-sheikh-isa-base-3342716",
+   "paragraphs": [
+    "2026年2月28日，伊朗对位于巴的美国海军基地发动导弹袭击。（图：土耳其今日）",
+    "伊朗伊斯兰革命卫队宣称，向巴林境内一座美军使用的雷达系统发动无人机攻击，并表示行动是为了报复美国军用无人机多次侵犯伊朗领空。",
+    "伊朗革命卫队旗下Sepah新闻网站报道，革命卫队今天（17日）早上使用作战无人机，针对位于巴林的谢赫伊萨空军基地（Sheikh Isa Air Base）展开精准打击。",
+    "伊朗方面没有公布发射的无人机数量，也没有说明雷达系统是否被击中或遭到破坏。",
+    "另一方面，巴林首都麦纳麦（Manama）传出多次爆炸声。",
+    "在这之前，当地居民收到政府发出的手机紧急警报，警告可能出现安全威胁，并呼吁民众立即前往安全地点。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -154,9 +173,9 @@
   {
    "source": "8world",
    "section": "东南亚",
-   "time": "Tue, 17 Nov 2026 16:01:19 +0800",
-   "sort_time": "2026-11-17T16:01:19+08:00",
-   "title": "马新印拟下月旬磋商 应对社媒有害内容处理不足",
+   "time": "Tue, 17 Nov 2026 16:01:00 +0800",
+   "sort_time": "2026-11-17T16:01:00+08:00",
+   "title": "马新印拟下月中旬磋商 应对社媒有害内容处理不足",
    "url": "https://www.8world.com/southeast-asia/malaysia-singapore-indonesia-to-discuss-joint-action-against-harmful-3342681",
    "id": "https://www.8world.com/southeast-asia/malaysia-singapore-indonesia-to-discuss-joint-action-against-harmful-3342681",
    "paragraphs": [
@@ -696,25 +715,6 @@
     "报道指出，两人当时看似醉酒，但这一点尚未获得证实。",
     "教堂神父马尔考斯卡斯（Elijas Anatolijus Markauskas）在Facebook页面上载监控录像，呼吁公众协助辨认涉事男子。",
     "他表示，这种野蛮且不尊重宗教信仰的行为完全不能接受，涉事者必须承担责任。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Tue, 17 Nov 2026 13:48:00 +0800",
-   "sort_time": "2026-11-17T13:48:00+08:00",
-   "title": "加州起诉OpenAI 指其模型曾自主发动网络攻击",
-   "url": "https://www.8world.com/world/usa-openai-3342486",
-   "id": "https://www.8world.com/world/usa-openai-3342486",
-   "paragraphs": [
-    "美国加利福尼亚州起诉人工智能公司OpenAI，指公司在缺乏充分安全措施和监管的情况下，开发具有危险性的产品。早前有报道传出，OpenAI的人工智能模型曾经自主发动网络攻击。这也是美国首次有州政府针对这起网络攻击发起诉讼。",
-    "OpenAI的人工智能模型7月时，传出在一次安全测试中失控，入侵人工智能初创公司Hugging Face的系统，引发广泛关注。",
-    "加州总检察长邦塔指OpenAI为了加速开发人工智能模型，忽视安全和问责问题，而这还只是已知的80起事故中的其中一起。",
-    "诉讼指控OpenAI违反加州消费者保护法，危害公共安全，公司在安全测试模型方面误导消费者，还干扰当地机构和服务的运作，对加州居民造成不便。",
-    "诉方要求法院下令公司停止违法行为，确保安全开发和测试模型，并为违规行为承担赔偿。",
-    "OpenAI在Hugging Face事件发生后，曾表示这起失控事件，是一起前所未有的}网络安全事件， 并表示正在加强安全防护措施。除了加州}以外，多个州属的总检察长也表示，正调查同OpenAI模型有关的安全事件。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
