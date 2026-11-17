@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:10:37+08:00",
+ "generated_at": "2026-11-17T18:20:38+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Tue, 17 Nov 2026 18:20:13 +0800",
+   "sort_time": "2026-11-17T18:20:13+08:00",
+   "title": "特朗普抵达马尼拉 展开亚洲访问",
+   "url": "https://www.8world.com/southeast-asia/us-trump-arrives-in-ph-for-asean-summit-3342776",
+   "id": "https://www.8world.com/southeast-asia/us-trump-arrives-in-ph-for-asean-summit-3342776",
+   "paragraphs": [
+    "美国总统特朗普抵达菲律宾马尼拉。（图：法新社/POOL/Eloisa Lopez）",
+    "美国总统特朗普抵达菲律宾马尼拉，开启亚洲访问之行。",
+    "特朗普的专机在下午5点半左右，飞抵马尼拉。",
+    "他抵达后，将直接出席同日本、澳大利亚及印度领导人举行的四方安全对话（Quad）领导人会议。",
+    "这是特朗普去年重返白宫以来，四方安全对话领导人首次举行会议。",
+    "特朗普之后还会出席美国-亚细安特别峰会，并参加晚宴。他隔天将同菲律宾总统小马克斯举行会晤。",
+    "在这同时，大约2000名示威者同手持防暴盾牌的警察对峙，反对特朗普的到来。",
+    "特朗普接下来将到中国深圳，出席亚太经济合作组织领导人非正式会议，并同中国国家主席习近平和俄罗斯总统普京举行三方会晤。",
+    "马尼拉约2000人示威反对特朗普的到来。（图：路透社/Hollie Adams）",
+    "Download our app and get the latest news updates on-the-go"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
@@ -56,8 +77,8 @@
   {
    "source": "8world",
    "section": "新加坡",
-   "time": "Tue, 17 Nov 2026 18:07:57 +0800",
-   "sort_time": "2026-11-17T18:07:57+08:00",
+   "time": "Tue, 17 Nov 2026 18:07:00 +0800",
+   "sort_time": "2026-11-17T18:07:00+08:00",
    "title": "我国推出“新加坡绿色合作计划”  整合气候相关领域发展援助工作",
    "url": "https://www.8world.com/singapore/grace-fu-national-statement-at-cop31-3342731",
    "id": "https://www.8world.com/singapore/grace-fu-national-statement-at-cop31-3342731",
@@ -670,27 +691,6 @@
     "至于森美兰州近期的宪政风波是否会因此平息，阿末扎希表示，希望问题最终能获得圆满解决。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Tue, 17 Nov 2026 15:32:35 +0800",
-   "sort_time": "2026-11-17T15:32:35+08:00",
-   "title": "华侨银行携手职总恒习 为2万名中小企业业主及员工提供免费培训",
-   "url": "https://www.8world.com/singapore/ocbc-expands-workforce-transformation-3342611",
-   "id": "https://www.8world.com/singapore/ocbc-expands-workforce-transformation-3342611",
-   "paragraphs": [
-    "为协助中小企业应对科技快速发展及人才短缺的挑战，华侨银行宣布携手职总恒习（NTUC LearningHub）推出免费培训计划，希望在未来12个月内，让2万名中小企业业主及员工掌握人工智能、数码转型、企业管理及领导能力等技能，提升企业竞争力。",
-    "华侨银行今天（17日）公布这项名为“Grow Your Way with OCBC”的培训计划，主要面向年营业额不超过2000万元的中小型企业，参与者无需支付培训费用。",
-    "文告指，根据新加坡工商联合总会2026年的调查，寻找具备相关技能的人才已成为企业面对的五大人力挑战之一。此外，每两名受访者就有一人认为培训费用是一大障碍，尽管企业意识到提升员工技能的重要性，却可能因为成本问题而却步。",
-    "华侨银行指出，计划将在未来一年通过工作坊、学习活动及专家分享，提供四大领域的培训。",
-    "在企业增长方面，课程将涵盖商业策略、市场营销、拓展海外市场及建立商业伙伴关系，协助企业寻找新收入来源。",
-    "数码转型课程则着重人工智能、数码化、自动化及创新，帮助企业运用新科技提升生产力。",
-    "企业韧性课程涵盖网络安全、变革管理、业务持续性及可持续发展；领导能力培训则包括策略思考、员工管理、沟通及决策技巧。",
-    "有关计划已于本月4日在华侨银行培训中心启动，总理公署高级政务部长兼全国职工总会副秘书长陈国明出席了推介仪式。",
-    "当天共有约150名中小企业业主及员工参与半天的学习活动，通过实践工作坊了解人工智能在市场营销、工作流程自动化、财务预测及知识管理等方面的应用。",
-    "参与启动活动的科技服务公司Exasoft总裁Manoj Abraham指出，公司目前已在日常业务中使用人工智能工具Claude处理部分簿记工作。"
    ]
   },
   {
