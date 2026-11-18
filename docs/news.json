@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:30:41+08:00",
+ "generated_at": "2026-11-18T11:40:33+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,25 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 18 Nov 2026 11:33:00 +0800",
+   "sort_time": "2026-11-18T11:33:00+08:00",
+   "title": "彭博社：英伟达停止向中国出口获批Hopper数据中心晶片",
+   "url": "https://www.8world.com/world/nvidia-stops-selling-ai-chips-to-china-despite-us-approval-3344196",
+   "id": "https://www.8world.com/world/nvidia-stops-selling-ai-chips-to-china-despite-us-approval-3344196",
+   "paragraphs": [
+    "美国人工智能晶片巨头英伟达。（图：路透社）",
+    "据报道，美国人工智能晶片巨头英伟达已经停止向中国出口获得美国政府批准的Hopper数据中心晶片。",
+    "《彭博社》报道，英伟达临时首席执行官克雷斯（Colette Kress）在业绩电话会议上表示，公司第三季向中国销售了价值24亿美元的Hopper数据中心晶片，但未来的业绩预测已不包括这类产品，公司也不再向中国供货。她没有说明原因。",
+    "美国政府前天（17日）宣布，加强审查出口到多个国家的处理器，并限制向计划让中国企业远程使用先进人工智能晶片和服务器的数据中心出售晶片。",
+    "英伟达过去一直争取向中国出口更先进的Blackwell晶片，但没有获得批准。特朗普去年只批准出售较旧的H200晶片。",
+    "英伟达也宣布成立董事会专门委员会，负责国家安全和出口管制事务。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "中港台",
@@ -532,25 +551,6 @@
     "她表示，与以往偏向观光旅行的行程比较，这次的寻根之旅更注重文化、非物质文化遗产与美食体验，希望参与者不只是走马看花，而是亲身接触祖籍家乡的文化。",
     "39岁的苏大章（左上）带着妻子和三岁女儿同行。（图：受访者提供）",
     "参加者之一的39岁教育企业家苏大章，这次带妻子和三岁女儿同行，他希望让小女儿从小就接触潮州文化。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 18 Nov 2026 08:56:00 +0800",
-   "sort_time": "2026-11-18T08:56:00+08:00",
-   "title": "疫情30多年最严重 美国失去“零麻疹国家”认证",
-   "url": "https://www.8world.com/world/us-loses-measles-free-status-as-cases-deaths-mount-3344091",
-   "id": "https://www.8world.com/world/us-loses-measles-free-status-as-cases-deaths-mount-3344091",
-   "paragraphs": [
-    "美国今年累计通报了4588起麻疹病例。（图：路透社/Sebastian Rocandio）",
-    "美国正面对30多年来最严重的麻疹疫情，自2025年以来，当地已有大约7700人染病，其中13人病逝。当中，多数患者从未接种疫苗。",
-    "有鉴于此，泛美卫生组织取消了美国零麻疹国家认证。",
-    "美国卫生部长小肯尼迪（Robert F. Kennedy Jr.）在社交媒体发文表示，政府将努力遏制疫情，以重新取得认证。他也建议民众接种疫苗。",
-    "专家指出，要有效遏制麻疹传播，人口的疫苗接种率必须达到至少95%，但美国幼儿园学生的接种率已跌破93%。",
-    "除了美国，墨西哥和玻利维亚也失去零麻疹国家认证。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
