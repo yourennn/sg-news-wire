@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:40:31+08:00",
+ "generated_at": "2026-11-18T09:48:10+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,15 +7,35 @@
   },
   "8world": {
    "ok": true,
-   "count": 19
+   "count": 20
   }
  },
  "articles": [
   {
    "source": "8world",
+   "section": "娱乐",
+   "time": "Wed, 18 Nov 2026 09:40:39 +0800",
+   "sort_time": "2026-11-18T09:40:39+08:00",
+   "title": "许志安TVB台庆压轴献唱，“安心事件”后首度与马国明同场？",
+   "url": "https://www.8world.com/e-news/andy-hui-kenneth-ma-3344136",
+   "id": "https://www.8world.com/e-news/andy-hui-kenneth-ma-3344136",
+   "paragraphs": [
+    "（综合讯）TVB《万千星辉贺台庆》将于明天（19日）举行，今年更惊喜邀请许志安担任压轴表演嘉宾，消息曝光后随即引起热议。",
+    "由于马国明目前仍是TVB旗下艺人，若两人届时同场亮相，将是2019年轰动一时的“安心事件”后，相隔7年首度同台。消息令不少网民感到意外，也有人替马国明抱不平，质疑TVB的安排是否有顾及他的感受。",
+    "TVB今年迎来59周年台庆，一众艺人日前也积极投入节目排练。今年表演阵容包括相隔23年重返TVB的3届视帝罗嘉良，担任特别表演嘉宾。早前刚完成红馆个人演唱会的许志安，则获邀担任压轴演出嘉宾。",
+    "据悉，许志安当晚将配合现场乐队伴奏，带来多首经典金曲串烧，当中包括昔日《劲歌金曲》的得奖作品，带领观众重温经典歌曲。",
+    "不过，许志安获邀出席台庆，也让2019年轰动香港娱乐圈的“安心事件”再度成为话题。",
+    "当年，已婚的许志安被媒体拍到与TVB女星黄心颖在德士内激吻，而黄心颖当时正与马国明交往，事件曝光后震惊全城。两人的形象因此重挫，演艺事业也一度陷入低潮。",
+    "距离“安心事件”已有7年，许志安近年逐步复出，黄心颖与马国明也早已各自展开新生活。马国明与黄心颖分手后，于2023年与汤洛雯结婚，正式升格人夫。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "food",
-   "time": "Wed, 18 Nov 2026 09:34:13 +0800",
-   "sort_time": "2026-11-18T09:34:13+08:00",
+   "time": "Wed, 18 Nov 2026 09:34:00 +0800",
+   "sort_time": "2026-11-18T09:34:00+08:00",
    "title": "圣诞聚餐换换口味！Hello Arigato日式炸鸡桶亲友共享，还有童趣周边收藏",
    "url": "https://www.8world.com/food/hello-arigato-celebrates-christmas-with-a-fried-chicken-bucket-3344131",
    "id": "https://www.8world.com/food/hello-arigato-celebrates-christmas-with-a-fried-chicken-bucket-3344131",
