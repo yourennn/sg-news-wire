@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:30:50+08:00",
+ "generated_at": "2026-11-18T09:40:31+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,47 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "food",
+   "time": "Wed, 18 Nov 2026 09:34:13 +0800",
+   "sort_time": "2026-11-18T09:34:13+08:00",
+   "title": "圣诞聚餐换换口味！Hello Arigato日式炸鸡桶亲友共享，还有童趣周边收藏",
+   "url": "https://www.8world.com/food/hello-arigato-celebrates-christmas-with-a-fried-chicken-bucket-3344131",
+   "id": "https://www.8world.com/food/hello-arigato-celebrates-christmas-with-a-fried-chicken-bucket-3344131",
+   "paragraphs": [
+    "圣诞聚餐不一定要吃火鸡，今年不妨学日本人来一桶香喷喷的炸鸡，与亲友一起分享！",
+    "本地日式咖啡馆Hello Arigato以日本圣诞节吃炸鸡的传统为灵感，贴心推出无骨炸鸡桶，搭配两款限定酱料，还携手英国插画家Tess Smith-Roberts带来一系列色彩缤纷且童趣满满的限定周边，从复古格纹托特包到可爱收纳袋，让人忍不住想收藏！",
+    "在日本，圣诞节吃炸鸡的习俗可追溯至1970年代。比起传统烤火鸡，一桶方便分享的炸鸡，成为不少家庭与朋友欢度佳节的选择。",
+    "Hello Arigato为年末佳节推出Arigato Fried Chicken Bucket（$16），很适合年末聚会。金黄酥脆的无骨鸡翅，一口咬下内里填入日式鸡肉丸（tsukune）馅料，并加入柚子提香，结合美式南方炸鸡的香脆与日式风味。",
+    "每桶炸鸡附上两款圣诞限定酱料：Yuzu Mustard Sauce以柚子的清香搭配芥末的浓郁咸香；Honey Hot Sauce则融合蜂蜜甜味与微辣刺激，让每一口炸鸡都有不同滋味。",
+    "无论是圣诞聚餐、办公室年末派对，还是三五好友的居家聚会，炸鸡桶都方便摆上餐桌一起分享。想趁热享用，也可以直接到Hello Arigato门店品尝。",
+    "除了炸鸡，让人心动的还有Hello Arigato与英国插画家Tess Smith-Roberts再度合作的限定周边！",
+    "以鲜艳色彩和童趣插画闻名的Tess Smith-Roberts，将她天马行空的想象力融入日常小物，打造出一系列充满复古俏皮感的设计。",
+    "最吸睛的莫过于红蓝格纹托特包，搭配热闹缤纷的人物插画，随手一背就能为日常穿搭增添亮点。",
+    "收纳袋套装同样让人爱不释手！粉嫩的草莓图案、复古几何花纹，加上色彩丰富的趣味插画，光是摆在一起就十分赏心悦目。拿来收纳化妆品、耳机或随身小物都很合适。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 18 Nov 2026 09:31:37 +0800",
+   "sort_time": "2026-11-18T09:31:37+08:00",
+   "title": "捷克布拉格火车相撞46人伤 四人伤势严重",
+   "url": "https://www.8world.com/world/2-trains-collide-near-prague-leaving-dozens-injured-3344121",
+   "id": "https://www.8world.com/world/2-trains-collide-near-prague-leaving-dozens-injured-3344121",
+   "paragraphs": [
+    "捷克首都布拉格周二（17日）发生两列火车相撞事故。（图：土耳其阿纳多卢通讯社）",
+    "捷克首都布拉格周二（17日）发生两列火车相撞事故，造成46人受伤，其中四人伤势严重。",
+    "路透社报道，布拉格救援部门表示，伤者当中有四人伤势严重，12人伤势不轻，其余30人则受轻伤。",
+    "布拉格警方公布的画面显示，两列火车相撞后停在车站附近，有不少救护车和消防车赶赴现场。",
+    "捷克交通部长贝德纳里克（Ivan Bednárik）形容，这是一起非常严重的事故，当务之急是救治伤者。",
+    "他告诉当地媒体，铁路监察机构已着手调查事故原因。",
+    "事故发生后，涉事铁路路段暂停通车，预计将持续数小时，约数十趟列车服务受影响。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -413,16 +454,14 @@
   },
   {
    "source": "8world",
-   "section": "国际",
-   "time": "Wed, 18 Nov 2026 07:20:00 +0800",
-   "sort_time": "2026-11-18T07:20:00+08:00",
-   "title": "苹果内部系统更新出问题 多项服务中断",
-   "url": "https://www.8world.com/world/apple-works-to-restore-services-after-outage-caused-by-internal-update-3344046",
-   "id": "https://www.8world.com/world/apple-works-to-restore-services-after-outage-caused-by-internal-update-3344046",
+   "section": "体育",
+   "time": "Wed, 18 Nov 2026 07:22:00 +0800",
+   "sort_time": "2026-11-18T07:22:00+08:00",
+   "title": "欧国联：丹麦2比3不敌挪威 葡萄牙同样比分力克威尔士",
+   "url": "https://www.8world.com/sports/uefa-nations-league-denmark-norway-3344126",
+   "id": "https://www.8world.com/sports/uefa-nations-league-denmark-norway-3344126",
    "paragraphs": [
-    "美国科技巨头苹果公司（Apple）因内部系统更新出现问题，导致包括iCloud和Apple Pay在内的多项服务中断。",
-    "苹果说，这次故障并非网络攻击造成，多个受影响的系统已恢复正常运作，公司正努力修复其余受影响系统。",
-    "追踪网络故障的Downdetector的数据显示，美国一度有大约2300起有关Apple Pay服务异常的用户报告，iCloud则有大约1800起。",
+    "哈兰德赛后和队友洋溢着胜利的喜悦。（图：路透社）",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
@@ -466,37 +505,6 @@
     "另一方面，彭博社报道，苹果公司星期二因一次内部更新失误，导致大规模系统瘫痪，员工工具、零售业务及消费者服务中断，目前正全力恢复服务。",
     "苹果公司则明确表明，这次故障并非由网络攻击引起。",
     "报道引述知情人士透露，这次宕机导致多项内部服务停摆，包括员工门户网站AppleWeb、内部登录系统AppleConnect，以及供远程办公人员使用的虚拟专用网络（VPN）。员工在下载内部软件版本、查阅公司日历和预订会议室时也遇到困难，甚至连追踪故障的内部网站也无法运作。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "财经",
-   "time": "Wed, 18 Nov 2026 07:02:00 +0800",
-   "sort_time": "2026-11-18T07:02:00+08:00",
-   "title": "科技股持续承压 华尔街股市续跌道指与标普跌超1%",
-   "url": "https://www.8world.com/finance/us-stocks-3344021",
-   "id": "https://www.8world.com/finance/us-stocks-3344021",
-   "paragraphs": [
-    "科技股持续承压，拖累美国华尔街股市持续下跌。其中，道琼斯工商指数和标准与普尔500指数的跌幅都超过1%。",
-    "道指重挫849点，报5万零759点；标普指数滑落76点，报7千341点；反映科技股走势的纳斯达克指数滑落181点，报2万4328点。",
-    "这是约两个月来，标普指数和纳指首次连续四个交易日下跌。",
-    "交易员说，投资人士在人工智能公司Anthropic首次公开售股和晶片巨头英伟达公布季度业绩前，保持谨慎，加上英伟达近期卷入丑闻，加剧市场对人工智能投资前景的担忧。",
-    "英伟达在闭市后公布的业绩超出市场预期，一度推动公司股价在盘后交易中，上涨3%。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "体育",
-   "time": "Wed, 18 Nov 2026 06:59:00 +0800",
-   "sort_time": "2026-11-18T06:59:00+08:00",
-   "title": "国际足球友谊赛：日本和澳洲落败 韩国小胜卡塔尔",
-   "url": "https://www.8world.com/sports/friendlies-results-3344096",
-   "id": "https://www.8world.com/sports/friendlies-results-3344096",
-   "paragraphs": [
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   },
   {
