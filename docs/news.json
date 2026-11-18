@@ -1,10 +1,9 @@
 {
- "generated_at": "2026-11-18T11:20:34+08:00",
+ "generated_at": "2026-11-18T11:30:41+08:00",
  "sources": {
   "zaobao": {
-   "ok": false,
-   "count": 20,
-   "error": "no articles found (page layout may have changed)"
+   "ok": true,
+   "count": 20
   },
   "8world": {
    "ok": true,
@@ -14,9 +13,47 @@
  "articles": [
   {
    "source": "8world",
+   "section": "中港台",
+   "time": "Wed, 18 Nov 2026 11:26:20 +0800",
+   "sort_time": "2026-11-18T11:26:20+08:00",
+   "title": "中美俄三方会晤前夕 普京飞抵深圳",
+   "url": "https://www.8world.com/greater-china/putin-landed-in-shenzhen-overnight-3344161",
+   "id": "https://www.8world.com/greater-china/putin-landed-in-shenzhen-overnight-3344161",
+   "paragraphs": [
+    "俄罗斯总统普京于当地时间凌晨2点左右抵达深圳。（图：法新社/POOL）",
+    "俄罗斯总统普京今天（18日）凌晨抵达中国深圳，准备出席亚太经济合作组织（APEC）领导人非正式会议，并将在明天（19日）与中国国家主席习近平及美国总统特朗普举行三方会晤。",
+    "据中国官方媒体报道，普京于当地时间凌晨2点左右抵达深圳，并由中共中央政治局常委蔡奇到机场迎接。",
+    "现场也安排了中国军人列队欢迎，以及舞蹈表演。",
+    "俄罗斯新闻社（RIA）早前引述克里姆林宫发言人的话报道，普京、习近平和特朗普将在峰会期间举行三方会晤。这场史无前例的三方会晤预计将成为本届峰会最受关注的活动之一。",
+    "此外，普京也预计与其他出席峰会的国家领导人举行多场双边会谈。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Wed, 18 Nov 2026 11:17:00 +0800",
+   "sort_time": "2026-11-18T11:17:00+08:00",
+   "title": "策划暗杀特朗普 巴基斯坦男子在美被判监逾27年",
+   "url": "https://www.8world.com/world/pakistani-jailed-for-27-years-for-trump-murder-plot-3344191",
+   "id": "https://www.8world.com/world/pakistani-jailed-for-27-years-for-trump-murder-plot-3344191",
+   "paragraphs": [
+    "一名巴基斯坦男子因为策划暗杀美国总统特朗普，被美国法院判处超过27年监禁。",
+    "《法新社》报道，被告阿昔夫（Asif Merchant）被指同伊朗有关联，企图雇佣杀手暗杀美国政界人士，以报复美国在2020年1月击毙伊朗革命卫队指挥官苏莱曼尼（Qassem Soleimani）。",
+    "阿昔夫在2024年7月试图离开美国时被捕。",
+    "阿昔夫供证时声称受到威胁，为了保护在德黑兰的家人免受伊朗革命卫队伤害，被迫参与暗杀阴谋。",
+    "阿昔夫也透露，尽管他没有接获暗杀特定人士的命令，但伊朗方面的联系人曾提及特朗普、美国前总统拜登和美国驻联合国前大使黑莉（Nikki Haley）。不过，美国司法部认为，有关阴谋针对的是特朗普。",
+    "当局表示，绝不容忍外国势力针对美国领导人的恐怖主义阴谋，并誓言会不遗余力地追究涉案者的责任。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "food",
-   "time": "Wed, 18 Nov 2026 11:16:16 +0800",
-   "sort_time": "2026-11-18T11:16:16+08:00",
+   "time": "Wed, 18 Nov 2026 11:16:00 +0800",
+   "sort_time": "2026-11-18T11:16:00+08:00",
    "title": "麒记第5家分店义顺开业！主打鳄鱼排骨鱼鳔汤，新店独家推出“龙骨”汤",
    "url": "https://www.8world.com/food/qiji-traditional-fishmaw-soup-and-minced-pork-noodles-opens-5th-branch-3344186",
    "id": "https://www.8world.com/food/qiji-traditional-fishmaw-soup-and-minced-pork-noodles-opens-5th-branch-3344186",
@@ -512,44 +549,6 @@
     "美国卫生部长小肯尼迪（Robert F. Kennedy Jr.）在社交媒体发文表示，政府将努力遏制疫情，以重新取得认证。他也建议民众接种疫苗。",
     "专家指出，要有效遏制麻疹传播，人口的疫苗接种率必须达到至少95%，但美国幼儿园学生的接种率已跌破93%。",
     "除了美国，墨西哥和玻利维亚也失去零麻疹国家认证。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 18 Nov 2026 08:49:00 +0800",
-   "sort_time": "2026-11-18T08:49:00+08:00",
-   "title": "连接俄与克里米亚大桥连遭乌军袭击 部分结构坍塌",
-   "url": "https://www.8world.com/world/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-3344086",
-   "id": "https://www.8world.com/world/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-3344086",
-   "paragraphs": [
-    "连接俄罗斯和克里米亚的大桥接连两天受到乌克兰军方攻击。（图：路透社）",
-    "连接俄罗斯和克里米亚的大桥接连两天受到乌克兰军方攻击后，部分结构坍塌。",
-    "乌克兰总统泽连斯基在X社交平台上载的视频和照片显示，大桥的主要路段拱架已坠入海里，留下一个巨大缺口。",
-    "泽连斯基说，这是对俄罗斯袭击乌克兰基础设施的报复行动。",
-    "这座19公里长的桥梁是在俄罗斯总统普京的推动下，在2018年落成，以作为俄国兼并克里米亚的象征。",
-    "普京即将在深圳，同美国总统特朗普和中国国家主席习近平举行三方会谈。预料，乌克兰战争将是三人讨论的课题之一。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 18 Nov 2026 08:41:00 +0800",
-   "sort_time": "2026-11-18T08:41:00+08:00",
-   "title": "不顾科技巨头反对 美国仍计划推进限制进口中国数据中心设备",
-   "url": "https://www.8world.com/world/trump-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-3344081",
-   "id": "https://www.8world.com/world/trump-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-3344081",
-   "paragraphs": [
-    "尽管美国多家科技巨头反对，特朗普政府仍计划推进限制进口中国制造的数据中心设备。",
-    "《路透社》引述知情人士的消息说，美国联邦通信委员会早前出于国家安全考量，计划禁止进口中国制造的高速数据传输设备光收发器。",
-    "不过，亚马逊、谷歌、Meta、微软等科技巨头都表示反对，认为企业可能需要长达十年的时间，才能达到新规定的要求。",
-    "尽管如此，知情人士透露，特朗普政府仍在推进这项计划，但最终也可能搁置。",
-    "根据市场研究机构的数据，中国企业占全球光收发器市场约三分之二。",
-    "中国驻美国大使馆批评美方泛化国家安全概念，并敦促美国停止抹黑和威胁制裁中国企业。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
