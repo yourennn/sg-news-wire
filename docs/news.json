@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:40:32+08:00",
+ "generated_at": "2026-11-19T16:50:34+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,9 +13,50 @@
  "articles": [
   {
    "source": "8world",
+   "section": "新加坡",
+   "time": "Thu, 19 Nov 2026 16:44:44 +0800",
+   "sort_time": "2026-11-19T16:44:44+08:00",
+   "title": "涉虚报住址为女儿报读知名小学 一对夫妻被控",
+   "url": "https://www.8world.com/singapore/parents-charged-false-info-enrol-school-3345431",
+   "id": "https://www.8world.com/singapore/parents-charged-false-info-enrol-school-3345431",
+   "paragraphs": [
+    "A court gag order protects their daughter's identity, preventing the identification of the couple and the school. Both are expected to plead guilty when the case returns to court on Jan 7, 2027. Providing false information to a public servant carries up to one year's imprisonment and a S$5,000 fine.",
+    "一对夫妻涉嫌为了提高女儿进入一所知名小学的机会，在报名时提供虚假住址资料，今天（19日）被控上法庭。两人表示有意认罪。",
+    "新传媒亚洲新闻台CNA报道，两名被告分别是33岁的母亲和39岁的父亲，都是新加坡公民。由于法庭下达禁令，保护女儿的身份，因此两名被告和涉事学校的身份都不得公开。",
+    "案情显示，这对夫妻涉嫌在2023年小一报名活动的2C阶段，提供虚假住址资料，以便让女儿进入有关小学。",
+    "母亲面对两项控状，分别是向公务员提供虚假资料，以及在申报住址变更时提供不实信息。她被指向学校副校长谎报住址，明知这可能促使副校长录取她的女儿。",
+    "父亲则面对一项教唆控状，涉嫌协助妻子向副校长提供虚假资料，以及虚报住址变更。",
+    "根据本地小一报名制度，如果学校的报名人数超过学额，住得越近的孩子，获录取的机会就可能越高。",
+    "两名被告表示有意认罪，案件定于明年1月7日再度过堂，届时两人预计认罪。",
+    "根据法律，向公务员提供虚假资料一旦罪成，可被判监禁最长一年、罚款最高5000元，或两者兼施。",
+    "至于在申报住址变更时提供虚假资料，一旦罪成，可被判监禁最长两年、罚款最高3000元，或两者兼施。"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "国际",
-   "time": "Thu, 19 Nov 2026 16:37:35 +0800",
-   "sort_time": "2026-11-19T16:37:35+08:00",
+   "time": "Thu, 19 Nov 2026 16:40:48 +0800",
+   "sort_time": "2026-11-19T16:40:48+08:00",
+   "title": "胡塞武装袭击沙特利雅 著名地标大厦被击中",
+   "url": "https://www.8world.com/world/houthi-saudi-attack-3345416",
+   "id": "https://www.8world.com/world/houthi-saudi-attack-3345416",
+   "paragraphs": [
+    "沙特阿拉伯首都利雅得的著名地标公共投资基金大厦（Public Investment Fund Tower）。（图：iStock）",
+    "也门胡塞武装份子对沙特阿拉伯发动新一轮的袭击，据报道，首都利雅得的著名地标、楼高80层的摩天大楼公共投资基金大厦（Public Investment Fund Tower）被击中，部分建筑受损。",
+    "派驻利雅得的《法新社》记者报道，当地凌晨时分传出巨大的爆炸声响。由沙特领导、负责打击胡塞武装份子的军事联盟表示，已抵御胡塞武装组织向利雅得发射导弹所构成的威胁。",
+    "军事联盟发言人说，初步评估显示，导弹残骸坠落造成了影响，财物损失情况还在评估中。",
+    "目击者随后告诉《法新社》，利雅得金融区最高的建筑公共投资基金大厦在这一轮袭击中受损。这栋高达385米的摩天大楼是沙特主权财富基金的总部，也是当地金融区最醒目的地标建筑。",
+    "消息人士说，大厦多个楼层的外墙受损，玻璃窗被震碎。另外两名消息人士也证实了大厦受损的消息。",
+    "沙特的公共投资基金由沙特实际掌权者穆罕默德王储（Crown Prince Mohammed bin Salman）担任主席，旗下管理资产超过9000亿美元，是全球最大的主权财富基金之一。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Thu, 19 Nov 2026 16:37:00 +0800",
+   "sort_time": "2026-11-19T16:37:00+08:00",
    "title": "特朗普APEC会议疑打瞌睡 普京低头做笔记",
    "url": "https://www.8world.com/world/trump-appears-to-doze-off-at-apec-meeting-as-putin-takes-notes-3345411",
    "id": "https://www.8world.com/world/trump-appears-to-doze-off-at-apec-meeting-as-putin-takes-notes-3345411",
@@ -53,8 +94,8 @@
   {
    "source": "8world",
    "section": "国际",
-   "time": "Thu, 19 Nov 2026 16:29:29 +0800",
-   "sort_time": "2026-11-19T16:29:29+08:00",
+   "time": "Thu, 19 Nov 2026 16:29:00 +0800",
+   "sort_time": "2026-11-19T16:29:00+08:00",
    "title": "中美俄领导人深圳举行历史性三方会谈",
    "url": "https://www.8world.com/world/trump-xi-putin-3345326",
    "id": "https://www.8world.com/world/trump-xi-putin-3345326",
@@ -700,48 +741,6 @@
     "今年由大阪亚洲电影节节目总监晖峻创三、选片人谢以萱，以及策展人李葛，3位评审选出由尹丹菲执导的《最》为本届奈派克奖得主。",
     "评审赞赏本片充满深情与温度：“不仅是一段青春成长故事，更传递出真挚的关怀，与积极向上的生命力量。”导演尹丹菲笑称自己完成首部作品后，以为能渐入佳境，没想到制作本片时仍遭遇诸多困难。“很感谢能获得如此珍贵的奖项。”",
     "同样观赏完这11部入围影片的台湾影评人协会，今年由9位协会会员组成评审团。经历热烈讨论，选出《迷》作为“台湾影评人协会奖”得主。评审认为其深刻描写出尼泊尔跨性族群“Kinnar”对世俗礼教的反抗与挣扎，盛赞本片“叙事俐落成熟，结局震撼人心，余韵不绝。”",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Thu, 19 Nov 2026 13:57:20 +0800",
-   "sort_time": "2026-11-19T13:57:20+08:00",
-   "title": "国际法院今就缅甸涉嫌种族灭绝罗兴亚人案作出裁决",
-   "url": "https://www.8world.com/southeast-asia/icj-to-rule-on-myanmar-rohingya-genocide-case-3345206",
-   "id": "https://www.8world.com/southeast-asia/icj-to-rule-on-myanmar-rohingya-genocide-case-3345206",
-   "paragraphs": [
-    "海牙国际法院在历经七年审理后，今天将针对缅甸军方在2017年镇压罗兴亚人的行动，涉及种族灭绝的罪名作出裁决。",
-    "这将是国际法院十多年来首次，就涉嫌违反1948年《防止及惩治灭绝种族罪公约》的行为，作出实质性裁决。",
-    "裁决将在荷兰海牙时间早上10点，也就是本地时间下午5点出炉。目前栖身在全球最大的难民营，孟加拉科克斯巴扎尔难民营的罗兴亚难民，重燃返回家园的希望。",
-    "罗兴亚难民控诉，他们九年前遭受缅甸军方的残酷迫害，期许司法程序能伸张正义，让他们有尊严且安全地重返家园。",
-    "缅甸则否认犯下种族灭绝罪，强调当年的军事镇压，是合法的反叛乱行动。",
-    "自二战期间犹太人大屠杀以来，国际司法机构认定构成种族灭绝的案例屈指可数，有分析指出这次裁决，可能会对其他类似案件产生影响，当中包括南非针对以色列在卡萨的行动而提出的诉讼。",
-    "在这同时,缅甸领袖敏昂莱在国会宣布，明年2月将召开和平大会，目标是在五年任期内结束国内战事。",
-    "他同时对亚细安表达不满，批评亚细安只对缅甸施加压力，扬言将重新审视双方关系。",
-    "亚细安早前表示，缅甸只有在落实包括立即停止暴力，各方展开建设性对话等五点共识上取得进展，才会考虑逐步恢复缅甸正常参与亚细安事务。",
-    "Download our app and get the latest news updates on-the-go"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Thu, 19 Nov 2026 13:55:00 +0800",
-   "sort_time": "2026-11-19T13:55:00+08:00",
-   "title": "保加利亚揭发历来最大规模网络间谍案 超过6200万页政府文件遭窃",
-   "url": "https://www.8world.com/world/bulgaria-uncovers-largest-cyber-espionage-case-3345201",
-   "id": "https://www.8world.com/world/bulgaria-uncovers-largest-cyber-espionage-case-3345201",
-   "paragraphs": [
-    "保加利亚政府则宣布，挫败历来最大规模的网络黑客活动，黑客自2021年以来持续入侵政府网络，窃取的官方文件超过6200万页。不过当局没有透露这些黑客组织来自哪些国家。",
-    "保加利亚创新与数码转型部长星期三宣布，过去五年来多个国际黑客组织持续入侵保加利亚的系统。",
-    "他们一直秘密潜伏在国家行政机构的网络系统中，这是针对政府机构持续时间最长，规模最大的网络间谍案。",
-    "当局透露这些黑客未经授权，入侵政府机构用来交换信息的基础设施，收集涉及国家运作的敏感数据。",
-    "不过当局强调，这些黑客的目的是政府机构，没有迹象显示，保加利亚公民的个人资料已泄漏。",
-    "当局相信至少有超过6200万页的文件和资料被窃取，这些资料几乎涵盖政府运作的所有领域，包括内阁事务和报告，还有各部门与机构之间的往来公文。",
-    "当局是在部署新的国家网络安全检测系统后，在今年8月侦测到可疑活动，进而揭发这起事件。",
-    "当局目前已隔离受影响的系统，切断黑客的访问权。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
