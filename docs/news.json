@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:50:33+08:00",
+ "generated_at": "2026-11-21T11:00:52+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,27 @@
   },
   "8world": {
    "ok": true,
-   "count": 19
+   "count": 20
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Sat, 21 Nov 2026 10:51:00 +0800",
+   "sort_time": "2026-11-21T10:51:00+08:00",
+   "title": "越南废除贩毒等罪行死刑 仅剩四种罪行保留极刑",
+   "url": "https://www.8world.com/southeast-asia/vietnam-scraps-capital-punishment-for-drug-trafficking-3347186",
+   "id": "https://www.8world.com/southeast-asia/vietnam-scraps-capital-punishment-for-drug-trafficking-3347186",
+   "paragraphs": [
+    "越南废除了对贩毒及一些其他罪行面临的死刑，目前只有四种罪行的刑罚保留了死刑。",
+    "法新社报道，越南1985年颁布的《刑事法典》原本有44项罪行适用死刑，随着一系列的减刑措施，根据国民议会通过的最新修订版，目前只有四种罪行适用死刑，包括叛国罪、谋杀罪、恐怖主义罪和非法制造毒品罪。",
+    "最新一轮的减刑措施除了废除贩毒面临的死刑，危害人类罪、战争罪、叛乱罪和强奸未成年人罪等罪行的最高刑罚也从死刑减轻为无期徒刑。",
+    "多名国民议会议员曾表示不愿废除对贩毒罪的死刑，但公共安全部长梁潭光表示，证据表明，多名贩毒者是被诱骗、欺骗或胁迫，才犯罪的。他认为，这些罪犯仍然可以得到改造、教育，并获得弥补过错的机会，因此没有必要判处死刑。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "国际",
