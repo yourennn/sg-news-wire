@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:40:34+08:00",
+ "generated_at": "2026-11-21T15:50:34+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 21 Nov 2026 15:39:00 +0800",
+   "sort_time": "2026-11-21T15:39:00+08:00",
+   "title": "不满社媒账号被封 印反对党青年组织抗议爆冲突",
+   "url": "https://www.8world.com/world/india-congress-party-meta-protests-censorship-3347291",
+   "id": "https://www.8world.com/world/india-congress-party-meta-protests-censorship-3347291",
+   "paragraphs": [
+    "印度青年国大党不满部分成员Instagram账号被关闭，分别到Meta在孟买和海得拉巴的办公室抗议。（视频截图：路透社/印度青年国大党）",
+    "印度主要反对党国民大会党属下的青年组织因不满部分成员的Instagram账号被关闭，到科技公司Meta的办公室抗议，并同警方发生冲突。",
+    "《路透社》报道，在印度海得拉巴（Hyderabad），印度青年国大党的示威者闯入Meta办公室所在的建筑，同警方发生冲突。",
+    "在孟买，有示威者在建筑外墙喷上抗议标语，并同保安发生冲突。靠近新德里的古尔冈（Gurugram）也爆发示威活动。",
+    "印度青年国大党在X社交平台上发文警告，如果成员的Instagram账号没有恢复，将在全国各地的Meta办公室抗议。",
+    "这起事件再次引起外界对印度网络言论自由的关注。",
+    "印度政府说，当局只会要求社媒平台处理违反当地法律、危害公共安全或国家安全的内容。",
+    "Meta表示，公司在印度限制部分内容是为了遵守当地法律。",
+    "数据显示，Meta今年上半年根据印度法律，限制超过540万个帖文或账号，远高于之前六个月的大约7万个。",
+    "Download our app and get the latest news updates on-the-go"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -684,20 +705,6 @@
     "根据新规定，全球各地的数据中心，如果要向中国、澳门等受限制地区的企业提供大量先进晶片运算能力，必须先取得美国许可。",
     "不过，数据中心耗电量大，也消耗大量水资源，引起美国一些社区的反对。",
     "特朗普警告，如果美国放慢兴建数据中心的速度，可能削弱美国在人工智能领域的领先地位。他呼吁社区善用数据中心带来的经济利益，而不是阻止建设。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 21 Nov 2026 10:39:00 +0800",
-   "sort_time": "2026-11-21T10:39:00+08:00",
-   "title": "贝森特称美中领导人达共识 AI军事决策须有人类参与",
-   "url": "https://www.8world.com/world/trump-and-xi-agreed-that-military-ai-decisions-should-involve-humans-3347176",
-   "id": "https://www.8world.com/world/trump-and-xi-agreed-that-military-ai-decisions-should-involve-humans-3347176",
-   "paragraphs": [
-    "贝森特称特朗普与习近平达成共识，运用AI的军事决策须有人类参与。（图：路透社）",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
