@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:00:55+08:00",
+ "generated_at": "2026-11-22T07:10:36+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,23 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sun, 22 Nov 2026 07:08:39 +0800",
+   "sort_time": "2026-11-22T07:08:39+08:00",
+   "title": "日本多地降大雪 福岛县部分居民和游客受困",
+   "url": "https://www.8world.com/world/heavy-rain-snow-continue-to-hit-parts-of-japan-3347671",
+   "id": "https://www.8world.com/world/heavy-rain-snow-continue-to-hit-parts-of-japan-3347671",
+   "paragraphs": [
+    "受冬季气压影响，日本东北和北陆地区降大雪，其中大雪导致福岛县部分地区的居民和游客被困。",
+    "《共同社》报道，在福岛县北盐原村，大雪导致树木倾斜或倒下，阻断道路，导致里磐梯地区周边514户、948名居民，以及至少约500名游客陷入孤立无援状态。",
+    "报道说，大量树木压在电线上，妨碍了除雪作业。村内约700户停电，加上通信设备故障导致许多住宿设施和居民的电话无法接通，目前未发现有人受伤。",
+    "里磐梯位于福岛县西北部山区，是著名旅游景点。日本气象厅说，邻近北盐原村的猪苗代町截至21日凌晨2点的24小时降雪量达到49厘米。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -783,22 +800,6 @@
     "不过，周润发随即幽默地表示，自己其实只是陪老婆陈荟莲去看演唱会。",
     "当被问及太太最喜欢BIGBANG哪位成员时，他秒答：“3个都喜欢，她就是不喜欢我而已！”再次引起全场大笑。",
     "周润发也透露，自从去年11月在MAMA颁奖典礼上与GD见面后，两人便没有再碰面，因为彼此工作都十分忙碌。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Sat, 21 Nov 2026 20:40:58 +0800",
-   "sort_time": "2026-11-21T20:40:58+08:00",
-   "title": "中国青海发生5.6级浅层地震",
-   "url": "https://www.8world.com/greater-china/china-earthquake-3347476",
-   "id": "https://www.8world.com/greater-china/china-earthquake-3347476",
-   "paragraphs": [
-    "中国青海海西州德令哈市发生5.6级浅层地震。",
-    "《新华社》报道，地震发生在傍晚6点45分，震源深度为十公里。",
-    "《搜狐网》报道，当地震感强烈，西宁、兰州、格尔木等地区的居民也感受到震动。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   }
  ]
