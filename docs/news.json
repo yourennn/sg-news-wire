@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:40:32+08:00",
+ "generated_at": "2026-11-21T10:50:33+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,63 @@
   },
   "8world": {
    "ok": true,
-   "count": 20
+   "count": 19
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 21 Nov 2026 10:47:00 +0800",
+   "sort_time": "2026-11-21T10:47:00+08:00",
+   "title": "特朗普警告美企 海外建数据中心将面临巨额税款",
+   "url": "https://www.8world.com/world/trump-vows-to-punish-us-firms-building-data-centers-abroad-3347181",
+   "id": "https://www.8world.com/world/trump-vows-to-punish-us-firms-building-data-centers-abroad-3347181",
+   "paragraphs": [
+    "美国总统特朗普警告，如果美国企业在海外兴建数据中心，将面临巨额税款，以防止中国取得先进的人工智能运算能力。",
+    "法新社报道，特朗普在华盛顿召开的记者会上说，美国不会允许企业在其他国家兴建数据中心。如果企业坚持这么做，就必须缴付巨额税款。他强调，美国不能让中国取得这些数据中心的运算资源。",
+    "美国政府较早前已收紧出口管制，堵住中国企业通过租用东南亚等地的数据中心，取得美国先进晶片运算能力的漏洞。",
+    "根据新规定，全球各地的数据中心，如果要向中国、澳门等受限制地区的企业提供大量先进晶片运算能力，必须先取得美国许可。",
+    "不过，数据中心耗电量大，也消耗大量水资源，引起美国一些社区的反对。",
+    "特朗普警告，如果美国放慢兴建数据中心的速度，可能削弱美国在人工智能领域的领先地位。他呼吁社区善用数据中心带来的经济利益，而不是阻止建设。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 21 Nov 2026 10:39:00 +0800",
+   "sort_time": "2026-11-21T10:39:00+08:00",
+   "title": "贝森特称美中领导人达共识 AI军事决策须有人类参与",
+   "url": "https://www.8world.com/world/trump-and-xi-agreed-that-military-ai-decisions-should-involve-humans-3347176",
+   "id": "https://www.8world.com/world/trump-and-xi-agreed-that-military-ai-decisions-should-involve-humans-3347176",
+   "paragraphs": [
+    "贝森特称特朗普与习近平达成共识，运用AI的军事决策须有人类参与。（图：路透社）",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Sat, 21 Nov 2026 10:37:00 +0800",
+   "sort_time": "2026-11-21T10:37:00+08:00",
+   "title": "新西兰果汁被验出霉菌毒素超标 本地进口商下架受影响产品",
+   "url": "https://www.8world.com/singapore/new-zealand-homegrown-apple-juice-patulin-detected-3347171",
+   "id": "https://www.8world.com/singapore/new-zealand-homegrown-apple-juice-patulin-detected-3347171",
+   "paragraphs": [
+    "本地冷藏公司超市售卖新西兰Homegrown品牌的苹果汁。",
+    "新西兰Homegrown品牌的苹果汁被香港当局检测出霉菌毒素超标。本地进口商已经下架受影响产品。我国食品局也提醒，作为预防措施，已购买受影响产品的消费者不应该饮用有关苹果汁。",
+    "香港食物安全中心星期二（17日）表示，Homegrown 100% Pure NZ Apple Juice的样本被检测出霉菌毒素“棒曲霉素”（patulin）浓度超标，呼吁公众不要饮用，并下令业者立即停售受影响批次的产品。",
+    "我国食品局答复《8视界新闻网》的询问时说，已联系将这款产品进口到我国的进口商冷藏公司（Cold Storage）。公司随后自愿下架受影响批次的产品。",
+    "“食品局也已指示进口商，确保受影响产品不会在新加坡出售，并将继续密切关注情况，以确保食品安全。”",
+    "食品局表示，棒曲霉素是一种由霉菌产生的毒素，主要存在于腐烂的苹果和苹果制品中。这种毒素具有耐热性，即使经过加工处理，仍可能残留在产品中。过量摄入棒曲霉素可能引发急性症状，包括恶心、肠胃不适和呕吐。",
+    "当局表示，作为预防措施，已购买受影响产品的消费者不应该饮用。如果已经饮用并对健康状况感到担忧，应寻求医生的建议。消费者也可向购买产品的商家查询。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "新加坡",
@@ -513,23 +566,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 21 Nov 2026 07:10:00 +0800",
-   "sort_time": "2026-11-21T07:10:00+08:00",
-   "title": "奥地利外交部官网遭黑客入侵 总部及驻外人员资料外泄",
-   "url": "https://www.8world.com/world/austrian-foreign-ministry-says-its-website-was-hacked-staff-details-viewed-3347076",
-   "id": "https://www.8world.com/world/austrian-foreign-ministry-says-its-website-was-hacked-staff-details-viewed-3347076",
-   "paragraphs": [
-    "奥地利外交部表示，官方网站上星期遭黑客入侵，总部和驻外使馆人员的姓名及工作联络资料被查阅。",
-    "外交部说，事件发生在本月12日到13日，正值微软全球服务发生故障期间。外交部在13日发现网站遭入侵后，立即采取行动阻止。",
-    "当局没有透露怀疑是谁发动攻击。不过，奥地利今年7月曾指责俄罗斯在2019年底到2020年初，对奥地利外交部发动网络攻击。俄罗斯一直否认西方国家的黑客攻击指控。",
-    "奥地利同俄罗斯的关系近年来持续恶化。奥地利上个月驱逐四名俄罗斯外交人员，俄罗斯随后也驱逐一名奥地利驻莫斯科大使馆的贸易代表。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "07:07",
@@ -547,66 +583,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Sat, 21 Nov 2026 06:48:00 +0800",
-   "sort_time": "2026-11-21T06:48:00+08:00",
-   "title": "罗兴亚难民安置土耳其现U转？马国副首相发文后火速删帖",
-   "url": "https://www.8world.com/southeast-asia/malaysia-removes-post-announcing-plan-to-resettle-10000-rohingya-in-turkey-3347071",
-   "id": "https://www.8world.com/southeast-asia/malaysia-removes-post-announcing-plan-to-resettle-10000-rohingya-in-turkey-3347071",
-   "paragraphs": [
-    "马来西亚寻求将一万名罗兴亚难民重新安置到土耳其的计划 似乎出现大U转，副首相阿末扎希在社交媒体Facebook宣布相关消息后，当天又把帖文删除。",
-    "据法新社报道，土耳其外交部通过手机短信告诉记者，注意到阿末扎希的相关帖文已经被删除。",
-    "报道说，目前不清楚帖文为何被删除，一些马国媒体似乎也已经把相关报道撤下。",
-    "早些时候，阿末扎希发文说，他近期到土耳其进行正式工作访问后，马国内阁已同意，通过有系统的技能培训计划，将境内一万名罗兴亚难民重新安置到土耳其。",
-    "这些罗兴亚难民将接受为期三到六个月的技能培训，在土耳其展开新生活。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "财经",
-   "time": "Sat, 21 Nov 2026 06:36:00 +0800",
-   "sort_time": "2026-11-21T06:36:00+08:00",
-   "title": "美国华尔街股市遭遇猛烈抛售 三大指数暴跌",
-   "url": "https://www.8world.com/finance/us-stocks-3347066",
-   "id": "https://www.8world.com/finance/us-stocks-3347066",
-   "paragraphs": [
-    "美国华尔街股市遭遇猛烈抛售，三大指数暴跌。",
-    "其中，反映科技股走势的纳斯达克指数跌幅最大，达到5.28%或1261点，报2万2618点，抹去今年全部涨幅。",
-    "标准与普尔500指数和道琼斯工商指数则双双从近期高点回落超过10%，步入技术性回调区间。",
-    "标普跌3.7%或265点，收市报6910点；道指则滑落1.93%或950点，报4万8147点。",
-    "交易员说，人工智能巨头Anthropic上市首日收涨17%，第二天却大跌多达11%，未能消除市场对人工智能估值过高，以及巨额资本开支能否带来回报的疑虑。",
-    "与此同时，卷入间谍丑闻的晶片巨头英伟达股价再跌，拖累人工智能晶片类股走低。",
-    "另外，持续的通胀压力、市场对美国联邦储备局加息的预期升温，加上投资者担忧美国中期选举后数据中心建设可能放缓，也加剧了股市的跌势。",
-    "反映市场恐慌情绪的VIX指数大幅飙升，创去年4月关税风波以来新高。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Sat, 21 Nov 2026 06:20:00 +0800",
-   "sort_time": "2026-11-21T06:20:00+08:00",
-   "title": "鸡饭摊主自嘲没钱带出国玩 儿子约友人咖啡店下棋吃薯条",
-   "url": "https://www.8world.com/singapore/chicken-rice-hawker-son-play-chess-coffeeshop-3346861",
-   "id": "https://www.8world.com/singapore/chicken-rice-hawker-son-play-chess-coffeeshop-3346861",
-   "paragraphs": [
-    "鸡饭摊主自嘲没钱在假期带孩子出国，儿子约朋友到咖啡店来下棋吃薯条鸡块，获网名热议。（图：Facebook/Poh Kee Chicken Rice）",
-    "学校假期到了，不少家长会带孩子出国游玩。不过，大巴窑一名鸡饭摊主却在社媒自嘲没本事带孩子出国度假，儿子于是约朋友到咖啡店下棋，简单地度过假期，获得不少网民点赞。。",
-    "大巴窑傅记鸡饭摊主前天（19日）在Facebook上载照片，显示就读小学三年级的儿子与朋友在咖啡店下棋、吃薯条和鸡块。",
-    "帖文发布约一天后，获得超过6400个赞、超过580则留言及超过125次转发。",
-    "摊主在留言区进一步透露，每次一家人考虑出国旅行，算了算开销后，往往就会打消念头。",
-    "“一年下来，因看病及其他事务而休息，已造成不小的经济负担”。",
-    "他也自嘲，不知道其他家庭是如何负担旅行开销的，或许是自己不善于理财。",
-    "摊主的帖文引起不少网民共鸣，有人形容这一幕令人暖心。",
-    "有网民认为，对孩子而言，能够与朋友一起玩游戏、享用美食，已经是非常有意义的一天。",
-    "也有网民称赞摊主的儿子愿意与朋友面对面交流、下棋，认为这比沉迷社交媒体或观看网络视频更有意义。"
    ]
   },
   {
