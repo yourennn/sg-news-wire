@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:10:32+08:00",
+ "generated_at": "2026-11-21T21:20:43+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Sat, 21 Nov 2026 21:11:08 +0800",
+   "sort_time": "2026-11-21T21:11:08+08:00",
+   "title": "YMCA旗下组织网站被侵入 数据库资料有外泄之忧",
+   "url": "https://www.8world.com/singapore/ymcas-youth-for-causes-portal-associated-database-hit-by-cybersecurity-3347466",
+   "id": "https://www.8world.com/singapore/ymcas-youth-for-causes-portal-associated-database-hit-by-cybersecurity-3347466",
+   "paragraphs": [
+    "本地继续有更多组织的网站遭不法分子侵入。新加坡基督教青年会（YMCA）证实，旗下一个青年行善活动的线上申请网站发生网络安全事故，相关数据库也受影响，目前未确定数据是否外泄。",
+    "YMCA说，受影响是青年行善活动（Youth For Causes，简称YFC）线上申请网站及相关数据库。",
+    "根据YMCA今天（21日）向参与者和导师们发送的一个电子邮件中表示，他们是于10月19日获悉发生数据泄露事件，并随即指示其门户网站供应商在同一天将受影响的系统下线。",
+    "之后，YMCA与网站供应商合作，并聘请独立网络鉴证专家调查事故原因，评估事件对个人资料可能造成的影响。",
+    "调查无法确定个人资料是否曾被读取、复制或提取，但也无法排除这种可能性。",
+    "据亚洲新闻台CNA报道，有关数据库储存的资料包括参与者的姓名、出生日期、联络方式、学校，以及他们的近亲和教师的资料。",
+    "此外，数据库也储存了导师和评委的姓名及联络方式，部分记录还包括完整或部分身份证号码。",
+    "YMCA已开始通知参与者和导师，并提醒他们提防冒充有关组织的不明电邮、电话或短信，尤其是要求提供个人资料、点击链接或付款的信息。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -794,27 +815,6 @@
     "当局也计划推出新柔地铁接驳巴士等服务，并提升新山中央车站的设施，加强不同交通方式之间的衔接。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Sat, 21 Nov 2026 15:39:00 +0800",
-   "sort_time": "2026-11-21T15:39:00+08:00",
-   "title": "不满社媒账号被封 印反对党青年组织抗议爆冲突",
-   "url": "https://www.8world.com/world/india-congress-party-meta-protests-censorship-3347291",
-   "id": "https://www.8world.com/world/india-congress-party-meta-protests-censorship-3347291",
-   "paragraphs": [
-    "印度青年国大党不满部分成员Instagram账号被关闭，分别到Meta在孟买和海得拉巴的办公室抗议。（视频截图：路透社/印度青年国大党）",
-    "印度主要反对党国民大会党属下的青年组织因不满部分成员的Instagram账号被关闭，到科技公司Meta的办公室抗议，并同警方发生冲突。",
-    "《路透社》报道，在印度海得拉巴（Hyderabad），印度青年国大党的示威者闯入Meta办公室所在的建筑，同警方发生冲突。",
-    "在孟买，有示威者在建筑外墙喷上抗议标语，并同保安发生冲突。靠近新德里的古尔冈（Gurugram）也爆发示威活动。",
-    "印度青年国大党在X社交平台上发文警告，如果成员的Instagram账号没有恢复，将在全国各地的Meta办公室抗议。",
-    "这起事件再次引起外界对印度网络言论自由的关注。",
-    "印度政府说，当局只会要求社媒平台处理违反当地法律、危害公共安全或国家安全的内容。",
-    "Meta表示，公司在印度限制部分内容是为了遵守当地法律。",
-    "数据显示，Meta今年上半年根据印度法律，限制超过540万个帖文或账号，远高于之前六个月的大约7万个。",
-    "Download our app and get the latest news updates on-the-go"
    ]
   }
  ]
