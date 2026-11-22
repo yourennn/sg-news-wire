@@ -1,22 +1,56 @@
 {
- "generated_at": "2026-11-22T22:40:52+08:00",
+ "generated_at": "2026-11-22T22:50:38+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
    "count": 20
   },
   "8world": {
-   "ok": false,
-   "count": 20,
-   "error": "HTTPSConnectionPool(host='www.8world.com', port=443): Read timed out. (read timeout=20)"
+   "ok": true,
+   "count": 20
   }
  },
  "articles": [
   {
    "source": "8world",
+   "section": "东南亚",
+   "time": "Sun, 22 Nov 2026 22:31:22 +0800",
+   "sort_time": "2026-11-22T22:31:22+08:00",
+   "title": "缅甸对近200人采取法律行动 涉借征兵敲诈勒索",
+   "url": "https://www.8world.com/southeast-asia/myanmar-says-it-is-combatting-graft-in-military-draft-process-3348326",
+   "id": "https://www.8world.com/southeast-asia/myanmar-says-it-is-combatting-graft-in-military-draft-process-3348326",
+   "paragraphs": [
+    "缅甸政府对将近200名涉嫌利用征兵制度，敲诈勒索和非法拘留民众的人士，采取法律行动，当中包括地方官员。",
+    "缅甸国防部指出，不法分子冒充官员，强行抓走年轻男子入伍，并向家属勒索钱财。",
+    "缅甸自去年2月实施强制征兵以来，数以万计的年轻人逃离家园，以躲避兵役。当地也频传年轻男子在街头被抓走的事件。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "movies-shows",
+   "time": "Sun, 22 Nov 2026 22:28:10 +0800",
+   "sort_time": "2026-11-22T22:28:10+08:00",
+   "title": "【金马63】陈哲艺无缘“最佳导演”，许承杰凭《双喜》抱走奖项，告白妻子！",
+   "url": "https://www.8world.com/movies-shows/golden-horse-awards-best-director-3348306",
+   "id": "https://www.8world.com/movies-shows/golden-horse-awards-best-director-3348306",
+   "paragraphs": [
+    "第63届金马奖颁奖典礼今晚（22日）在台北流行音乐中心隆重登场。许承杰凭《双喜》击败本地导演 陈哲艺 ，勇夺“最佳导演”！",
+    "曾以《孤味》创下票房与口碑佳绩的台湾导演许承杰，第二部执导的《双》将自身应付离异父母婚礼的经历化为喜剧，展现出精准的场面调度与笑泪交织的节奏掌控力，在强敌中杀出重围。",
+    "从国际大导李安和奉俊昊手中接过奖项的他先搞笑问道：“我等下可以和他们自拍吗？”笑翻全场。随后他致谢金马、评审、监制、出品和发行方以及《双》全体工作人员。",
+    "他忆述太太有次探班时，问他“你好像只是坐在那边皱眉头，导演到底在做什么？”他笑说：“导演就是一个简单又痛苦的工作，因为我们无时无刻都在做决定。”同时感性致谢《双》每个人：“谢谢你们把最专业的选项交给我，我才可以有信心做出每个决定。”",
+    "他也表示：“在电影的路上，我永远是个学生，观众和世界一直在变，我会继续努力。”最后告白太太：“明天是我们结婚纪念，怎么办，我爱你！”",
+    "本地导演陈哲艺虽无缘“最佳导演”，但《 我们不是陌生人 》能否夺下“最佳女主角”和“最佳剧情片”，让人期待！",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "新加坡",
-   "time": "Sun, 22 Nov 2026 22:25:37 +0800",
-   "sort_time": "2026-11-22T22:25:37+08:00",
+   "time": "Sun, 22 Nov 2026 22:25:00 +0800",
+   "sort_time": "2026-11-22T22:25:00+08:00",
    "title": "总理：新中接连展开高层互动  反映双边关系强劲发展势头",
    "url": "https://www.8world.com/singapore/ding-xue-xiang-meets-pm-and-dpm-3348291",
    "id": "https://www.8world.com/singapore/ding-xue-xiang-meets-pm-and-dpm-3348291",
@@ -134,7 +168,7 @@
    "section": "新加坡",
    "time": "Sun, 22 Nov 2026 21:52:00 +0800",
    "sort_time": "2026-11-22T21:52:00+08:00",
-   "title": "本地动画《沧海琴声》金马奖摘最佳动画和最佳改编剧本",
+   "title": "本地动画电影《沧海琴声》 勇夺金马奖最佳动画及最佳改编剧本",
    "url": "https://www.8world.com/singapore/63rd-golden-horse-awards-2026-winners-singapore-3348246",
    "id": "https://www.8world.com/singapore/63rd-golden-horse-awards-2026-winners-singapore-3348246",
    "paragraphs": [
@@ -530,44 +564,6 @@
     "《沧》由韩蕴光与西班牙动画导演Raúl García联合执导，是本地首部以新加坡历史为背景的动画长片。电影以一名资深小提琴家的回忆为主线，讲述两名热爱小提琴的挚友因战乱被迫分离，历经数十年岁月变迁，最终重拾友情与对音乐的热爱。",
     "《沧海琴声》今年在国际影坛屡创佳绩，先后夺得法国安纳西国际动画电影节最高荣誉“长片水晶奖”及“SACEM最佳原创长片音乐奖”，并荣获亚太电影大奖“最佳动画电影”。",
     "电影这次一举入围金马奖3个奖项，另外还包括“最佳动画片”及“最佳原创电影音乐”，如今成功拿下一奖，接下来能否再传捷报？令人期待！",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "movies-shows",
-   "time": "Sun, 22 Nov 2026 19:37:00 +0800",
-   "sort_time": "2026-11-22T19:37:00+08:00",
-   "title": "【金马63】不敌《三只小猪》，本地作品《果》、《她说》无缘“最佳剧情短片”！",
-   "url": "https://www.8world.com/movies-shows/golden-horse-awards-best-live-action-short-film-3347766",
-   "id": "https://www.8world.com/movies-shows/golden-horse-awards-best-live-action-short-film-3347766",
-   "paragraphs": [
-    "第63届金马奖颁奖典礼今晚（22日）在台北流行音乐中心隆重登场，各大奖项得主陆续揭晓。香港导演仲锦妮的《三只小猪》荣获“最佳剧情短片”。",
-    "本地导演林镌霓（前名林娟妮）编导的《果》（Buah）成功拿下“最佳剧情短片”奖！《果》是首部入围金马奖的新加坡马来语作品，如今更成功摘奖，别具意义。",
-    "《三》击败来自新加披导演林镌霓（前名林娟妮）编导的《果》、本地导演陈见明执导、范冰冰主演的《她说》，以及游智杰执导的《末代僵尸》、郭佩绮的《爬坡》，从5部入围作品中脱颖而出，勇夺奖项。",
-    "“最佳剧情短片”奖由曾敬骅和宋芸桦颁发。奖项由罗乐文上台领奖。",
-    "这部作品将对社会与世界的观察反思化为故事，以荒诞与黑色幽默包裹香港青年情谊，有真切而复杂的时代情绪。因导演与主创团队无法到现场，代领人指出：“这作品所表达的是我们这一代，这座城市，这一刻所面对的荒谬日常。”团队对获奖感到感到不可置信，寄语香港创作者“在黑暗的时间，更需要创作”，并将奖项“献给小猪们。”",
-    "《三》长达24分钟，讲述两位年轻人游走在香港夜间街头，想买猪头进行一场别开生面的拜山行动。眼见买不到拜神烧猪，只好自己偷刀与猪，断头后亲自为猪点妆，画上小丑迷人微笑，再攀山涉水抵终点，祝福似远似近的彼方。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "beauty-fashion",
-   "time": "Sun, 22 Nov 2026 19:12:00 +0800",
-   "sort_time": "2026-11-22T19:12:00+08:00",
-   "title": "【金马63】红毯星光璀璨，5帅5美各展风采！",
-   "url": "https://www.8world.com/beauty-fashion/golden-horse-awards-red-carpet-3348056",
-   "id": "https://www.8world.com/beauty-fashion/golden-horse-awards-red-carpet-3348056",
-   "paragraphs": [
-    "第63届金马奖颁奖典礼今天（22日）在台北流行音乐中心隆重登场。vibes编辑室直击台湾，为大家带来第一手最即时的颁奖盛况。典礼前的星光大道由杨千霈和黄迪扬共同担纲，红毯星光熠熠，今年谁的造型最吸睛？",
-    "舒华 担任本届颁奖嘉宾的女团i-dle台湾成员舒华，以一身金色平口露肩的礼服绝美登场，白皙的肌肤，仙气逼人。她也搭配七彩珠宝，将头发盘起，宛如仙女降临红毯。",
-    "舒淇 首度执导电影《女孩》的舒淇，作品一举入围10项大奖，她以大波浪长发搭配黑色庞克风洋装亮相，展现典雅又帅气的女神气场。",
-    "宋芸桦 宋芸桦这次的红毯造型，以黑色的礼服以马赛克几何形状打造出不规则镂空，让腰线能完美显现， 展现性感与力量兼具的时尚气场！ 桂纶镁 桂纶镁 以颁奖人的身分回归，她身穿一套青绿色薄纱透视洋装亮相红毯，性感中自带仙气，服装上同色系列的点缀更显气质。 袁澧林 以亮眼的金色短发搭配优雅的黑色礼服和Chanel珠宝亮相紅毯，以《第四幕》入围“最佳女主角”的袁澧林，把经典黑色礼服穿出時髦气息。",
-    "张震 张震首度以新任金马执委会主席身分亮相，身为金马史上最年轻主席。他以一身深色双排扣西装搭配俐落衬衫、领带和口袋巾登场，宽版西装裤增添率性时髦感，整体造型帅气低调却气场十足，潇洒成熟的模样成为现场焦点。",
-    "阮经天 阮经天这次的造型以HERMÈS排扣西装套装，内搭高领针织衫以及小牛皮短靴亮相红毯，展现低调奢华的男性魅力。珠宝方面，最精致吸睛的是Serpent Bohème Vintage系列耳环，特别以胸针方式佩戴，手上则叠搭多款戒指，包括Quatre Classique戒指、Quatre Classique系列戒指、Serpent Bohème系列戒指和Quatre Radiant系列戒指，五件珠宝价值连城，更显贵公子气质。 柯炜林 首次挑战担任典礼主持人的香港男星柯炜林以一身Dior创意总监Jonathan Anderson打造的2026秋冬男装黑色燕尾服走上星光大道，帅气十足。经典燕尾服剪裁搭配Piaget珠宝，最后以剪裁宽裤收尾，展现优雅又年轻帅气的造型。 刘冠廷 刘冠廷以《双喜》入围“最佳男主角”，他的红毯造型选穿Emporio Armani 2026 秋冬系列的细条纹长版西装搭配Bvlgari珠宝，透过浪漫的领巾搭配演绎时髦的绅士魅力。 江𤒹生 以《我们不是什么》入围“最佳男配角”的男团Mirror成员江𤒹生，选择以经典简约的黑色宽领片西装搭配Piaget珠宝腕錶首登金马红毯。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
