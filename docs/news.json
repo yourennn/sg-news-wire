@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:00:54+08:00",
+ "generated_at": "2026-11-22T17:10:35+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,10 +13,31 @@
  "articles": [
   {
    "source": "8world",
+   "section": "国际",
+   "time": "Sun, 22 Nov 2026 17:04:29 +0800",
+   "sort_time": "2026-11-22T17:04:29+08:00",
+   "title": "FBI十大通缉毒枭墨西哥落网 枪战致11人死亡",
+   "url": "https://www.8world.com/world/mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-out-3347986",
+   "id": "https://www.8world.com/world/mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-out-3347986",
+   "paragraphs": [
+    "墨西哥毒枭法乌斯托·伊西德罗·梅萨·弗洛雷斯落网。(图：路透社）",
+    "美国联邦调查局（FBI）十大通缉要犯之一、墨西哥毒枭法乌斯托·伊西德罗·梅萨·弗洛雷斯（Fausto Isidro Meza Flores），在墨西哥特种部队展开的逮捕行动中落网。双方爆发激烈枪战，造成七名嫌犯及四名军人死亡。",
+    "据英国广播公司（BBC）报道，墨西哥国防部表示，特种部队星期五（20日）在锡那罗亚州瓜萨韦市（Guasave）逮捕梅萨·弗洛雷斯及另外七人。",
+    "墨西哥当局根据美国提供的情报掌握嫌犯行踪，派出特种部队突袭其藏身地点，并设立包围圈，防止嫌犯逃脱或获得增援。",
+    "不过，部队进入建筑物前遭枪火及爆炸物攻击，双方随后爆发枪战，造成七名嫌犯死亡。另有四名前来增援的墨西哥军人丧命。",
+    "被捕者包括梅萨·弗洛雷斯的副手兼表亲，以及负责组织财务运作的姻亲。三人随后被押送到墨西哥首都墨西哥城接受司法程序，其余五人则留在锡那罗亚州。",
+    "当局也起获多种武器，包括榴弹发射器，以及毒品和现金。",
+    "网上流传的视频显示，直升机疑似向瓜萨韦地面开火，另有民众在听到枪声后，从一座棒球场逃离。",
+    "美国驻埃莫西约总领事馆表示，正密切关注嫌犯落网后，锡那罗亚州多个地区出现武装冲突、道路封锁及车辆起火的报告。",
+    "领事馆提醒当地美国公民警惕潜在暴力事件，并建议居民留在室内避险。"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "体育",
-   "time": "Sun, 22 Nov 2026 16:57:48 +0800",
-   "sort_time": "2026-11-22T16:57:48+08:00",
-   "title": "F1拉斯维加斯大奖赛 维斯塔潘四年内三度夺冠",
+   "time": "Sun, 22 Nov 2026 16:57:00 +0800",
+   "sort_time": "2026-11-22T16:57:00+08:00",
+   "title": "F1拉斯维加斯站：维斯塔潘四年内三度夺冠",
    "url": "https://www.8world.com/sports/f1-las-vegas-grand-prix-max-3347981",
    "id": "https://www.8world.com/sports/f1-las-vegas-grand-prix-max-3347981",
    "paragraphs": [
@@ -674,27 +695,6 @@
     "根据伊朗军事媒体发布的视频，一枚导弹飞向一架飞机，随后飞机附近出现爆炸或闪光。",
     "美国中央司令部否认了这一说法，表示没有任何美军F-16战机遭到袭击，该地区的所有美军战机均安全无恙。",
     "不过，伊朗随即对美方的否认做出反驳，澄清此次行动是由伊朗军队防空部队执行，而非伊斯兰革命卫队（IRGC），并指责美方在发布突发新闻前未核实基本细节。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "东南亚",
-   "time": "Sun, 22 Nov 2026 13:02:02 +0800",
-   "sort_time": "2026-11-22T13:02:02+08:00",
-   "title": "马国空军军机涉跨境运毒 不排除毒品流向印泰汶",
-   "url": "https://www.8world.com/southeast-asia/malaysian-air-force-aircraft-suspected-of-cross-border-drug-smuggling-3347826",
-   "id": "https://www.8world.com/southeast-asia/malaysian-air-force-aircraft-suspected-of-cross-border-drug-smuggling-3347826",
-   "paragraphs": [
-    "空军总司令莫哈末诺拉兹兰。（图：东方日报）",
-    "马来西亚皇家空军军机涉嫌被国际贩毒集团利用走私毒品，多两名空军人员被逮捕。空军总司令莫哈末诺拉兹兰（Mohd Norazlan）指出，毒品可能已通过军机运往印尼、泰国和汶莱，当局已将案件交由警方深入调查。",
-    "据马国《东方日报》报道，莫哈末诺拉兹兰表示，空军飞行员经常执行国际任务，因此不排除毒品走私活动已跨越国界。他指出，行李检查可能存在漏洞，也可能有人利用人脉关系绕过安检。",
-    "莫哈末诺拉兹兰强调，空军对任何涉及军机走私及分销毒品的行为采取零容忍立场，不论涉案者军衔或职位高低。",
-    "案件曝光后，空军已启动内部调查，包括审查被捕人员的背景和纪录。他也承诺保护举报者，并奖励协助揭发案件的人员。",
-    "另一方面，武吉阿曼肃毒组总监胡先奥玛（Hussien Omar）证实，警方已逮捕13名嫌犯，包括七名空军成员及军官，以及六名平民。",
-    "警方此前在雪隆及沙巴纳闽展开一系列行动，起获总值483万令吉（约150万新元）、重达96.64公斤的冰毒，另查获6.98公斤液态化学物质。",
-    "调查显示，涉案集团自今年7月起活跃，涉嫌利用军用运输机先将毒品运往沙巴，再分销至菲律宾和印尼。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
