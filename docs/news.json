@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:00:51+08:00",
+ "generated_at": "2026-11-23T11:10:38+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,27 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Mon, 23 Nov 2026 11:00:07 +0800",
+   "sort_time": "2026-11-23T11:00:07+08:00",
+   "title": "幼教创新沙盒计划选出14项科技方案 助学前教育业者提升效率",
+   "url": "https://www.8world.com/singapore/ecda-new-tech-solutions-3348601",
+   "id": "https://www.8world.com/singapore/ecda-new-tech-solutions-3348601",
+   "paragraphs": [
+    "社会及家庭发展部高级政务部长吴培铭今天（23日）走访盛港Rivervale Shores的M.Y World幼儿园。（图：吕思娴）",
+    "幼儿培育署将在首轮“幼教创新沙盒计划”（Early Childhood Innovation Sandbox）下，支持学前教育业者试行14项科技方案，包括人工智能排班工具、儿童口腔健康监测工具、采用人脸识别技术的儿童接送系统等。",
+    "这些方案旨在减轻幼教人员的行政负担、提高运营效率，让他们有更多时间照顾儿童、规划课程和同家长沟通。",
+    "幼儿培育署共收到超过60份提案，涵盖课程规划、员工排班、儿童学习成长档案制作和视频分析等领域，并根据创新程度、可行性及推广潜力等因素，选出14项进行试行。",
+    "社会及家庭发展部高级政务部长吴培铭今天（23日）走访盛港Rivervale Shores的M.Y World幼儿园，了解中心即将试用的人工智能排班工具。",
+    "这项工具可协助主管编排员工工作时间表，并更有效地安排幼教人员的非接触教学时间（Non-Contact Time），让他们有更多时间专注于教学和儿童发展。",
+    "负责管理近60名员工的幼儿园校长林秀薇表示，目前每周需花超过六小时安排人手。她希望新工具能减轻行政负担，让自己更专注于课程质量和员工培训。",
+    "另一项由Star Learners提出的儿童接送系统，利用人脸识别技术核实家长或监护人的身份，并实时通知教师，减少人工记录和出错风险，确保儿童只交给获授权人士。",
+    "人民行动党社区基金会旗下Sparkletots幼儿园则提出口腔健康监测工具，通过分析儿童牙齿的日常照片，评估他们接受牙科护理的迫切程度。",
+    "14项获选方案预计从2027年初起在相关幼儿园试行，为期约一年。"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "国际",
@@ -441,21 +462,6 @@
    "id": "https://www.8world.com/sports/la-liga-barcelona-3348516",
    "paragraphs": [
     "巴塞罗那队在第13轮比赛中，在上半场落后两球的情况下，绝地大反攻，以3比2逆转战胜比利亚雷亚尔。（图：法新社）",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "体育",
-   "time": "Mon, 23 Nov 2026 08:12:51 +0800",
-   "sort_time": "2026-11-23T08:12:51+08:00",
-   "title": "英超：利物浦4比0大胜曼联",
-   "url": "https://www.8world.com/sports/premier-league-liverpool-thrash-manchester-3348511",
-   "id": "https://www.8world.com/sports/premier-league-liverpool-thrash-manchester-3348511",
-   "paragraphs": [
-    "红军利物浦在第11轮比赛中，以4比0轻取红魔曼彻斯特联队。（图：法新社）",
-    "英格兰超级足球联赛消息： 红军利物浦在第11轮比赛中，以4比0轻取红魔曼彻斯特联队。 赫尔市在补时阶段连进两球，以2比0气走在积分榜上暂居第二的布莱顿。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
