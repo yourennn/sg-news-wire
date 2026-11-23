@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:30:45+08:00",
+ "generated_at": "2026-11-23T22:40:31+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -13,17 +13,36 @@
  "articles": [
   {
    "source": "8world",
-   "section": "国际",
-   "time": "Mon, 23 Nov 2026 22:29:39 +0800",
-   "sort_time": "2026-11-23T22:29:39+08:00",
-   "title": "泽连斯基呼吁尽快举行乌欧美俄四方和平谈判",
-   "url": "https://www.8world.com/world/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible-3349236",
-   "id": "https://www.8world.com/world/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible-3349236",
+   "section": "新加坡",
+   "time": "Mon, 23 Nov 2026 22:35:00 +0800",
+   "sort_time": "2026-11-23T22:35:00+08:00",
+   "title": "黄循财抵达西悉尼新机场 展开三天澳洲正式访问",
+   "url": "https://www.8world.com/singapore/pm-wong-in-australia-3349186",
+   "id": "https://www.8world.com/singapore/pm-wong-in-australia-3349186",
    "paragraphs": [
-    "乌克兰总统泽连斯基呼吁，尽快举行乌克兰、欧洲、美国和俄罗斯参与的四方和平谈判。",
-    "他同时重申，乌克兰希望正式加入北大西洋公约组织，而不只是获得北约成员国提供的安全保障。",
-    "泽连斯基通过视频方式，在德国柏林举行的北约成员国议员会议上发表讲话时表示，乌克兰已做好准备，明天就可以参与四方会谈。",
-    "另一方面，北约秘书长吕特在同一场会议上表示，北约将继续支持乌克兰，但正式接纳新成员必须获得所有成员国一致同意。",
+    "澳洲贸易和旅游部长法雷尔到场迎接黄总理。（图：数码发展及新闻部）",
+    "黄循财总理已抵达澳大利亚悉尼，展开三天正式访问。他也是首位抵达新落成的西悉尼国际机场的外国领导人。黄总理星期二将在堪培拉，同澳大利亚总理阿尔巴尼斯举行会谈。",
+    "黄总理乘搭新航首趟前往西悉尼国际机场的航班抵达澳洲，澳洲贸易和旅游部长法雷尔亲自到场迎接。",
+    "新航也是首家承诺使用这座新机场的国际航空公司，并将开通每日直飞航班，使飞往悉尼地区的航班总数增加到每天五趟。",
+    "澳洲总理阿尔巴尼斯形容，首航标志着两国友好关系迈入新篇章。黄总理和阿尔巴尼斯将共同主持第11届新加坡-澳大利亚年度领导人会议。",
+    "双方预计将重点讨论如何在升级版全面战略伙伴关系框架下，进一步深化两国合作。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "财经",
+   "time": "Mon, 23 Nov 2026 22:32:32 +0800",
+   "sort_time": "2026-11-23T22:32:32+08:00",
+   "title": "黄仁勋重返英伟达 盘前股价飙升近30%",
+   "url": "https://www.8world.com/finance/nvidia-stock-jumps-3349256",
+   "id": "https://www.8world.com/finance/nvidia-stock-jumps-3349256",
+   "paragraphs": [
+    "美国人工智能晶片巨头英伟达。（图：路透社）",
+    "英伟达（NVIDIA）宣布恢复黄仁勋的首席执行官职务后 ，公司股价在美国股市盘前交易中飙升近30%。",
+    "据英国广播公司（BBC）报道，距离纽约股市开盘约15分钟时，英伟达股价在盘前交易中上涨近30%，显示投资者对黄仁勋复职的消息反应积极。",
+    "英伟达股价过去几个星期持续承压，复职消息带动股价大幅反弹。",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
@@ -33,7 +52,7 @@
    "section": "国际",
    "time": "22:29",
    "sort_time": "2026-11-23T22:29:07+08:00",
-   "title": "特朗普：美国需要黄仁勋领导英伟达",
+   "title": "特朗普力挺黄仁勋复职 称他是美国“国宝”",
    "url": "https://www.zaobao.com.sg/news/world/story20261123-10045807",
    "id": "https://www.zaobao.com.sg/news/world/story20261123-10045807",
    "paragraphs": [
@@ -46,6 +65,23 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Mon, 23 Nov 2026 22:29:00 +0800",
+   "sort_time": "2026-11-23T22:29:00+08:00",
+   "title": "泽连斯基呼吁尽快举行乌欧美俄四方和平谈判",
+   "url": "https://www.8world.com/world/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible-3349236",
+   "id": "https://www.8world.com/world/zelensky-calls-for-four-way-talks-with-russia-as-soon-as-possible-3349236",
+   "paragraphs": [
+    "乌克兰总统泽连斯基呼吁，尽快举行乌克兰、欧洲、美国和俄罗斯参与的四方和平谈判。",
+    "他同时重申，乌克兰希望正式加入北大西洋公约组织，而不只是获得北约成员国提供的安全保障。",
+    "泽连斯基通过视频方式，在德国柏林举行的北约成员国议员会议上发表讲话时表示，乌克兰已做好准备，明天就可以参与四方会谈。",
+    "另一方面，北约秘书长吕特在同一场会议上表示，北约将继续支持乌克兰，但正式接纳新成员必须获得所有成员国一致同意。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
    ]
   },
   {
@@ -747,45 +783,6 @@
     "美国今年4月开始封锁伊朗石油出口，6月同伊朗达成初步谅解后，一度解除封锁。不过，双方协议破裂，美国7月中再次实施封锁，导致伊朗近几个月的石油出口量锐减到接近零。",
     "伊朗表示，只有美国停止敌对行动、解除封锁和制裁，才会重新开放具有战略意义的霍尔木兹海峡。",
     "巴加埃说，只要美国满足相关条件，伊朗就能在最短时间内履行承诺。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "娱乐",
-   "time": "Mon, 23 Nov 2026 18:27:52 +0800",
-   "sort_time": "2026-11-23T18:27:52+08:00",
-   "title": "关咏荷62岁近照曝光！惊人容貌根本没老",
-   "url": "https://www.8world.com/e-news/esther-kwan-stuns-in-new-photo-3349046",
-   "id": "https://www.8world.com/e-news/esther-kwan-stuns-in-new-photo-3349046",
-   "paragraphs": [
-    "（综合讯） 香港影帝张家辉与关咏荷2003年结婚，育有一女张童，夫妻感情稳定。息影多年的关咏荷近日罕见曝光近照，62岁的她冻龄状态惊艳网民，更有不少人直呼完全看不出真实年龄！",
-    "有网民近日晒出与张家辉夫妇聚餐的合照，只见关咏荷身穿咖啡色外套，打扮简约优雅，皮肤白皙透亮、秀发乌黑浓密，气色红润，保养得宜。张家辉则戴着鸭舌帽及太阳眼镜，造型低调，同样获赞状态极佳。",
-    "张家辉日前接受吴大维访问，难得重提当年追求关咏荷的甜蜜往事。两人因拍摄《李小龙传》结缘，当时关咏荷已是亚视当家花旦，张家辉事业尚未起飞，面对心仪对象缺乏自信。吴大维忆述，当年赴加拿大拍外景时，张家辉曾向他求助，坦言：“我不知道怎么办呀，我好喜欢她呀！”却又不敢表白。",
-    "在吴大维鼓励下，张家辉终于鼓起勇气示爱，两天后更兴奋报喜：“成功了成功了，她也说喜欢我呀！”吴大维笑称自己是两人的媒人，场面温馨。",
-    "张家辉亦透露，当年是关咏荷主动提出结婚生子，他毫不犹豫答应。如今女儿张童已20岁，他坦言十分紧张女儿，却希望以朋友方式相处。女儿曾有意当作家，但关咏荷担心难以谋生而反对。从昔日害羞追爱到如今家庭幸福，影帝的温柔一面令人称羡。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Mon, 23 Nov 2026 18:16:03 +0800",
-   "sort_time": "2026-11-23T18:16:03+08:00",
-   "title": "榜鹅北将增设宠物狗公园  预计明年第二季竣工",
-   "url": "https://www.8world.com/singapore/punggol-north-new-dog-park-3349006",
-   "id": "https://www.8world.com/singapore/punggol-north-new-dog-park-3349006",
-   "paragraphs": [
-    "榜鹅北将增设宠物狗公园，预计明年第二季竣工。图为设计构想图。（图：Facebook/榜鹅市镇理事会）",
-    "榜鹅北将增设一座宠物狗公园，为宠物狗提供专属空间奔跑、玩耍和互动。公园预计在明年第二季竣工。",
-    "榜鹅市镇理事会今天（23日）在Facebook发文宣布，新公园将坐落在苏芒径（Sumang Walk），靠近第321座组屋的多用途礼堂（Multi-Purpose Hall）一带。",
-    "市镇理事会表示，公园将为狗狗提供安全、舒适的活动环境，同时让宠物主人有机会互相交流，促进邻里之间的联系。",
-    "市镇理事会也表示，希望通过增设更多宠物友善设施，为居民打造更宜居的社区。",
-    "当局尚未公布公园的具体开放日期及设施详情。",
-    "贴文引起不少网民正面回应，尤其是宠物狗主人，对新公园的设立表示期待，认为不仅能让宠物狗自由奔跑，也为狗主人提供交流的空间。",
-    "不过，也有网民担心公园的环境卫生问题，希望市镇理事会加强管理，确保公园保持干净整洁",
     "Download our app and get the latest news updates on-the-go",
     "Mediacorp News Group © 2026"
    ]
