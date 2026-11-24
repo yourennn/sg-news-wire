@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:00:48+08:00",
+ "generated_at": "2026-11-25T06:10:34+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,31 @@
   },
   "8world": {
    "ok": true,
-   "count": 19
+   "count": 18
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Wed, 25 Nov 2026 06:02:00 +0800",
+   "sort_time": "2026-11-25T06:02:00+08:00",
+   "title": "回教社理会推出新援助计划  料逾2万2000名学生受惠",
+   "url": "https://www.8world.com/singapore/mendaki-ready-for-school-scheme-3350156",
+   "id": "https://www.8world.com/singapore/mendaki-ready-for-school-scheme-3350156",
+   "paragraphs": [
+    "回教社理会新援助计划将拨款500万元，每名符合资格的学生可获得250元电子礼券。（图：iStock）",
+    "回教社会发展理事会推出新援助计划，协助有需要家庭减轻孩子新学年的开学开销，预计将有超过2万2000名马来族及回教徒学生受惠。",
+    "回教社理会（MENDAKI）将拨款500万元推动这项计划，每名符合资格的学生可获得250元电子礼券。",
+    "电子礼券可用于课本、学习材料、电子设备与交通等费用，让学生做好开学的准备并专注于学习。",
+    "这项计划开放给每月家庭人均收入不超过1000元的马来族或回教徒新加坡公民及永久居民申请。",
+    "申请者须在2027学年就读本地全日制课程，涵盖小学至首个学士学位课程。",
+    "主管回教事务代部长扎吉哈说：“我认为，要一个家庭一次过承担这么大笔开销并不容易。我们希望这项计划能够帮助更多家长应付孩子开学初期所需的各项费用，尤其是那些无法获得学校经济援助计划资助的家庭，他们更需要我们提供额外的帮助。”",
+    "申请将从2026年12月1日开放至2027年2月28日，有兴趣的学生可在MENDAKI网站上使用个人的Singpass账号登录并提交申请。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
@@ -678,20 +699,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Tue, 24 Nov 2026 20:07:00 +0800",
-   "sort_time": "2026-11-24T20:07:00+08:00",
-   "title": "假期营报名反应热烈 人工智能课程渐受青睐",
-   "url": "https://www.8world.com/singapore/school-holiday-camps-strong-demand-3349911",
-   "id": "https://www.8world.com/singapore/school-holiday-camps-strong-demand-3349911",
-   "paragraphs": [
-    "学校假期到来，全岛各地的假期营都开始忙了起来，有业者表示今年的报名人数同比增加约两成。除了传统的学术课程，人工智能课程也越来越受欢迎，不少家长希望孩子从小接触新科技。 小四学生悠然这个星期开始参加为期六个星期的假期营。 她说：“我喜欢美术类的活动，我已经来参加六年了，我第一次来的时候我觉得活动很喜欢，因为有很多东西我没学过。” 小小地球教育（Little Earth Education）校长毕雨佳指出，越来越多家长不再居家办公，全天假期营的需求明显增加，约八成家长为孩子报名全天假期营，公司必须增加一倍人手应对。 毕雨佳说：“家长们都是双职工，然后在家里孩子们又用比较多的电子产品，所以家长不想要孩子在假期的时候在家里时间特别多，因为这样比较难控制他们的用电子产品的时间。” 开办人工智能课程的Empire AI表示，有不少家长希望孩子在假期期间掌握新科技。年仅四岁的孩童也能报名参加，学习利用人工智能设计游戏、开发应用和制作网站。 Empire AI联合创办人蔡依玲说：“有一些家长会早上问，我可以下午来你们的假期营吗？我觉得他们的报名越来越延迟，我觉得可能是因为9月和10月，尤其是11月很多家长都很忙。” 除了学习新知识，也有家长想让孩子锻炼体魄，学习自我保护能力。 Evolve MMA综合格斗学校的高级运营副总监韦斯利德索萨（Wesley De Souza）说：“许多家长带孩子来这里学习自卫，学会保护自己，同时也希望孩子能够建立更多自信，不要被人欺负。”",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "20:06",
@@ -747,25 +754,6 @@
     "Luna将参与PACX Nights的“FanFest HQ”粉丝专区活动，与其他韩国艺人一起带来舞台亮相及粉丝见面互动，让本地韩流迷有机会近距离接触偶像。",
     "除了韩国艺人，活动也邀请多位本地音乐人参与演出，包括新加坡创作歌手Regina Song、Gareth Fernandez，以及本地DJ及娱乐团队AOS Collective等，为跨年庆祝活动增添音乐元素。",
     "除了娱乐表演，PACX Nights的“Taste Town”美食专区也将邀请多位来自Netflix韩国料理实境节目《黑白大厨》的明星厨师，亲自带来限定快闪餐饮体验，让公众有机会品尝他们的招牌料理。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Tue, 24 Nov 2026 19:48:00 +0800",
-   "sort_time": "2026-11-24T19:48:00+08:00",
-   "title": "俄军空袭乌克兰东南部城市 至少2人死亡41人受伤",
-   "url": "https://www.8world.com/world/russia-attack-on-ukraine-3349996",
-   "id": "https://www.8world.com/world/russia-attack-on-ukraine-3349996",
-   "paragraphs": [
-    "俄乌战争持续，俄罗斯连夜空袭乌克兰东南部城市扎波罗热（Zaporizhzhia）。（图：法新社）",
-    "俄乌战争持续，俄罗斯连夜空袭乌克兰东南部城市扎波罗热（Zaporizhzhia），造成至少2人死亡、41人受伤。",
-    "《法新社》报道，乌克兰国家紧急事务局在Telegram发表声明表示，俄军的其中一枚空投炸弹直接击中一栋五层楼公寓，造成建筑外墙和附近多栋住宅受损。",
-    "根据初步数据，袭击造成2人死亡，41名伤者当中，包括一名婴儿和三名孩童。",
-    "另一方面，俄罗斯国防部表示，俄军防空系统夜间在多个地区，包括莫斯科地区和俄罗斯占领的克里米亚半岛，击落将近700架乌克兰无人机。",
-    "莫斯科市长索比亚宁（Sergey Sobyanin）表示，共有355架无人机飞向莫斯科地区。其中，63架在接近莫斯科市区时被击落。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
    ]
   }
  ]
