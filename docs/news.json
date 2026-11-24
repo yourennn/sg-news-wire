@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:20:36+08:00",
+ "generated_at": "2026-11-24T22:30:46+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,10 +7,27 @@
   },
   "8world": {
    "ok": true,
-   "count": 19
+   "count": 20
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Tue, 24 Nov 2026 22:25:24 +0800",
+   "sort_time": "2026-11-24T22:25:24+08:00",
+   "title": "泰国北部河流受采矿活动污染 跨境治理面临挑战",
+   "url": "https://www.8world.com/southeast-asia/thai-cross-border-pollution-3350066",
+   "id": "https://www.8world.com/southeast-asia/thai-cross-border-pollution-3350066",
+   "paragraphs": [
+    "泰国北部河流受采矿活动污染，威胁居民的健康和生计。当局正加强同缅甸和中国的外交联系，试图解决河水砷含量超标问题，但跨境治理仍面临重重挑战。来看本台驻泰国通讯员萨克席的报道。",
+    "鲇鱼身上长出异常肿块，引发泰国渔民担心当地生态环境正发生变化。河水检测发现砷含量已超出安",
+    "全标准好几倍。泰国当局指污染源头是缅甸掸邦的采矿活动，并建议暂时关闭相关矿场六个月，以缓解污染问题。",
+    "曼谷在泰缅水质联合工作组开会前，率先举行泰国、缅甸和中国代表的三方会议，重点讨论找出污染源头、加强监测，以及减少上游污染的问题。不过缅甸部分矿区已落入武装组织手中。即使泰缅两国能达成具体协议，要真正落实也仍是一大挑战。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "zaobao",
    "section": "新加坡",
