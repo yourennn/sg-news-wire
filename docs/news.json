@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:50:42+08:00",
+ "generated_at": "2026-11-25T10:00:51+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -11,6 +11,44 @@
   }
  },
  "articles": [
+  {
+   "source": "8world",
+   "section": "新加坡",
+   "time": "Wed, 25 Nov 2026 09:59:05 +0800",
+   "sort_time": "2026-11-25T09:59:05+08:00",
+   "title": "黄循财：新澳深化双边合作 为两国人民创造更多机遇",
+   "url": "https://www.8world.com/singapore/pm-lawrence-wong-meets-australian-governor-general-sam-mostyn-3350321",
+   "id": "https://www.8world.com/singapore/pm-lawrence-wong-meets-australian-governor-general-sam-mostyn-3350321",
+   "paragraphs": [
+    "总理黄循财在澳大利亚悉尼，同澳大利亚总督莫斯廷（Sam Mostyn）会面。（图：Facebook）",
+    "黄循财总理在悉尼同澳大利亚总督莫斯廷会面，双方进行了亲切交流。",
+    "黄总理表示，两国在这次访问期间推出多项具体措施，深化双边合作。他强调，两国人民之间的深厚情谊，是维系新澳长期伙伴关系的重要基础。",
+    "Prime Minister Lawrence Wong met Australian Governor-General Sam Mostyn in Sydney, where they held warm and meaningful discussions.",
+    "PM Wong said both countries launched several concrete initiatives to deepen bilateral cooperation and create more opportunities.",
+    "He emphasised that the strong bonds between Singaporeans and Australians will sustain the partnership for generations to come.",
+    "总理黄循财在澳大利亚悉尼，同澳大利亚总督莫斯廷（Sam Mostyn）会面。 总理黄循财在Facebook发文说，继莫斯廷去年8月对新加坡进行国事访问后，两人今天再次会面，并进行了亲切且富有意义的交流。 总理指出，新澳两国在这次访问期间，推出了多项具体合作措施，以深化双边合作，并为两国企业和人民创造更多机会。 他强调，新加坡人和澳大利亚人之间的深厚情谊，是维系两国伙伴关系、让双边合作世代延续的重要基础。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "中港台",
+   "time": "Wed, 25 Nov 2026 09:57:00 +0800",
+   "sort_time": "2026-11-25T09:57:00+08:00",
+   "title": "中国神舟二十四号载三名太空人 成功发射升空",
+   "url": "https://www.8world.com/greater-china/china-shenzhou-3350316",
+   "id": "https://www.8world.com/greater-china/china-shenzhou-3350316",
+   "paragraphs": [
+    "中国神舟二十四号载人飞船载着三名太空人，发射升空。",
+    "《中国中央台》报道，发射任务早上（25日）8点18分，在酒泉卫星发射中心进行。",
+    "执行任务的三名太空人是：汤洪波和武毅、以及来自巴基斯坦的首位外籍航天员穆罕默德·齐尚·阿里。",
+    "他们将在中国空间站，同神舟二十三号乘组人员完成在轨轮换，继续进行空间站维护维修和状态巡检、开展空间科学与应用工作，以及空间搭载试验等。",
+    "其中，巴基斯坦航天员完成短期联合飞行任务后，将随神舟二十三号载人飞船返回地球。神舟二十三号乘组其中一人将继续在轨驻留，完成一年期在轨驻留试验。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
   {
    "source": "8world",
    "section": "娱乐",
@@ -488,23 +526,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "财经",
-   "time": "Wed, 25 Nov 2026 07:20:00 +0800",
-   "sort_time": "2026-11-25T07:20:00+08:00",
-   "title": "英伟达等人工智能科技股波动 拖累美股跌多升少",
-   "url": "https://www.8world.com/finance/us-stocks-3350221",
-   "id": "https://www.8world.com/finance/us-stocks-3350221",
-   "paragraphs": [
-    "晶片巨头英伟达等人工智能科技类股的股价持续波动，导致美国华尔街股市跌多升少。",
-    "道琼斯工商指数起423点，重回五万点以上，报5万零19点；标准与普尔500指数退低36点，报7201点；反映科技股走势的纳斯达克指数滑落356点，报2万3734点。",
-    "交易员说，英伟达首席执行官黄仁勋复职，引发政治干预和监管风险方面的疑问，导致公司股价下挫近6%。另外，上个星期挂牌上市的人工智能公司Anthropic，股价下滑6.5%，报81.9美元，跌破83美元的发售价；其他科技股也整体下跌3%。",
-    "此外，投资人士担心美国政府最快这个星期推出新关税措施，会给市场带来不确定因素，因此选择离场观望。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "07:17",
@@ -544,27 +565,6 @@
     "美国参议院银行委员会主席斯科特星期一说，黄仁勋将于12月3日出席委员会公开听证会。他也预计在12月1日出席众议院三个委员会举行的闭门简报会。",
     "北卡罗来纳州共和党众议员哈里根认为，英伟达此时 恢复黄仁勋的首席执行官职务 并不妥当。他说，这向外界传递了一个危险信号，仿佛个人的经济影响力比良好治理、公民责任和守法更重要。",
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "国际",
-   "time": "Wed, 25 Nov 2026 07:09:00 +0800",
-   "sort_time": "2026-11-25T07:09:00+08:00",
-   "title": "黄仁勋复职后召开员工大会 承认犯错向员工致歉",
-   "url": "https://www.8world.com/world/nvidia-huang-apologizes-to-staff-3350216",
-   "id": "https://www.8world.com/world/nvidia-huang-apologizes-to-staff-3350216",
-   "paragraphs": [
-    "晶片巨头英伟达首席执行官黄仁勋复职。（图：法新社）",
-    "晶片巨头英伟达首席执行官黄仁勋复职后，在公司总部召开员工大会，承认犯错，向员工致歉。",
-    "他在会上坦承犯下严重错误，违反了公司的行为操守。他认为，这是令人无法接受的行为。",
-    "他也承认对妻子不忠，对儿女和员工造成伤害。",
-    "不过，他否认是因为美国总统特朗普向公司董事会施压，才得以复职。他说，董事会是在核查相关事实，并获得政府保证他不会对国家安全构成威胁后，一致通过让他复职。",
-    "较早前，特朗普接受《美国消费者新闻与商业频道》访问时透露，他就让黄仁勋复职一事，同英伟达董事会接触，并说服了董事会。",
-    "《华尔街日报》也报道，黄仁勋感谢政府让公司迅速获得相关信息，从而协助董事会投票表决，让他重返岗位。",
-    "黄仁勋也否认他曾是暴躁苛刻的老板，并在公司扮演过于核心的角色。",
-    "黄仁勋是因为卷入婚外情和疑似间谍风波，而在大约两个星期前辞职。",
-    "Download our app and get the latest news updates on-the-go"
    ]
   },
   {
