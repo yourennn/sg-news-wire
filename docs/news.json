@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T21:00:52+08:00",
+ "generated_at": "2026-11-28T21:10:39+08:00",
  "sources": {
   "zaobao": {
    "ok": true,
@@ -7,15 +7,91 @@
   },
   "8world": {
    "ok": true,
-   "count": 18
+   "count": 20
   }
  },
  "articles": [
   {
    "source": "8world",
+   "section": "movies-shows",
+   "time": "Sat, 28 Nov 2026 21:09:26 +0800",
+   "sort_time": "2026-11-28T21:09:26+08:00",
+   "title": "【金狮大赏】中国演员尹正、刘蕾夺”最佳男、女配角“",
+   "url": "https://www.8world.com/movies-shows/golden-singa-awards-3354201",
+   "id": "https://www.8world.com/movies-shows/golden-singa-awards-3354201",
+   "paragraphs": [
+    "第2届金狮大赏（Golden Singa Awards）颁奖典礼今晚（28日）举行，中国演员尹正凭《得闲谨制》夺得“最佳男配角奖”，刘蕾则凭《翠湖》荣获“最佳女配角奖”。两人皆亲临新加坡领奖，难掩喜悦之情。",
+    "提名“最佳男配角”的演员有王柏杰《96分钟》、于适《镖⼈:⻛起⼤漠》、庄凯勋《祭弑》及王⼽《震⽿欲聋》。",
+    "尹正上台领奖时坦言，完全没想到自己会获奖。",
+    "他透露，早前同事告诉他入围金狮大赏时，他还好奇地问：“哪里的？”得知是新加坡一个相当年轻的奖项后，他便决定无论得奖与否，都要亲自出席。“金狮大赏可能年轻，所以很有性格，我就来了。”",
+    "尹正也再次感谢评审给予的肯定与鼓励，并感性表示，这个奖项对他的演艺生涯别具意义。“这只是一个重新的开始，谢谢给了我的影历一个交代。”",
+    "凭《翠湖》夺得“最佳女配角奖”的刘蕾，同样对获奖感到意外，更透露这是她人生中的第一座表演奖项。",
+    "首次来到新加坡的她坦言，自己其实有些恐飞，没想到这一趟旅程竟带来如此大的惊喜。",
+    "刘蕾表示，看到入围名单上都是非常优秀的演员，原本并未抱太大期望，最终却惊喜抱走奖座。",
+    "虽然已在演艺圈打拼多年，刘蕾仍谦虚地表示，自己还有许多可以学习和进步的地方。 “我是一个老演员了，得到这个奖项鼓励，我还有很大的进步空间，谢谢大家。”",
+    "角逐该奖项的其他入围者有李云霄《镖⼈:⻛起⼤漠》、王晓慧《 给阿嬷的情书 》、吴少卿《给阿嬷的情书》及 杨幂 《⻓安的荔枝》。"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "国际",
+   "time": "Sat, 28 Nov 2026 21:05:00 +0800",
+   "sort_time": "2026-11-28T21:05:00+08:00",
+   "title": "澳洲维州选举今天举行 保守派预料大胜工党",
+   "url": "https://www.8world.com/world/australia-conservatives-win-landslide-victory-in-bellwether-state-3354196",
+   "id": "https://www.8world.com/world/australia-conservatives-win-landslide-victory-in-bellwether-state-3354196",
+   "paragraphs": [
+    "维多利亚州自由党领袖威尔逊。（图：路透社）",
+    "澳大利亚维多利亚州选举今天举行，选举预测结果显示，保守派政党将取得压倒性胜利，总理阿尔巴尼斯领导的工党在维州超过十年的执政地位将终结。",
+    "澳洲国家广播公司预测，维多利亚州自由党领袖威尔逊（Jess Wilson）将出任该州下一任州长。维州是澳洲第二大城市墨尔本的所在地。",
+    "原任维州州长、工党的卡罗尔（Ben Carroll）在这次选举中失去原有的议席，他在投票结束数小时后致电威尔逊，承认败选。",
+    "维州目前债台高筑，负债额居澳洲各州之冠。威尔逊矢言，将恢复财政纪律，整顿州政府财政，并承诺落实规模达200亿澳元的措施，以削减维州的债务。",
+    "舆论认为，工党在被视为风向标的维州败选，将使总理阿尔巴尼斯面临更大的政治压力。",
+    "由于民众普遍不满生活成本持续上涨，阿尔巴尼斯的支持率已跌至历史新低。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "中港台",
+   "time": "Sat, 28 Nov 2026 21:01:00 +0800",
+   "sort_time": "2026-11-28T21:01:00+08:00",
+   "title": "新北市长选举激战 民进党苏巧慧自行宣布败选",
+   "url": "https://www.8world.com/greater-china/taiwan-election-new-taipei-results-3354191",
+   "id": "https://www.8world.com/greater-china/taiwan-election-new-taipei-results-3354191",
+   "paragraphs": [
+    "民进党候选人苏巧慧今晚（28日）自行宣布败选。（图：ETtoday新闻云）",
+    "台湾九合一地方选举的新北市长选战竞争激烈，国民党候选人李四川与民进党候选人苏巧慧的得票数双双突破百万票。随着李四川持续领先，苏巧慧今晚（28日）自行宣布败选。 据台湾ETtoday新闻云报道，苏巧慧于今晚8点47分抵达板桥第二运动场的开票晚会现场，向支持者发表谈话，并宣布败选。 她表示，自己在这次选战中已经拼尽全力。 根据非官方开票数据，李四川获得106万7613票，得票率为51.07%；苏巧慧则获得101万1545票，得票率为48.39%，两人相差5万6068票。 另一名无党籍候选人苏辉煌获得1万1335票，得票率为0.54%。 李四川在开票过程中持续保持领先，苏巧慧虽然紧追在后，最终仍自行宣布败选。",
+    "多相关报道，请浏览 《台湾九合一选举2026》 专页。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
    "section": "东南亚",
-   "time": "Sat, 28 Nov 2026 20:59:18 +0800",
-   "sort_time": "2026-11-28T20:59:18+08:00",
+   "time": "Sat, 28 Nov 2026 21:00:07 +0800",
+   "sort_time": "2026-11-28T21:00:07+08:00",
+   "title": "吉隆坡机场早餐贵吗？ 椰浆饭配咖啡近15新元",
+   "url": "https://www.8world.com/southeast-asia/nasi-lemak-50-ringgit-3354186",
+   "id": "https://www.8world.com/southeast-asia/nasi-lemak-50-ringgit-3354186",
+   "paragraphs": [
+    "一份咖喱鸡椰浆饭售价约为32令吉，海南咖啡则约为11令吉，加上10%服务费及6%销售及服务税后，总额达约50令吉。（图：中国报）",
+    "一名印度尼西亚旅客在马来西亚吉隆坡国际机场转机期间，花费近50令吉（近15新元）享用一份咖喱鸡椰浆饭和一杯海南咖啡，令他大感意外，并质疑马国的生活成本是否已接近新加坡水平，引起网民热议。",
+    "《中国报》报道，这名印尼旅客在社交媒体平台Threads上分享消费收据，显示一份咖喱鸡椰浆饭售价约为32令吉，海南咖啡则约为11令吉，加上10%服务费及6%销售及服务税后，总额达约50令吉。",
+    "贴文引起马国网民热议。一些网民指出，机场餐饮价格通常较高，不能以此衡量马国整体的生活成本，",
+    "也有网民打趣说，当地人也不会花32令吉吃一份咖喱鸡椰浆饭。",
+    "印尼旅客虽然对网民的解释表示理解，但仍然认为这一餐价格偏高。",
+    "Download our app and get the latest news updates on-the-go",
+    "Mediacorp News Group © 2026"
+   ]
+  },
+  {
+   "source": "8world",
+   "section": "东南亚",
+   "time": "Sat, 28 Nov 2026 20:59:00 +0800",
+   "sort_time": "2026-11-28T20:59:00+08:00",
    "title": "菲警调查逾百起涉校园暴力案 加强防范措施",
    "url": "https://www.8world.com/southeast-asia/more-than-100-cases-of-school-violence-3354181",
    "id": "https://www.8world.com/southeast-asia/more-than-100-cases-of-school-violence-3354181",
@@ -481,26 +557,6 @@
    ]
   },
   {
-   "source": "8world",
-   "section": "中港台",
-   "time": "Sat, 28 Nov 2026 18:53:00 +0800",
-   "sort_time": "2026-11-28T18:53:00+08:00",
-   "title": "名字长达16字！“王妃”自行宣布当选桃园市议员",
-   "url": "https://www.8world.com/greater-china/tw-elex-wang-fei-taoyuan-3354016",
-   "id": "https://www.8world.com/greater-china/tw-elex-wang-fei-taoyuan-3354016",
-   "paragraphs": [
-    "16个字王妃参选台湾桃园市议员。（图：Facebook/王妃天崩开局穿越整顿霸凌者佀广洋）",
-    "台湾一位名字长达16个字的候选人自行宣布当选台湾桃园市议员。",
-    "《ET Today》报道，这名候选人的姓名是“王妃天崩开局穿越整顿霸凌者佀广洋”，简称“王妃”。她在桃园第一选区参选，开票后票数一路领先。",
-    "王妃今天(28日)下午也现身投开票所。由于选务人员开票时必须不断念出她的16字全名，她还一度道歉，表示让工作人员费心了。",
-    "期间有选务人员一度只念“王妃”，还被现场选民纠正，但王妃表示没关系。",
-    "王妃是网红 ，她是为挑战卷入校园霸凌等争议的议员之子佀广洋，特意改名参选桃园市议员。",
-    "更多相关报道，请浏览 《台湾九合一选举2026》 专页。",
-    "Download our app and get the latest news updates on-the-go",
-    "Mediacorp News Group © 2026"
-   ]
-  },
-  {
    "source": "zaobao",
    "section": "国际",
    "time": "18:47",
@@ -519,27 +575,6 @@
     "MDDI (P) 025/05/2026, MDDI (P) 026/05/2026 新报业媒体有限公司版权所有（公司登记号：202120748H） 在中国的用户请游览 zaobao.com",
     "提醒：新加坡网络业者若未经许可，擅自引用本网内容将面对法律行动。",
     "第三方公司可能在早报网站宣传他们的产品或服务。不过您跟第三方公司的任何交易与早报网站无关，早报将不会对可能引起的任何损失负责。"
-   ]
-  },
-  {
-   "source": "8world",
-   "section": "新加坡",
-   "time": "Sat, 28 Nov 2026 18:41:40 +0800",
-   "sort_time": "2026-11-28T18:41:40+08:00",
-   "title": "惹兰勿刹保时捷追尾垃圾车 三车连环撞致一人送院",
-   "url": "https://www.8world.com/singapore/porsche-boxster-garbage-truck-accident-jalan-besar-3353931",
-   "id": "https://www.8world.com/singapore/porsche-boxster-garbage-truck-accident-jalan-besar-3353931",
-   "paragraphs": [
-    "开蓬跑车撞上垃圾车。（图：Facebook/SG Road Vigilante）",
-    "惹兰勿刹发生一起涉及垃圾车与两辆轿车的交通意外。一辆保时捷敞篷跑车追尾撞上垃圾车，导致一人受伤送院，另一人受轻伤但拒绝送院。",
-    "这起意外发生在前天（26日）晚上月7点55分。",
-    "根据Facebook页面SG Road Vigilante上传的照片显示，事发地点位于惹兰勿刹往明古连街（Bencoolen Street）方向的路段。",
-    "一辆深银灰色的保时捷敞篷跑车撞上可瑞（CORA）垃圾车的尾部，导致跑车右侧车头保险杠凹陷，左侧车门及左后翼子板也明显受损。",
-    "另外，保时捷和垃圾车的左侧车道则停放着另一辆银白色韩国现代轿车。",
-    "新加坡民防部队在回复《8视界新闻网》询问时证实，当局在傍晚7点55分左右接获通报。",
-    "“一名68岁男司机在意识清醒的状态下被送往陈笃生医院接受治疗，另一人则受轻伤，经评估后拒绝送院。”",
-    "警方受询时表示，一名66岁女司机目前正协助调查，案件仍在进一步调查中。",
-    "Download our app and get the latest news updates on-the-go"
    ]
   },
   {
